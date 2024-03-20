@@ -21,7 +21,7 @@ const express= require("express");
     });
 
     app.get("/", (req, res) => {
-        const n1 = "<html><body><H1>HELLO THERE </H1></body></html>";
+        const n1 = "<html><body><H1>HELLO </H1></body></html>";
         res.set('Content-Type', 'text/html');
         res.send(Buffer.from(n1));     
     })
@@ -31,7 +31,7 @@ const express= require("express");
     const port=3040;
     // server, logs message
     app.listen(port,()=> {
-        console.log("hello i'm listening to port "+port);
+        console.log("hello this is my first test "+port);
     })
     
     // view in browser
