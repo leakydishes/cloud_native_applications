@@ -41,3 +41,7 @@
 {"level":"info","message":"Modulo parameters received: -10 % 45","service":"calculate-service"}
 {"level":"error","message":"n1 or n2 is incorrectly defined for modulo","service":"calculate-service"}
 {"level":"error","message":"Error: n1 or n2 is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"Invalid input numbers, must be valid numbers","service":"calculate-service"}
+{"level":"error","message":"Error: Invalid input numbers, must be valid numbers","service":"calculate-service"}
+{"level":"error","message":"Invalid input numbers, must be valid numbers","service":"calculate-service"}
+{"level":"error","message":"Error: Invalid input numbers, must be valid numbers","service":"calculate-service"}

@@ -158,12 +158,7 @@ app.get("/exponentiate", (req, res) => {
     try {
         const base = parseFloat(req.query.base);
         const exponent = parseFloat(req.query.exponent);
-        if (isNaN(base) || isNaN(exponent)) {
-            logger.error("Base or exponent is incorrectly defined");
-            throw new Error("Base or exponent is incorrectly defined");
-        }
-
-        logger.info(`Exponentiation parameters received: ${base} to the power of ${exponent}`);
+        validateInput(base, exponent); // Uses new Validate input method
         const result = exponentiate(base, exponent);
         res.status(200).json({ statuscode: 200, data: result });
     } catch (error) {
@@ -195,16 +190,11 @@ app.get("/modulo", (req, res) => {
     try {
         const n1 = parseFloat(req.query.n1);
         const n2 = parseFloat(req.query.n2);
-        if (isNaN(n1) || isNaN(n2)) {
-            logger.error("n1 or n2 is incorrectly defined for modulo");
-            throw new Error("n1 or n2 is incorrectly defined");
-        }
+        validateInput(n1, n2); // Uses new Validate input method
         if (n2 === 0) {
             logger.error("Attempt to modulo by zero");
             throw new Error("Modulo by zero is not allowed");
         }
-
-        logger.info(`Modulo parameters received: ${n1} % ${n2}`);
         const result = modulo(n1, n2);
         res.status(200).json({ statuscode: 200, data: result });
     } catch (error) {
@@ -248,7 +238,7 @@ app.listen( port, ()=> {
 
 // /exponentiate
 // http://localhost:3040/exponentiate?base=2&exponent=3
-// http://localhost:3040/exponentiate?base=2&exponent=3
+// http://localhost:3040/exponentiate?base=2&exponent=6
 // http://localhost:3040/exponentiate?base=5&exponent=0
 // http://localhost:3040/exponentiate?base=text&exponent=2
 
@@ -260,6 +250,8 @@ app.listen( port, ()=> {
 // /modulo
 // http://localhost:3040/modulo?n1=10&n2=3
 // http://localhost:3040/modulo?n1=10&n2=3
-// http://localhost:3040/modulo?n1=-10&n2=3
+// http://localhost:3040/modulo?n1=-10&n2=45
 // http://localhost:3040/modulo?n1=text&n2=5
 
+// run app in terminal
+// node calculatorwithlogger.js
