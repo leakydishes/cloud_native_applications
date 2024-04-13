@@ -1,0 +1,43 @@
+("level":"error", "message":"n1 is incorrectly defined", "service":"calculate-service"}{"level":"info","message":"Parameters 674 and 7867 received for addition","service":"calculate-service"}
+{"level":"error","message":"Invalid input numbers for subtraction","service":"calculate-service"}
+{"level":"error","message":"Error: Invalid input numbers, must be valid numbers","service":"calculate-service"}
+{"level":"error","message":"Invalid input numbers for subtraction","service":"calculate-service"}
+{"level":"error","message":"Error: Invalid input numbers, must be valid numbers","service":"calculate-service"}
+{"level":"error","message":"Invalid input numbers for subtraction","service":"calculate-service"}
+{"level":"error","message":"Error: Invalid input numbers, must be valid numbers","service":"calculate-service"}
+{"level":"error","message":"Invalid input numbers for subtraction","service":"calculate-service"}
+{"level":"error","message":"Error: Invalid input numbers, must be valid numbers","service":"calculate-service"}
+{"level":"info","message":"Parameters 500 and 200 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters -10 and -20 received for addition","service":"calculate-service"}
+{"level":"info","message":"Parameters 123.45 and 678.9 received for addition","service":"calculate-service"}
+{"level":"error","message":"n1 is incorectly defined","service":"calculate-service"}
+{"level":"info","message":"Subtraction parameters received: 200 and 100","service":"calculate-service"}
+{"level":"info","message":"Subtraction parameters received: 0 and 0","service":"calculate-service"}
+{"level":"info","message":"Subtraction parameters received: 1000.5 and 500.25","service":"calculate-service"}
+{"level":"error","message":"n1 or n2 is incorrectly defined for subtraction","service":"calculate-service"}
+{"level":"error","message":"Error: Invalid input numbers, must be valid numbers","service":"calculate-service"}
+{"level":"info","message":"Division parameters received: 50 and 2","service":"calculate-service"}
+{"level":"info","message":"Division parameters received: 7.5 and 0.5","service":"calculate-service"}
+{"level":"error","message":"Attempt to divide by zero","service":"calculate-service"}
+{"level":"error","message":"Error: Division by zero is not allowed","service":"calculate-service"}
+{"level":"info","message":"Division parameters received: 7.5 and 0.5","service":"calculate-service"}
+{"level":"info","message":"Multiplication parameters received: 6 and 7","service":"calculate-service"}
+{"level":"info","message":"Multiplication parameters received: 5 and 2","service":"calculate-service"}
+{"level":"info","message":"Multiplication parameters received: 2.5 and 4.4","service":"calculate-service"}
+{"level":"error","message":"n1 or n2 is incorrectly defined for multiplication","service":"calculate-service"}
+{"level":"error","message":"Error: Invalid input numbers, must be valid numbers","service":"calculate-service"}
+{"level":"info","message":"Exponentiation parameters received: 2 to the power of 3","service":"calculate-service"}
+{"level":"info","message":"Exponentiation parameters received: 2 to the power of 3","service":"calculate-service"}
+{"level":"info","message":"Exponentiation parameters received: 2 to the power of 6","service":"calculate-service"}
+{"level":"info","message":"Exponentiation parameters received: 5 to the power of 0","service":"calculate-service"}
+{"level":"error","message":"Base or exponent is incorrectly defined","service":"calculate-service"}
+{"level":"error","message":"Error: Base or exponent is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Square root parameter received: 16","service":"calculate-service"}
+{"level":"info","message":"Square root parameter received: 20","service":"calculate-service"}
+{"level":"error","message":"Input value is incorrectly defined for square root","service":"calculate-service"}
+{"level":"error","message":"Error: Input value is incorrectly defined","service":"calculate-service"}
+{"level":"info","message":"Modulo parameters received: 10 % 3","service":"calculate-service"}
+{"level":"info","message":"Modulo parameters received: 10 % 3","service":"calculate-service"}
+{"level":"info","message":"Modulo parameters received: -10 % 45","service":"calculate-service"}
+{"level":"error","message":"n1 or n2 is incorrectly defined for modulo","service":"calculate-service"}
+{"level":"error","message":"Error: n1 or n2 is incorrectly defined","service":"calculate-service"}
