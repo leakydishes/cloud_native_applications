@@ -1,6 +1,5 @@
 ("level":"error", "message":"n1 is incorrectly defined", "service":"calculate-service"}{"level":"error","message":"Invalid input numbers for subtraction","service":"calculate-service"}
 {"level":"error","message":"Error: Invalid input numbers, must be valid numbers","service":"calculate-service"}
-
 {"level":"error","message":"n1 is incorectly defined","service":"calculate-service"}
 {"level":"error","message":"n1 or n2 is incorrectly defined for subtraction","service":"calculate-service"}
 {"level":"error","message":"Error: Invalid input numbers, must be valid numbers","service":"calculate-service"}

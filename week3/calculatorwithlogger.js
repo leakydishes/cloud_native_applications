@@ -163,4 +163,4 @@ app.listen( port, ()=> {
 // http://localhost:3040/multiply?n1=6&n2=7
 // http://localhost:3040/multiply?n1=5&n2=2
 // http://localhost:3040/multiply?n1=2.5&n2=4.4
-// http://localhost:3040/multiply?n1=text&n2=1
+// http://localhost:3040/multiply?n1=text&n2=100
