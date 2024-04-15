@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  webapp:
+    image: leakyoyster/nodewebapp:1.1.1
+    ports:
+      - "3040:3040"
+    environment:
+      - NODE_ENV=production

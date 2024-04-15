@@ -253,5 +253,11 @@ app.listen( port, ()=> {
 // http://localhost:3040/modulo?n1=-10&n2=45
 // http://localhost:3040/modulo?n1=text&n2=5
 
+// Test new Validation method
+// http://localhost:3040/exponentiate?base=5&exponent=3
+// http://localhost:3040/exponentiate?base=5&exponent=text
+// http://localhost:3040/modulo?n1=13&n2=5
+// http://localhost:3040/modulo?n1=text&n2=5
+
 // run app in terminal
 // node calculatorwithlogger.js
