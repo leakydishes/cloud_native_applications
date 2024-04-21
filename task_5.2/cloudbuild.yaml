@@ -1,0 +1,3 @@
+steps:
+- name: 'gcr.io/cloud-builders/docker'
+  args: [ 'build', '-t', 'australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app/australia-southeast1-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app', '.' ]

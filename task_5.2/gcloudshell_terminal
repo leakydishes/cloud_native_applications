@@ -1,0 +1,312 @@
+Welcome to Cloud Shell! Type "help" to get started.
+Your Cloud Platform project in this session is set to sit323-24t1-te-claire-15b5962.
+Use “gcloud config set project [PROJECT_ID]” to change to a different project.
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ gcloud auth configure-docker australia-
+southeast2-docker.pkg.dev
+WARNING: Your config file at [/home/s220320033/.docker/config.json] contains these credential helper entries:
+
+{
+  "credHelpers": {
+    "africa-south1-docker.pkg.dev": "gcloud",
+    "asia-docker.pkg.dev": "gcloud",
+    "asia-east1-docker.pkg.dev": "gcloud",
+    "asia-east2-docker.pkg.dev": "gcloud",
+    "asia-northeast1-docker.pkg.dev": "gcloud",
+    "asia-northeast2-docker.pkg.dev": "gcloud",
+    "asia-northeast3-docker.pkg.dev": "gcloud",
+    "asia-south1-docker.pkg.dev": "gcloud",
+    "asia-south2-docker.pkg.dev": "gcloud",
+    "asia-southeast1-docker.pkg.dev": "gcloud",
+    "asia-southeast2-docker.pkg.dev": "gcloud",
+    "australia-southeast1-docker.pkg.dev": "gcloud",
+    "australia-southeast2-docker.pkg.dev": "gcloud",
+    "europe-docker.pkg.dev": "gcloud",
+    "europe-central2-docker.pkg.dev": "gcloud",
+    "europe-north1-docker.pkg.dev": "gcloud",
+    "europe-southwest1-docker.pkg.dev": "gcloud",
+    "europe-west1-docker.pkg.dev": "gcloud",
+    "europe-west10-docker.pkg.dev": "gcloud",
+    "europe-west12-docker.pkg.dev": "gcloud",
+    "europe-west2-docker.pkg.dev": "gcloud",
+    "europe-west3-docker.pkg.dev": "gcloud",
+    "europe-west4-docker.pkg.dev": "gcloud",
+    "europe-west6-docker.pkg.dev": "gcloud",
+    "europe-west8-docker.pkg.dev": "gcloud",
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ docker pull \
+    us-docker.pkg.dev/google-samples/containers/gke/hello-app:1.0
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ docker pull australia-southeast2-docker.pkg.dev/google-samples/containers/gke/hello-app:1.0
+Error response from daemon: Head "https://australia-southeast2-docker.pkg.dev/v2/google-samples/containers/gke/hello-app/manifests/1.0": denied: Permission "artifactregistry.repositories.downloadArtifacts" denied on resource "projects/google-samples/locations/australia-southeast2/repositories/containers" (or it may not exist)
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ gcloud auth list
+Credentialed Accounts
+
+ACTIVE: *
+ACCOUNT: s220320033@deakin.edu.au
+
+To set the active account, run:
+    $ gcloud config set account `ACCOUNT`
+
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ gcloud config list project
+[core]
+project = sit323-24t1-te-claire-15b5962
+
+Your active configuration is: [cloudshell-12404]
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ gcloud artifacts repositories list --location=australia-southeast2
+Listing items under project sit323-24t1-te-claire-15b5962, location australia-southeast2.
+
+ARTIFACT_REGISTRY
+
+REPOSITORY: docker-repo
+FORMAT: DOCKER
+MODE: STANDARD_REPOSITORY
+DESCRIPTION: Docker container
+LOCATION: australia-southeast2
+LABELS: 
+ENCRYPTION: Google-managed key
+CREATE_TIME: 2024-04-21T03:55:21
+UPDATE_TIME: 2024-04-21T03:55:21
+SIZE (MB): 0
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ docker pull australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/docker-repo/hello-app:1.0
+Error response from daemon: manifest for australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/docker-repo/hello-app:1.0 not found: manifest unknown: Failed to fetch "1.0"
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ gcloud artifacts docker images list australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/docker-repo/hello-app
+Listing items under project sit323-24t1-te-claire-15b5962, location australia-southeast2, repository docker-repo.
+
+Listed 0 items.
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ docker tag hello-world:latest australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/docker-repo/hello-app:1.0
+Error response from daemon: No such image: hello-world:latest
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ docker pull hello-world
+Using default tag: latest
+latest: Pulling from library/hello-world
+c1ec31eb5944: Pull complete 
+Digest: sha256:a26bff933ddc26d5cdf7faa98b4ae1e3ec20c4985e6f87ac0973052224d24302
+Status: Downloaded newer image for hello-world:latest
+docker.io/library/hello-world:latest
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ docker tag hello-world:latest australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/docker-repo/hello-app:1.0
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ docker images
+REPOSITORY                                                                                TAG       IMAGE ID       CREATED         SIZE
+us-docker.pkg.dev/google-samples/containers/gke/hello-app                                 1.0       dd1b12fcb609   5 months ago    27.2MB
+australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/docker-repo/hello-app   1.0       d2c94e258dcb   11 months ago   13.3kB
+hello-world                                                                               latest    d2c94e258dcb   11 months ago   13.3kB
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ docker push australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/docker-repo/hello-app:1.0
+The push refers to repository [australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/docker-repo/hello-app]
+ac28800ec8bb: Pushed 
+1.0: digest: sha256:d37ada95d47ad12224c205a938129df7a3e52345828b4fa27b03a98825d1e2e7 size: 524
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ docker pull australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/docker-repo/hello-app:1.0
+1.0: Pulling from sit323-24t1-te-claire-15b5962/docker-repo/hello-app
+Digest: sha256:d37ada95d47ad12224c205a938129df7a3e52345828b4fa27b03a98825d1e2e7
+Status: Image is up to date for australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/docker-repo/hello-app:1.0
+australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/docker-repo/hello-app:1.0
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ docker run -p 8080:8080 --name my-microservice australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/docker-repo/hello-app:1.0
+
+Hello from Docker!
+This message shows that your installation appears to be working correctly.
+
+To generate this message, Docker took the following steps:
+ 1. The Docker client contacted the Docker daemon.
+ 2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+    (amd64)
+ 3. The Docker daemon created a new container from that image which runs the
+    executable that produces the output you are currently reading.
+ 4. The Docker daemon streamed that output to the Docker client, which sent it
+    to your terminal.
+
+To try something more ambitious, you can run an Ubuntu container with:
+ $ docker run -it ubuntu bash
+
+Share images, automate workflows, and more with a free Docker ID:
+ https://hub.docker.com/
+
+For more examples and ideas, visit:
+ https://docs.docker.com/get-started/
+
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ docker logs my-microservice
+
+Hello from Docker!
+This message shows that your installation appears to be working correctly.
+
+To generate this message, Docker took the following steps:
+ 1. The Docker client contacted the Docker daemon.
+ 2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+    (amd64)
+ 3. The Docker daemon created a new container from that image which runs the
+    executable that produces the output you are currently reading.
+ 4. The Docker daemon streamed that output to the Docker client, which sent it
+    to your terminal.
+
+To try something more ambitious, you can run an Ubuntu container with:
+ $ docker run -it ubuntu bash
+
+Share images, automate workflows, and more with a free Docker ID:
+ https://hub.docker.com/
+
+For more examples and ideas, visit:
+ https://docs.docker.com/get-started/
+
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ docker stop my-microservice
+my-microservice
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ docker run -p 8080:8080 --name my-web-app my-app
+Unable to find image 'my-app:latest' locally
+docker: Error response from daemon: pull access denied for my-app, repository does not exist or may require 'docker login': denied: requested access to the resource is denied.
+See 'docker run --help'.
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ docker run -p 8080:8080 --name my-web-app australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/docker-repo/hello-app:1.0
+
+Hello from Docker!
+This message shows that your installation appears to be working correctly.
+
+To generate this message, Docker took the following steps:
+ 1. The Docker client contacted the Docker daemon.
+ 2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+    (amd64)
+ 3. The Docker daemon created a new container from that image which runs the
+    executable that produces the output you are currently reading.
+ 4. The Docker daemon streamed that output to the Docker client, which sent it
+    to your terminal.
+
+To try something more ambitious, you can run an Ubuntu container with:
+ $ docker run -it ubuntu bash
+
+Share images, automate workflows, and more with a free Docker ID:
+ https://hub.docker.com/
+
+For more examples and ideas, visit:
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ docker run -p 8080:8080 --name my-microservice australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/docker-repo/hello-app:1.0
+docker: Error response from daemon: Conflict. The container name "/my-microservice" is already in use by container "d5622d1a41d380693733c25aa45ae15d6ccb8de9e33a55186f0117000c8cd340". You have to remove (or rename) that container to be able to reuse that name.
+See 'docker run --help'.
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ docker exec my-microservice curl http://localhost:8080
+Error response from daemon: container d5622d1a41d380693733c25aa45ae15d6ccb8de9e33a55186f0117000c8cd340 is not running
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ docker run -p 8080:8080 --name my-microservice australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/docker-repo/hello-app:1.0
+docker: Error response from daemon: Conflict. The container name "/my-microservice" is already in use by container "d5622d1a41d380693733c25aa45ae15d6ccb8de9e33a55186f0117000c8cd340". You have to remove (or rename) that container to be able to reuse that name.
+See 'docker run --help'.
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ docker run -p 8081:8080 --name my-microservice-new australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/docker-repo/hello-app:1.0
+
+Hello from Docker!
+This message shows that your installation appears to be working correctly.
+
+To generate this message, Docker took the following steps:
+ 1. The Docker client contacted the Docker daemon.
+ 2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+    (amd64)
+ 3. The Docker daemon created a new container from that image which runs the
+    executable that produces the output you are currently reading.
+ 4. The Docker daemon streamed that output to the Docker client, which sent it
+    to your terminal.
+
+To try something more ambitious, you can run an Ubuntu container with:
+ $ docker run -it ubuntu bash
+
+Share images, automate workflows, and more with a free Docker ID:
+ https://hub.docker.com/
+
+For more examples and ideas, visit:
+ https://docs.docker.com/get-started/
+
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ docker ps
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ docker rm $(docker ps -a -q)
+0e9905e72793
+f742e37653fe
+d5622d1a41d3
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ 
+
+tralia-southeast1-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app
+ERROR: (gcloud.builds.submit) HTTPError 412: 'us' violates constraint 'constraints/gcp.resourceLocations'
+s220320033@cloudshell:~/web-app (sit323-24t1-te-claire-15b5962)$ gcloud builds submit --tag australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app/australia- southeast2-docker.pkg.dev/sit323-24t1-te-calaire-15b5962/web-app
+ERROR: (gcloud.builds.submit) HTTPError 412: 'us' violates constraint 'constraints/gcp.resourceLocations'
+s220320033@cloudshell:~/web-app (sit323-24t1-te-claire-15b5962)$ find . -name "cloudbuild.yaml"
+./cloudbuild.yaml
+s220320033@cloudshell:~/web-app (sit323-24t1-te-claire-15b5962)$ find . -name "cloudbuild.yaml" -exec ls -l {} \;
+-rw-rw-r-- 1 s220320033 s220320033 228 Apr 21 06:38 ./cloudbuild.yaml
+s220320033@cloudshell:~/web-app (sit323-24t1-te-claire-15b5962)$ docker run australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app/australia-southeast1-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app
+Unable to find image 'australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app/australia-southeast1-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app:latest' locally
+docker: Error response from daemon: manifest for australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app/australia-southeast1-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app:latest not found: manifest unknown: Failed to fetch "latest".
+See 'docker run --help'.
+s220320033@cloudshell:~/web-app (sit323-24t1-te-claire-15b5962)$ docker imags
+docker: 'imags' is not a docker command.
+See 'docker --help'
+s220320033@cloudshell:~/web-app (sit323-24t1-te-claire-15b5962)$ docker images
+REPOSITORY                                                                                TAG       IMAGE ID       CREATED             SIZE
+australia-southeast1-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app                 latest    c0b8a9bf4761   About an hour ago   919MB
+australia-southeast1-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app                 v1        c0b8a9bf4761   About an hour ago   919MB
+gcr.io/project-1/simple-web-app                                                           v1        c0b8a9bf4761   About an hour ago   919MB
+gcr.io/sit323-24t1-te-claire-15b5962/web-app                                              v1        c0b8a9bf4761   About an hour ago   919MB
+us-docker.pkg.dev/google-samples/containers/gke/hello-app                                 1.0       dd1b12fcb609   5 months ago        27.2MB
+australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/docker-repo/hello-app   1.0       d2c94e258dcb   11 months ago       13.3kB
+hello-world                                                                               latest    d2c94e258dcb   11 months ago       13.3kB
+s220320033@cloudshell:~/web-app (sit323-24t1-te-claire-15b5962)$ docker run australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app/australia-southeast1-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app
+Unable to find image 'australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app/australia-southeast1-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app:latest' locally
+docker: Error response from daemon: manifest for australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app/australia-southeast1-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app:latest not found: manifest unknown: Failed to fetch "latest".
+See 'docker run --help'.
+s220320033@cloudshell:~/web-app (sit323-24t1-te-claire-15b5962)$ docker run australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app/australia-southeast1-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app:latest
+Unable to find image 'australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app/australia-southeast1-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app:latest' locally
+docker: Error response from daemon: manifest for australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app/australia-southeast1-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app:latest not found: manifest unknown: Failed to fetch "latest".
+See 'docker run --help'.
+s220320033@cloudshell:~/web-app (sit323-24t1-te-claire-15b5962)$ docker run australia-southeast1-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app:latest
+Web app running on http://localhost:8080
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ docker run -p 8080:8080 australia-southeast1-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app:latest
+Web app running on http://localhost:8080
+
+
+
+Welcome to Cloud Shell! Type "help" to get started.
+Your Cloud Platform project in this session is set to sit323-24t1-te-claire-15b5962.
+Use “gcloud config set project [PROJECT_ID]” to change to a different project.
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ ls
+README-cloudshell.txt  web-app
+s220320033@cloudshell:~ (sit323-24t1-te-claire-15b5962)$ cd web-app
+s220320033@cloudshell:~/web-app (sit323-24t1-te-claire-15b5962)$ ls
+app.js  cloudbuild.yaml  Dockerfile  node_modules  package.json  package-lock.json
+s220320033@cloudshell:~/web-app (sit323-24t1-te-claire-15b5962)$ cat Dockerfile
+# Use the official Node.js 14 image as a parent image
+FROM node:14
+
+# Set the working directory
+WORKDIR /usr/src/app
+
+# Copy package.json and package-lock.json
+COPY package*.json ./
+
+# Install dependencies
+RUN npm install
+
+# Copy the rest of your application's source code
+COPY . .
+
+# Make port 8080 available to the world outside this container
+EXPOSE 8080
+
+# Run the application when the container launches
+CMD ["node", "app.js"]
+s220320033@cloudshell:~/web-app (sit323-24t1-te-claire-15b5962)$ cat app.js
+const express = require('express');
+const app = express();
+
+app.get('/', (req, res) => {
+  res.send('Hello, world! This is my web app!');
+});
+
+const port = process.env.PORT || 8080;
+app.listen(port, () => {
+  console.log(`Web app running on http://localhost:${port}`);
+});
+s220320033@cloudshell:~/web-app (sit323-24t1-te-claire-15b5962)$ cat cloudbuild.yaml
+steps:
+- name: 'gcr.io/cloud-builders/docker'
+  args: [ 'build', '-t', 'australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app/australia-southeast1-docker.pkg.dev/sit323-24t1-te-claire-15b5962/web-app', '.' ]
+s220320033@cloudshell:~/web-app (sit323-24t1-te-claire-15b5962)$ cat node_modules
+cat: node_modules: Is a directory
+s220320033@cloudshell:~/web-app (sit323-24t1-te-claire-15b5962)$ cat package.json
+{
+  "name": "web-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
+s220320033@cloudshell:~/web-app (sit323-24t1-te-claire-15b5962)$ 
