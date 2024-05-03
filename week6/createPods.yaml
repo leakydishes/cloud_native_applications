@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Pod # What kind of objects to create (pod)
+metadata: # Things related to the pod docker run --mypod
+  name: mypod # Keyword
+  labels: # Like hashtags
+    tier: frontend1 # Define application
+spec: # How to create the pod
+  containers:
+  - image: leakydishes/node-web-app:1.1.1
+    name: nodewebapp
+    ports:
+    - containerPort: 3040
+  dnsPolicy: ClusterFirst
+  restartPolicy: Always # Restart container policy
+  

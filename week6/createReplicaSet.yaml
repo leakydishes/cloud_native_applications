@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: ReplicaSet 
+metadata: 
+  name: myreplicaset
+  labels: # Hashtags
+    app: myapp
+    tier: frontend
+spec:
+  # Creates these replicas
+  replicas: 3 # Create 3
+  selector:
+    matchLabels:
+      tier: frontend
+  template: # Based on this structure you create 3
+    metadata:
+      labels:
+        tier: frontend
+    spec:
+      containers:
+      - name: mynode
+        image: leakydishes/node-web-app:1.1.1
+        ports:
+        - containerPort: 3040

@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment # Type
+metadata:
+  name: mydeployment
+  labels:
+    app: myapp 
+    tier: frontend
+spec:
+  # Replicas of 3 
+  replicas: 3
+  selector:
+    matchLabels:
+      tier: frontend
+  template: # Structure used
+    metadata:
+      labels:
+        tier: frontend
+    spec:
+      containers:
+      - name: mynode
+        image: leakydishes/node-web-app:1.1.1
+        ports:
+        - containerPort: 3040
