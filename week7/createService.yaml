@@ -1,0 +1,15 @@
+apiVersion: v1 # Version 1 of the API
+kind: Service # Type of Service object
+metadata:
+  name: mongo-svc #  Name of the Service object
+spec:
+  ports:
+    - port: 27017 # Service will expose port
+      protocol: TCP # Protocol used for this port
+      targetPort: 27017 # Traffic sent to port 27017 forwarded to port 27017 on backend pods
+      nodePort: 32000 # Accessible on node port
+  selector:
+    app: mongo # Pods with a label app: mongo are selected as backend targets
+  type: NodePort # Accessed from outside the cluster
+
+  

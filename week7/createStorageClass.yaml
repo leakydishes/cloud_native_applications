@@ -1,0 +1,7 @@
+apiVersion: storage.k8s.io/v1 # Kubernetes Storage API, version 1 of the Storage API
+kind: StorageClass # Type of StorageClass object
+metadata:
+  name: demo-storage # Name of the StorageClass object
+provisioner: docker.io/hostpath # Provisioner that will be used to provision the storage! Map to directories on the host machine
+volumeBindingMode: Immediate # Bind to a Persistent Volume (PV) immediately when a Persistent Volume Claim
+reclaimPolicy: Delete # When a PVC is deleted, the underlying storage will be deleted as well 

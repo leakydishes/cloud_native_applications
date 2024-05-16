@@ -1,0 +1,20 @@
+# creating kind persistent volume mongoDB with 1gb storage
+apiVersion: v1 The version of the Kubernetes API to use
+kind: PersistentVolume
+metadata:
+  name: mongo-pv
+spec:
+  capacity:
+    storage: 1Gi # 1GB
+  accessModes:
+    - ReadWriteMany
+  local: # Updated to my file path
+    path: /run/desktop/mnt/host/Users/teclaire/sit323/cloud_native_applications/week7/MyMappedFolder
+  nodeAffinity: # Docker desktop
+    required:
+      nodeSelectorTerms:
+        - matchExpressions:
+            - key: kubernetes.io/hostname
+              operator: In
+              values:
+                - docker-desktop # Could be multiple nodes and identify each here for the volume

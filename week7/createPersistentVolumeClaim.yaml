@@ -1,0 +1,12 @@
+apiVersion: v1 # The version of the Kubernetes API to use
+kind: PersistentVolumeClaim # This is a type of PVC object
+metadata:
+  name: mongo-pvc # Name of the PVC object
+spec:
+  accessModes: # PVC is read-write mode by multiple nodes (cluster)
+    - ReadWriteMany
+  resources:
+    requests:
+      storage: 1Gi # 1 gb
+  storageClassName: "demo-storage" 
+  # PVC will be bound to a Persistent Volume (PV) that matches the requested storage class

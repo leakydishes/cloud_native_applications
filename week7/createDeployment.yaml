@@ -1,0 +1,30 @@
+apiVersion: apps/v1 # Version 1 of the Apps API
+kind: Deployment # Type of Deployment object
+metadata:
+  name: mongo # Name of the Deployment object
+spec: # Desired state of the Deployment
+  replicas: 1 # Only 1 instance of the container running at a time
+  selector:
+    matchLabels:
+      app: mongo # Only Pods with a label app: mongo should be selected
+  template:
+    metadata:
+      labels:
+        app: mongo # Pod has a label app: mongo
+    spec:
+      containers:
+        - image: mongo # Container should use the official MongoDB image
+          name: mongo # Container should be named "mongo"
+          args: ["--dbpath", "/data/db"] # Database path to store file
+          env:
+            - name: MONGO_INITDB_ROOT_USERNAME # Sets an environment variable named MONGO_INITDB_ROOT_USERNAME with value admin
+              value: "admin"
+            - name: MONGO_INITDB_ROOT_PASSWORD # Sets an environment variable named MONGO_INITDB_ROOT_PASSWORD with value password
+              value: "password"
+          volumeMounts:
+            - mountPath: /data/db # What to mount
+              name: mongo-volume
+      volumes:
+        - name: mongo-volume # Mongo-pvc claims this
+          persistentVolumeClaim:
+            claimName: mongo-pvc # This is defined in createPersistentVolumeClaim
