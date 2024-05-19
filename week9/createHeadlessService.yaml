@@ -1,0 +1,12 @@
+apiVersion: v1  #  API version being used
+kind: Service  # Kind of object being created
+metadata:
+  name: mongo  # Service Name
+spec:
+  ports:
+    - name: mongo  # Name of Port
+      port: 27017  #  Port Service will expose
+      targetPort: 27017  # Port on the container to which the request will be forwarded
+  clusterIP: None  # Disables cluster IP --> making a headless service
+  selector:
+    app: mongo  # Label --> identify the set of pods targeted

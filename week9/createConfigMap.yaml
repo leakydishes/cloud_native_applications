@@ -1,0 +1,12 @@
+apiVersion: v1  # API version being used
+kind: ConfigMap  # Kind of object being created
+metadata: 
+  name: mongodb-config  # Name of ConfigMap
+immutable: false  # ConfigMap is mutable or immutable
+data:
+  username: admin1  # Example for ConfigMap
+  mongodb.conf: |  # MongoDB configuration
+    storage:
+      dbPath: /data/db  # Path where MongoDB will store its data
+    replication:
+        replSetName: "rs0"  # Name of the replica set for MongoDB

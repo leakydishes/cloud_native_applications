@@ -1,0 +1,87 @@
+apiVersion: apps/v1  # API version
+kind: StatefulSet  # Object kind
+metadata:
+  name: mongo  # StatefulSet name
+spec:
+  selector:
+    matchLabels:
+      app: mongo  # Selector label
+  serviceName: "mongo"  # Service name
+  replicas: 3  # Number of replicas
+  template:
+    metadata:
+      labels:
+        app: mongo  # Template label
+    spec:
+      containers:
+        - name: mongo  # Container name
+          image: mongo:4.0.8  # MongoDB image
+          startupProbe:
+            exec:
+              command:
+                - mongo
+                - --eval
+                - "db.adminCommand('ping')"  # Startup probe command
+            initialDelaySeconds: 1  # Startup probe delay
+            periodSeconds: 10  # Probe interval
+            timeoutSeconds: 5  # Probe timeout
+            successThreshold: 1  # Success threshold
+            failureThreshold: 2  # Failure threshold
+          livenessProbe:
+            exec:
+              command:
+                - mongo
+                - --eval
+                - "db.adminCommand('ping')"  # Liveness probe command
+            initialDelaySeconds: 1  # Liveness probe delay
+            periodSeconds: 10  # Probe interval
+            timeoutSeconds: 5  # Probe timeout
+            successThreshold: 1  # Success threshold
+            failureThreshold: 2  # Failure threshold
+          readinessProbe:
+            exec:
+              command:
+                - mongo
+                - --eval
+                - "db.adminCommand('ping')"  # Readiness probe command
+            initialDelaySeconds: 1  # Readiness probe delay
+            periodSeconds: 10  # Probe interval
+            timeoutSeconds: 5  # Probe timeout
+            successThreshold: 1  # Success threshold
+            failureThreshold: 2  # Failure threshold
+          env:
+            - name: MONGO_INITDB_ROOT_USERNAME
+              valueFrom:
+                configMapKeyRef:
+                  key: username
+                  name: mongodb-config  # Username from ConfigMap
+            - name: MONGO_INITDB_ROOT_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  key: password
+                  name: mongodb-secret  # Password from Secret
+          command:
+            - mongod
+            - "--bind_ip_all"
+            - --config=/etc/mongo/mongodb.conf  # MongoDB command
+          volumeMounts:
+            - name: mongo-volume
+              mountPath: /data/db  # Data volume mount
+            - name: mongodb-config
+              mountPath: /etc/mongo  # Config volume mount
+      volumes:
+        - name: mongodb-config
+          configMap:
+            name: mongodb-config
+            items:
+              - key: mongodb.conf
+                path: mongodb.conf  # ConfigMap volume
+  volumeClaimTemplates:
+    - metadata:
+        name: mongo-volume  # Volume claim name
+      spec:
+        accessModes: ["ReadWriteOnce"]  # Access mode
+        storageClassName: demo-storage  # Storage class
+        resources:
+          requests:
+            storage: 1Gi  # Storage request

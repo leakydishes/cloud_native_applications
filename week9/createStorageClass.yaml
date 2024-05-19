@@ -1,0 +1,7 @@
+apiVersion: storage.k8s.io/v1  # API version
+kind: StorageClass  # Object kind
+metadata:
+  name: demo-storage  # StorageClass name
+provisioner: docker.io/hostpath  # Provisioner type
+volumeBindingMode: Immediate  # Binding mode
+reclaimPolicy: Delete  # Reclaim policy
