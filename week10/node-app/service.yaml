@@ -1,12 +1,12 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: node-app-service
+  name: hello-app
 spec:
   selector:
-    app: node-app
+    app: hello-app
   ports:
     - protocol: TCP
       port: 80
-      targetPort: 3000
+      targetPort: 8080
   type: LoadBalancer
