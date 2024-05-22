@@ -14,4 +14,4 @@ COPY . .
 # Docker run port
 # Run Web service on container startup
 EXPOSE 8080
-CMD [ "npm", "index" ]
+CMD ["npm", "start"]
