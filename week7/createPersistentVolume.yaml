@@ -17,4 +17,4 @@ spec:
             - key: kubernetes.io/hostname
               operator: In
               values:
-                - docker-desktop # Could be multiple nodes and identify each here for the volume
+                - docker-desktop

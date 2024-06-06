@@ -1,0 +1,63 @@
+# Google Cloud deployment
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: frontend-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: frontend
+  template:
+    metadata:
+      labels:
+        app: frontend
+    spec:
+      containers:
+      - name: frontend
+        image: australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/app-registry/frontend:latest
+        ports:
+        - containerPort: 3000
+        resources:
+          requests:
+            memory: "256Mi" 
+            cpu: "500m"    
+          limits:
+            memory: "512Mi" 
+            cpu: "1000m"   
+
+
+# # Docker Desktop deployment
+# apiVersion: apps/v1
+# kind: Deployment
+# metadata:
+#   name: frontend-deployment
+# spec:
+#   replicas: 1
+#   selector:
+#     matchLabels:
+#       app: frontend
+#   template:
+#     metadata:
+#       labels:
+#         app: frontend
+#     spec:
+#       containers:
+#       - name: frontend
+#         image: your-frontend-image
+#         ports:
+#         - containerPort: 3000
+# ---
+# apiVersion: v1
+# kind: Service
+# metadata:
+#   name: frontend-service
+# spec:
+#   selector:
+#     app: frontend
+#   ports:
+#     - protocol: TCP
+#       port: 3000
+#       targetPort: 3000
+#       nodePort: 30000
+#   type: NodePort
