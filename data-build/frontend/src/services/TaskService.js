@@ -3,7 +3,7 @@ import axios from 'axios';
 // Fetch all tasks with optional filters
 export async function getAllTasks(filters = {}) {
     try {
-        const response = await axios.get('/api/tasks', { params: filters });
+        const response = await axios.get('/api/tasks', { task: data  });
         return response.data;
     } catch (error) {
         console.error('Error fetching tasks:', error);

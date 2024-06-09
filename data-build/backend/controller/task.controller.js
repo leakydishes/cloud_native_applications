@@ -2,7 +2,7 @@ const taskService = require('../service/task.service');
 
 class TaskController {
     async getTasks(filters) {
-        return await taskService.getTasks(filters);
+        return await taskService.getTasks(task);
     }
 
     async createTask(task) {

@@ -1,8 +1,8 @@
 const taskRepository = require('../repository/task.repository');
 
 class TaskService {
-    async getTasks(filters) {
-        return await taskRepository.getTasks(filters);
+    async getTasks(tasks) {
+        return await taskRepository.getTasks(task);
     }
 
     async createTask(task) {

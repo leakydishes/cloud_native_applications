@@ -6,25 +6,15 @@ class TaskRepository {
     constructor() {
         connect();
     }
-
-    async getTasks(filters = {}) {
-        const query = {};
-        
-        if (Object.keys(filters).length === 0) {
-            console.log('Tasks: no filter applied');
-            const tasks = await Task.find();
-            console.log('Tasks:', tasks);
-            return tasks;
-        } else {
-            if (filters.census_year) query.census_year = filters.census_year;
-            if (filters.location) query.location = { $regex: filters.location, $options: 'i' };
-            if (filters.industry_description) query.industry_description = { $regex: filters.industry_description, $options: 'i' };
     
-            console.log('Query:', query);
-            const tasks = await Task.find(query);
-            console.log('Tasks:', tasks);
-            return tasks;
+    async getTasks(task) {
+        let data = {};
+        try {
+            data = await Task.create(task);
+        } catch (err) {
+            logger.error('Error::' + err);
         }
+        return data;
     }
 
     async createTask(task) {
