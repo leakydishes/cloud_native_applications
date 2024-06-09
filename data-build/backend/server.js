@@ -6,7 +6,9 @@ const dotenv = require('dotenv');
 const fs = require('fs');
 
 // Load environment variables from .env file
-dotenv.config({ path: path.resolve(__dirname, '.env') });
+dotenv.config({ path: path.resolve(__dirname, '.env-dev') });
+
+ENVIRONMENT=development
 
 console.log('environment:', process.env.ENVIRONMENT);
 console.log('PORT:', process.env.PORT);
