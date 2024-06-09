@@ -18,6 +18,7 @@
 # # Run the API on Nodemon
 # CMD ["npm", "run", "dev"]
 
+
 # Pull the Node image from Docker Hub
 FROM node:16-slim
 
@@ -25,19 +26,15 @@ FROM node:16-slim
 WORKDIR /usr/app
 
 # Copying only package.json
-COPY package*.json ./
+COPY backend/package*.json ./
 
 # Install Dependencies
 RUN npm install
 
 # Copy rest of the code to container
-COPY . .
+COPY backend/ .
 
-# Copy frontend build to public directory
-COPY ../frontend/build /usr/app/public
-
-# Expose port 3000
 EXPOSE 3000
 
-# Run the API on Nodemon
+# Run the API on Nodemon in development mode
 CMD ["npm", "run", "dev"]
