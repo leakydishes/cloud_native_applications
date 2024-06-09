@@ -8,9 +8,7 @@ const fs = require('fs');
 // Load environment variables from .env file
 dotenv.config({ path: path.resolve(__dirname, '.env-dev') });
 
-ENVIRONMENT=development
-
-console.log('environment:', process.env.ENVIRONMENT);
+console.log('ENVIRONMENT:', process.env.ENVIRONMENT);
 console.log('PORT:', process.env.PORT);
 console.log('MONGO_CONNECTION_STRING:', process.env.MONGO_CONNECTION_STRING);
 

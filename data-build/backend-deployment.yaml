@@ -25,4 +25,6 @@ spec:
               key: MONGO_CONNECTION_STRING
         - name: ENVIRONMENT
           value: "development"
+        - name: PORT
+          value: "3000"
 
