@@ -5,20 +5,38 @@ class TaskController {
     //     return await taskService.getTasks(filters);
     // }
     async getTasks(req, res) {
-        const tasks = await taskService.getTasks();
-        res.json(tasks);
+        try {
+            const tasks = await taskService.getTasks();
+            res.json(tasks);
+        } catch (err) {
+            res.status(500).send(err.message);
+        }
+    }
+    async createTask(req, res) {
+        try {
+            const task = await taskService.createTask(req.body.task);
+            res.json(task);
+        } catch (err) {
+            res.status(500).send(err.message);
+        }
     }
 
-    async createTask(task) {
-        return await taskService.createTask(task);
+    async updateTask(req, res) {
+        try {
+            const task = await taskService.updateTask(req.body.task);
+            res.json(task);
+        } catch (err) {
+            res.status(500).send(err.message);
+        }
     }
 
-    async updateTask(task) {
-        return await taskService.updateTask(task);
-    }
-
-    async deleteTask(taskId) {
-        return await taskService.deleteTask(taskId);
+    async deleteTask(req, res) {
+        try {
+            const result = await taskService.deleteTask(req.params.id);
+            res.json(result);
+        } catch (err) {
+            res.status(500).send(err.message);
+        }
     }
 }
 
