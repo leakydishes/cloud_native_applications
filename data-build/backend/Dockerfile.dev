@@ -26,15 +26,15 @@ FROM node:16-slim
 WORKDIR /usr/app
 
 # Copying only package.json
-COPY backend/package*.json ./
+COPY package*.json ./
 
 # Install Dependencies
 RUN npm install
 
 # Copy rest of the code to container
-COPY backend/ .
+COPY . .
 
 EXPOSE 3000
 
-# Run the API on Nodemon in development mode
+# Run the API on Nodemon
 CMD ["npm", "run", "dev"]
