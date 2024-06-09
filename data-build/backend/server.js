@@ -15,7 +15,7 @@ console.log('MONGO_CONNECTION_STRING:', process.env.MONGO_CONNECTION_STRING);
 const taskController = require('./controller/task.controller');
 
 const app = express();
-const port = process.env.PORT || 3080;
+const port = process.env.PORT || 3000;
 
 // Serve frontend from public directory
 app.use(express.static(path.join(__dirname, 'public')));
