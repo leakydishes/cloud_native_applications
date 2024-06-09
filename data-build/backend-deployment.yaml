@@ -18,12 +18,12 @@ spec:
           ports:
             - containerPort: 3080
           env:
-          - name: ENVIRONMENT
-            value: "development"
-          - name: PORT
-            value: "3080"
-          - name: MONGO_CONNECTION_STRING
-            valueFrom:
-              configMapKeyRef:
-                name: mongo-config
-                key: MONGO_CONNECTION_STRING
+            - name: ENVIRONMENT
+              value: "development"
+            - name: PORT
+              value: "3080"
+            - name: MONGO_CONNECTION_STRING
+              valueFrom:
+                configMapKeyRef:
+                  name: mongo-config
+                  key: MONGO_CONNECTION_STRING
