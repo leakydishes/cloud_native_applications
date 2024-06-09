@@ -7,7 +7,7 @@ class TaskRepository {
         connect();
     }
 
-    async getTasks(filters) {
+    async getTasks(filters = {}) {
         const query = {};
         if (filters.census_year) query.census_year = filters.census_year;
         if (filters.location) query.location = { $regex: filters.location, $options: 'i' };
