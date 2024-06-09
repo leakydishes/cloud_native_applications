@@ -23,21 +23,42 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use(bodyParser.json());
 
 // API routes
+// app.get('/api/tasks', (req, res) => {
+//     taskController.getTasks().then(data => res.json(data));
+// });
+
+// app.post('/api/task', (req, res) => {
+//     console.log(req.body);
+//     taskController.createTask(req.body.task).then(data => res.json(data));
+// });
+
+// app.put('/api/task', (req, res) => {
+//     taskController.updateTask(req.body.task).then(data => res.json(data));
+// });
+
+// app.delete('/api/task/:id', (req, res) => {
+//     taskController.deleteTask(req.params.id).then(data => res.json(data));
+// });
+
+// // Serve frontend from public directory
+// app.get('*', (req, res) => {
+//     res.sendFile(path.join(__dirname, 'public', 'index.html'));
+// });
 app.get('/api/tasks', (req, res) => {
-    taskController.getTasks().then(data => res.json(data));
+    taskController.getTasks(req, res);
 });
 
 app.post('/api/task', (req, res) => {
     console.log(req.body);
-    taskController.createTask(req.body.task).then(data => res.json(data));
+    taskController.createTask(req, res);
 });
 
 app.put('/api/task', (req, res) => {
-    taskController.updateTask(req.body.task).then(data => res.json(data));
+    taskController.updateTask(req, res);
 });
 
 app.delete('/api/task/:id', (req, res) => {
-    taskController.deleteTask(req.params.id).then(data => res.json(data));
+    taskController.deleteTask(req, res);
 });
 
 // Serve frontend from public directory
@@ -45,19 +66,20 @@ app.get('*', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 
-// Read the .pem certificate if it exists
-let sslCA;
-try {
-    sslCA = fs.readFileSync(path.resolve(__dirname, 'mongo-cert.pem'));
-} catch (err) {
-    console.log('Certificate file not found, continuing without SSL');
-}
+// // Read the .pem certificate if it exists
+// let sslCA;
+// try {
+//     sslCA = fs.readFileSync(path.resolve(__dirname, 'mongo-cert.pem'));
+// } catch (err) {
+//     console.log('Certificate file not found, continuing without SSL');
+// }
 
 // Connect to MongoDB
 mongoose.connect(process.env.MONGO_CONNECTION_STRING, {
     useNewUrlParser: true,
-    useUnifiedTopology: true,
-    sslCA: sslCA ? sslCA : undefined
+    useUnifiedTopology: true
+    // useUnifiedTopology: true,
+    // sslCA: sslCA ? sslCA : undefined
 }).then(() => {
     console.log('Connected to MongoDB');
     // Start the server after successful connection to MongoDB

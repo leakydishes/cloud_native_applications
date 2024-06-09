@@ -7,15 +7,20 @@ class TaskRepository {
         connect();
     }
 
-    async getTasks(filters = {}) {
-        const query = {};
-        if (filters.census_year) query.census_year = filters.census_year;
-        if (filters.location) query.location = { $regex: filters.location, $options: 'i' };
-        if (filters.industry_description) query.industry_description = { $regex: filters.industry_description, $options: 'i' };
+    // async getTasks(filters = {}) {
+    //     const query = {};
+    //     if (filters.census_year) query.census_year = filters.census_year;
+    //     if (filters.location) query.location = { $regex: filters.location, $options: 'i' };
+    //     if (filters.industry_description) query.industry_description = { $regex: filters.industry_description, $options: 'i' };
 
-        console.log('Query:', query);
-        const tasks = await Task.find(query);
-        console.log('Tasks:', tasks);
+    //     console.log('Query:', query);
+    //     const tasks = await Task.find(query);
+    //     console.log('Tasks:', tasks);
+    //     return tasks;
+    // }
+
+    async getTasks() {
+        const tasks = await Task.find({});
         return tasks;
     }
 
