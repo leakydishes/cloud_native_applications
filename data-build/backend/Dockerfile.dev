@@ -13,9 +13,6 @@ RUN npm install
 # Copy rest of the code to container
 COPY . .
 
-# Ensure the public directory is copied
-COPY public /usr/app/public
-
 EXPOSE 3080
 
 # Run the API on Nodemon
