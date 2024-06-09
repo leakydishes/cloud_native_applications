@@ -33,7 +33,11 @@ RUN npm install
 # Copy rest of the code to container
 COPY . .
 
-EXPOSE 3080
+# Copy frontend build to public directory
+COPY ../frontend/build /usr/app/public
+
+# Expose port 3000
+EXPOSE 3000
 
 # Run the API on Nodemon
 CMD ["npm", "run", "dev"]
