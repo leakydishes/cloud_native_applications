@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.dashboards-app {
+  background-color: #efefef;
+  padding: 1.2em;
+  .list-group-item {
+    margin-bottom: 0.5em;
+  }
+}
+
+.alert-custom-success {
+  background-color: #d4edda;
+  color: #155724;
+  border-color: #c3e6cb;
+}
+
+.filters {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.filters .form-control {
+  flex: 1;
+}
+
+.filters .btn {
+  align-self: flex-end;
+}
+
+
