@@ -24,19 +24,17 @@ FROM node:16-slim
 # Setting Working Directory
 WORKDIR /usr/app
 
-# Copying only package.json
-COPY frontend/package*.json ./
+# Copying package.json and package-lock.json
+COPY package*.json ./
 
 # Install Dependencies
 RUN npm install
 
 # Copy rest of the code to container
-COPY frontend/ .
+COPY . .
 
 EXPOSE 80
 
 # Run the React app in development mode
 CMD ["npm", "start"]
-
-
 
