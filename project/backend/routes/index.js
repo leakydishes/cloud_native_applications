@@ -1,35 +1,21 @@
-const express = require("express");
-const serverResponses = require("../utils/helpers/responses");
-const messages = require("../config/messages");
-const { DashboardData } = require("../models/dashboards/dashboardData");
+const mongoose = require('mongoose');
+const logger = require('../utils/helpers/logger');
 
-const routes = (app) => {
-  const router = express.Router();
-
-  router.post("/dashboards", (req, res) => {
-    const dashboardData = new DashboardData(req.body);
-
-    dashboardData
-      .save()
-      .then((result) => {
-        serverResponses.sendSuccess(res, messages.SUCCESSFUL, result);
-      })
-      .catch((e) => {
-        serverResponses.sendError(res, messages.BAD_REQUEST, e);
-      });
-  });
-
-  router.get("/dashboards", (req, res) => {
-    DashboardData.find({}, { __v: 0 })
-      .then((dashboards) => {
-        serverResponses.sendSuccess(res, messages.SUCCESSFUL, dashboards);
-      })
-      .catch((e) => {
-        serverResponses.sendError(res, messages.BAD_REQUEST, e);
-      });
-  });
-
-  app.use("/api", router);
+const connectWithRetry = () => {
+  logger.log('info', 'MongoDB connection with retry');
+  mongoose
+    .connect(process.env.MONGO_CONNECTION_STRING, {
+      // Remove deprecated options
+      useNewUrlParser: true,
+      useUnifiedTopology: true,
+    })
+    .then(() => {
+      logger.log('info', 'MongoDB is connected');
+    })
+    .catch((err) => {
+      logger.log('error', `MongoDB connection unsuccessful, retry after 2 seconds. ${err}`);
+      setTimeout(connectWithRetry, 2000);
+    });
 };
 
-module.exports = routes;
+module.exports = connectWithRetry;

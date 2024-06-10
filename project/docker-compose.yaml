@@ -24,7 +24,7 @@ services:
       - express-mongo
       - react-express
     environment:
-      - MONGO_URI=mongodb://project-mongo:27017/DataBuildApp
+      - MONGO_CONNECTION_STRING=mongodb://project-mongo:27017/DataBuildApp
 
   frontend:
     build:

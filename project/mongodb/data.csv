@@ -1,500 +1,500 @@
-census_year,block_id,property_id,base_property_id,clue_small_area,trading_name,business_address,industry_anzsic4_code,industry_anzsic4_description,longitude,latitude
-2016,620,109652,109652,East Melbourne,Epworth Pathology,"Suite 111, Level 1, 320 Victoria Parade EAST MELBOURNE 3002",8520,Pathology and Diagnostic Imaging Services,,
-2022,644,106917,106917,East Melbourne,The Institute of Patent and Trade Mark Attorneys of Australia,Part Level 15 1 Nicholson Street EAST MELBOURNE VIC 3002,6931,Legal Services,144.9735221861543,-37.80899048
-2016,620,109652,109652,East Melbourne,"Mr N A Collier, Mr B Fleming, R Wilson, Mr A R Hyett & Mr C Murphy","Suite 112, Level 1, 320 Victoria Parade EAST MELBOURNE 3002",8512,Specialist Medical Services,,
-2022,644,106981,106981,East Melbourne,Cafe Ecco,Part Gnd & Mezz 8 Nicholson Street EAST MELBOURNE VIC 3002,4511,Cafes and Restaurants,144.97361926522598,-37.8084963
-2016,620,109652,109652,East Melbourne,"Dr M Rasmussen, Mr R Rome, Dr K Reid & Dr N Israelsohn","Suite 115, Level 1, 320 Victoria Parade EAST MELBOURNE 3002",8512,Specialist Medical Services,,
-2022,644,106981,106981,East Melbourne,State Control Centre,Level 4 8 Nicholson Street EAST MELBOURNE VIC 3002,7520,State Government Administration,144.97361926522598,-37.8084963
-2016,620,109652,109652,East Melbourne,Hudsons Coffee Freemasons,"Part Ground , 320 Victoria Parade EAST MELBOURNE 3002",4511,Cafes and Restaurants,,
-2022,644,109668,109668,East Melbourne,Aspiron Consulting Group Pty Ltd,"Suite 516, Level 5 100 Victoria Parade EAST MELBOURNE VIC 3002",6932,Accounting Services,144.97487911142815,-37.80863332
-2016,620,109652,109652,East Melbourne,Epworth Parking,"Carpark , 320 Victoria Parade EAST MELBOURNE 3002",9533,Parking Services,,
-2022,644,109668,109668,East Melbourne,Melbourne Ear Specialists,"Suite 221-222, Level 2 100 Victoria Parade EAST MELBOURNE VIC 3002",8512,Specialist Medical Services,144.97487911142815,-37.80863332
-2016,620,109652,109652,East Melbourne,"Dr R Ryan, Dr S Hargreaves, Dr S Lee, Dr J Whitehead & Dr A Woodward",320 Victoria Parade EAST MELBOURNE 3002,8512,Specialist Medical Services,,
-2022,644,109668,109668,East Melbourne,Victoria Parade Surgery Centre,"Lot S3, Level 1 100 Victoria Parade EAST MELBOURNE VIC 3002",8512,Specialist Medical Services,144.97487911142815,-37.80863332
-2016,620,109652,109652,East Melbourne,Mr Leonard Jack Kliman,"Suite 101, Level 1, 320 Victoria Parade EAST MELBOURNE 3002",8512,Specialist Medical Services,,
-2022,644,109668,109668,East Melbourne,East Side Story Bar + Cafe,"Suite 1, Ground 100 Victoria Parade EAST MELBOURNE VIC 3002",4511,Cafes and Restaurants,144.97487911142815,-37.80863332
-2016,620,109652,109652,East Melbourne,Epworth Freemasons Hospital,320 Victoria Parade EAST MELBOURNE 3002,8401,Hospitals (except Psychiatric Hospitals),,
-2022,644,109668,109668,East Melbourne,CITY CPAP PTY LTD,"Suite 512, Level 5 100 Victoria Parade EAST MELBOURNE VIC 3002",8512,Specialist Medical Services,144.97487911142815,-37.80863332
-2016,620,109652,109652,East Melbourne,"Dr V Woodward, Dr H Tran, Dr L Begg, Dr K Williamson & Dr V Woodward","Suite 209, Level 2, 320 Victoria Parade EAST MELBOURNE 3002",8512,Specialist Medical Services,,
-2022,644,109668,109668,East Melbourne,Ford Health Group Pty Ltd,"Suite 513, Level 5 100 Victoria Parade EAST MELBOURNE VIC 3002",8512,Specialist Medical Services,144.97487911142815,-37.80863332
-2016,621,100353,100353,East Melbourne,Mr David Chong,"Suite 506, Level 5, 372-376 Albert Street EAST MELBOURNE 3002",8539,Other Allied Health Services,144.97871428891156,-37.80964055
-2022,644,109668,109668,East Melbourne,Melbourne Radoilogy Clinic,"Suite 3-6, Ground 100 Victoria Parade EAST MELBOURNE VIC 3002",8520,Pathology and Diagnostic Imaging Services,144.97487911142815,-37.80863332
-2016,621,100353,100353,East Melbourne,Dentists in East Melbourne,"Suite 304, Level 3, 372-376 Albert Street EAST MELBOURNE 3002",8531,Dental Services,144.97871428891156,-37.80964055
-2022,644,109668,109668,East Melbourne,Retina Specialists Victoria,"Suite 405, Level 4 100 Victoria Parade EAST MELBOURNE VIC 3002",8512,Specialist Medical Services,144.97487911142815,-37.80863332
-2016,621,100353,100353,East Melbourne,Medilaw,"Suite 302, Level 3, 372-376 Albert Street EAST MELBOURNE 3002",8539,Other Allied Health Services,144.97871428891156,-37.80964055
-2022,644,109668,109668,East Melbourne,Victoria Parade Neurosurgery,"Suite 2, Ground 100 Victoria Parade EAST MELBOURNE VIC 3002",8512,Specialist Medical Services,144.97487911142815,-37.80863332
-2016,621,100353,100353,East Melbourne,Degani @ East Melbourne,"Shop 1, 372-376 Albert Street EAST MELBOURNE 3002",4511,Cafes and Restaurants,144.97871428891156,-37.80964055
-2022,644,109668,109668,East Melbourne,Dr Geoff Markov,"Suite 502, Level 5 100 Victoria Parade EAST MELBOURNE VIC 3002",8512,Specialist Medical Services,144.97487911142815,-37.80863332
-2016,621,100353,100353,East Melbourne,Tyre Stewardship,"Suite 405, Level 4, 372-376 Albert Street EAST MELBOURNE 3002",3505,Motor Vehicle Dismantling and Used Part Wholesaling,144.97871428891156,-37.80964055
-2022,644,109668,109668,East Melbourne,Central Melbourne Orthopaedics,"Suite 417-418, Level 4 100 Victoria Parade EAST MELBOURNE VIC 3002",8512,Specialist Medical Services,144.97487911142815,-37.80863332
-2016,621,100353,100353,East Melbourne,Peter MacCallum Cancer Centre,372-376 Albert Street EAST MELBOURNE 3002,9559,Other Interest Group Services n.e.c.,144.97871428891156,-37.80964055
-2022,644,109668,109668,East Melbourne,Dr Mark Troski,"Suite 408-412, Level 4 100 Victoria Parade EAST MELBOURNE VIC 3002",8512,Specialist Medical Services,144.97487911142815,-37.80863332
-2016,621,100355,100355,East Melbourne,Blamey & Saunders Hearing,364 Albert Street EAST MELBOURNE 3002,3491,Professional and Scientific Goods Wholesaling,144.97911008840146,-37.80957906
-2022,644,109668,109668,East Melbourne,Melbourne Retina Associates,"Suites 401-404, 406-407 Lvl 4 & Suite 515 Lvl 5 100 Victoria Parade EAST MELBOURNE VIC 3002",8512,Specialist Medical Services,144.97487911142815,-37.80863332
-2016,621,100357,100357,East Melbourne,vacant,"Part Level 2, 340 Albert Street EAST MELBOURNE 3002",0,Vacant Space,144.97980597997656,-37.80963484
-2022,644,109668,109668,East Melbourne,Robert Yung Ming Chen,"Suite 205, Level 2 100 Victoria Parade EAST MELBOURNE VIC 3002",8512,Specialist Medical Services,144.97487911142815,-37.80863332
-2016,621,100357,100357,East Melbourne,Hearservice,"Part Level 2, 340 Albert Street EAST MELBOURNE 3002",8539,Other Allied Health Services,144.97980597997656,-37.80963484
-2022,644,109668,109668,East Melbourne,Victoria Vein Clinic,"Suite 504, 506-507 & 517 Level 5 100 Victoria Parade EAST MELBOURNE VIC 3002",8512,Specialist Medical Services,144.97487911142815,-37.80863332
-2016,621,109655,109655,East Melbourne,Architectus Limited,250 Victoria Parade EAST MELBOURNE 3002,6921,Architectural Services,144.97988700474235,-37.80918452
-2022,644,109668,109668,East Melbourne,Dr Charles Su,"Suite 219-220, Level 2 100 Victoria Parade EAST MELBOURNE VIC 3002",8512,Specialist Medical Services,144.97487911142815,-37.80863332
-2016,621,109655,109655,East Melbourne,Pagemasters,250 Victoria Parade EAST MELBOURNE 3002,1611,Printing,144.97988700474235,-37.80918452
-2022,644,109668,109668,East Melbourne,Irene Haas & Associates,"Suite 215, Level 2 100 Victoria Parade EAST MELBOURNE VIC 3002",8539,Other Allied Health Services,144.97487911142815,-37.80863332
-2016,621,567856,567856,East Melbourne,Eye Surgery Associates,"Level 2, 232 Victoria Parade EAST MELBOURNE 3002",8512,Specialist Medical Services,,
-2022,644,109669,109669,East Melbourne,Wilson Parking,Carpark 68-90 Victoria Parade EAST MELBOURNE VIC 3002,9533,Parking Services,144.97428915525364,-37.80856173
-2016,621,567856,567856,East Melbourne,Parenting Research Centre Inc,"Level 5, 232 Victoria Parade EAST MELBOURNE 3002",6910,Scientific Research Services,,
-2022,646,100344,100344,East Melbourne,Vacant,Ground 404 Albert Street EAST MELBOURNE VIC 3002,0,Vacant Space,144.9774299,-37.80937924
-2016,621,567856,567856,East Melbourne,Mercy Health Lymphoedema Clinic,"Part Level 1, 232 Victoria Parade EAST MELBOURNE 3002",8512,Specialist Medical Services,,
-2022,646,100348,100348,East Melbourne,Melbourne Diocesan Historial Commission,396 Albert Street EAST MELBOURNE VIC 3002,9540,Religious Services,144.9777272,-37.80946178
-2016,642,108993,108993,East Melbourne,Royal College of Surgeons,250-290 Spring Street EAST MELBOURNE 3002,8102,Higher Education,144.97234594643152,-37.80865786
-2022,646,100351,100351,East Melbourne,Marriage Tribunal,390 Albert Street EAST MELBOURNE VIC 3002,9540,Religious Services,144.9779344,-37.80950175
-2016,642,108993,108993,East Melbourne,College of Surgeons' Museum and Art Gallery,"Part Ground , 250-290 Spring Street EAST MELBOURNE 3002",8910,Museum Operation,144.97234594643152,-37.80865786
-2022,646,105430,105430,East Melbourne,Stephen Andrianakis and Associates,Part Ground 19 Lansdowne Street EAST MELBOURNE VIC 3002,6931,Legal Services,144.97810027967384,-37.80916429
-2016,643,105667,105667,East Melbourne,Giliot Reserve,210-230 Spring Street EAST MELBOURNE 3002,8922,Nature Reserves and Conservation Parks Operation,144.9725757535077,-37.80966808
-2022,646,105431,105431,East Melbourne,Melbourne Residential Property Services Pty Limite,21 Lansdowne Street EAST MELBOURNE VIC 3002,6720,Real Estate Services,144.9781106996767,-37.80910339
-2016,644,100336,100336,East Melbourne,The Faculty Management Consultants Pty Ltd,"Part Gnd & Flr1 , 502 Albert Street EAST MELBOURNE 3002",6962,Management Advice and Other Consulting Services,144.97403265042695,-37.80900083
-2022,646,105434,105434,East Melbourne,Intrafin Systems,27 Lansdowne Street EAST MELBOURNE VIC 3002,7000,Computer System Design and Related Services,144.97813959775644,-37.8089345
-2016,644,100338,100338,East Melbourne,vacant,"Level 7, 486-492 Albert Street EAST MELBOURNE 3002",0,Vacant Space,144.97445828659656,-37.80900661
-2022,646,106793,106793,East Melbourne,Eye And Ear Hospital Accommodation,20-22 Morrison Place EAST MELBOURNE VIC 3002,8401,Hospitals (except Psychiatric Hospitals),144.9768677153108,-37.8089904
-2016,644,100338,100338,East Melbourne,vacant,"Level 4, 486-492 Albert Street EAST MELBOURNE 3002",0,Vacant Space,144.97445828659656,-37.80900661
-2022,646,109659,109659,East Melbourne,The Annunciation of Our Lady Greek Orthodox Church,186-196 Victoria Parade EAST MELBOURNE VIC 3002,9540,Religious Services,144.9781568095821,-37.80883391
-2016,644,100339,100339,East Melbourne,Victorian TAFE Association,"Part Level 3, 478 Albert Street EAST MELBOURNE 3002",9551,Business and Professional Association Services,144.9746894220705,-37.80907172
-2022,646,109660,109660,East Melbourne,East Melbourne Neurosurgery,"Lot 6E, Level 5 182-184 Victoria Parade EAST MELBOURNE VIC 3002",8512,Specialist Medical Services,144.97789433194998,-37.80895336
-2016,644,100339,100339,East Melbourne,McGregor West,"Part Level 1, 478-484 Albert Street EAST MELBOURNE 3002",6932,Accounting Services,144.9746894220705,-37.80907172
-2022,646,109660,109660,East Melbourne,Intelligent Dental Solutions,"Lot 2A, Level 1 182-184 Victoria Parade EAST MELBOURNE VIC 3002",8531,Dental Services,144.97789433194998,-37.80895336
-2016,644,104368,104368,East Melbourne,Metropolitan Fire & Emergency Services Board,456 Albert Street EAST MELBOURNE 3002,7713,Fire Protection and Other Emergency Services,144.97518409127036,-37.80896912
-2022,646,109660,109660,East Melbourne,Vacant,"Lot 3A, Level 2 182-184 Victoria Parade EAST MELBOURNE VIC 3002",0,Vacant Space,144.97789433194998,-37.80895336
-2016,644,106917,106917,East Melbourne,BSM Services,1 Nicholson Street EAST MELBOURNE 3002,6921,Architectural Services,144.97353157501624,-37.80899183
-2022,646,109660,109660,East Melbourne,Marie Stopes Australia,"Lot 2D, Level 1 182-184 Victoria Parade EAST MELBOURNE VIC 3002",8790,Other Social Assistance Services,144.97789433194998,-37.80895336
-2016,644,106917,106917,East Melbourne,Foursight,"Part Level 15, 1 Nicholson Street EAST MELBOURNE 3002",6419,Other Auxiliary Finance and Investment Services,144.97353157501624,-37.80899183
-2022,646,109660,109660,East Melbourne,Vacant,"Lot 5B, Level 4 182-184 Victoria Parade EAST MELBOURNE VIC 3002",0,Vacant Space,144.97789433194998,-37.80895336
-2016,644,106917,106917,East Melbourne,vacant,"Part Ground , 1 Nicholson Street EAST MELBOURNE 3002",0,Vacant Space,144.97353157501624,-37.80899183
-2022,646,109660,109660,East Melbourne,Ear Nose & Throat Victoria,"Lot 6C, Level 5 182-184 Victoria Parade EAST MELBOURNE VIC 3002",8512,Specialist Medical Services,144.97789433194998,-37.80895336
-2016,644,106917,106917,East Melbourne,Orica Limited,1 Nicholson Street EAST MELBOURNE 3002,1812,Basic Organic Chemical Manufacturing,144.97353157501624,-37.80899183
-2022,646,109660,109660,East Melbourne,Balance & Hearing Centre,"Part Lot 5C, Level 4 182-184 Victoria Parade EAST MELBOURNE VIC 3002",8512,Specialist Medical Services,144.97789433194998,-37.80895336
-2016,644,106981,106981,East Melbourne,"Department of Environment, Land, Water & Planning",8 Nicholson Street EAST MELBOURNE 3002,7520,State Government Administration,144.97362865398264,-37.80849765
-2022,646,109660,109660,East Melbourne,Mr David Wallace,"Lot 5E, Level 4 182-184 Victoria Parade EAST MELBOURNE VIC 3002",8512,Specialist Medical Services,144.97789433194998,-37.80895336
-2016,644,106981,106981,East Melbourne,Cafe Ecco,"Part Gnd & Mezz , 8 Nicholson Street EAST MELBOURNE 3002",4511,Cafes and Restaurants,144.97362865398264,-37.80849765
-2022,646,109662,109662,East Melbourne,Vacant,168-172 Victoria Parade EAST MELBOURNE VIC 3002,0,Vacant Space,144.9775472,-37.80891588
-2016,644,106981,106981,East Melbourne,State Control Centre,"Level 4, 8 Nicholson Street EAST MELBOURNE 3002",7520,State Government Administration,144.97362865398264,-37.80849765
-2022,646,109663,109663,East Melbourne,Vacant,Part Ground 166 Victoria Parade EAST MELBOURNE VIC 3002,0,Vacant Space,144.9773774,-37.80889754
-2016,644,109668,109668,East Melbourne,Danielle Baker,"Suite 512, Level 5, 100 Victoria Parade EAST MELBOURNE 3002",8539,Other Allied Health Services,144.97488849463832,-37.80863467
-2022,646,109664,109664,East Melbourne,Royal Victorian Eye And Ear Hospital,Level 1 160 Victoria Parade EAST MELBOURNE VIC 3002,6910,Scientific Research Services,144.9771827,-37.8087897
-2016,644,109668,109668,East Melbourne,Orica Limited,"Lot , Level 3, 100 Victoria Parade EAST MELBOURNE 3002",6962,Management Advice and Other Consulting Services,144.97488849463832,-37.80863467
-2022,646,556216,556216,East Melbourne,St Vincents Health Australia,14-18 Morrison Place EAST MELBOURNE VIC 3002,8511,General Practice Medical Services,144.9768378905794,-37.80916775
-2016,644,109668,109668,East Melbourne,Melbourne Sleep Disorders Centre,"Suite 508, Level 5, 100 Victoria Parade EAST MELBOURNE 3002",8512,Specialist Medical Services,144.97488849463832,-37.80863467
-2022,649,110742,108974,East Melbourne,Strangers Corridor,Level 1 160 Spring Street EAST MELBOURNE VIC 3002,4511,Cafes and Restaurants,144.9741607,-37.8108596
-2016,644,109668,109668,East Melbourne,Focus Gastroenterology,"Suite 419, Level 4, 100 Victoria Parade EAST MELBOURNE 3002",8512,Specialist Medical Services,144.97488849463832,-37.80863467
-2022,649,694396,108974,East Melbourne,Department Of Parliamentary Services,Rear Parliamentary Offices 160 Spring Street EAST MELBOURNE VIC 3002,7520,State Government Administration,144.9741607,-37.8108596
-2016,644,109668,109668,East Melbourne,Irene Haas & Associates,"Suite 215, Level 2, 100 Victoria Parade EAST MELBOURNE 3002",8539,Other Allied Health Services,144.97488849463832,-37.80863467
-2022,650,110660,101782,East Melbourne,"Maintenance Sheds, St.Patricks",Maintenance Sheds St Patricks Cathedral 7 Lansdowne Street EAST MELBOURNE VIC 3002,9540,Religious Services,144.9769172289329,-37.81028319
-2016,644,109668,109668,East Melbourne,Dr Christopher Ley & Ms Mary Parkin,"Suite 202, Level 2, 100 Victoria Parade EAST MELBOURNE 3002",8512,Specialist Medical Services,144.97488849463832,-37.80863467
-2022,651,557129,101779,East Melbourne,Vacant,Part Ground & Pt Lvl 4 10 St Andrews Place EAST MELBOURNE VIC 3002,0,Vacant Space,144.97739999193064,-37.81151967
-2016,644,109668,109668,East Melbourne,Melbourne Retina Associates,"Level 4, 100 Victoria Parade EAST MELBOURNE 3002",8512,Specialist Medical Services,144.97488849463832,-37.80863467
-2022,651,557129,101779,East Melbourne,Vacant,"Level 1-3, Part Level 4 & Level 5-6 10 St Andrews Place EAST MELBOURNE VIC 3002",0,Vacant Space,144.97739999193064,-37.81151967
-2016,644,109668,109668,East Melbourne,Dr Geoff Markov,"Suite 502, Level 5, 100 Victoria Parade EAST MELBOURNE 3002",8512,Specialist Medical Services,144.97488849463832,-37.80863467
-2022,651,565541,101779,East Melbourne,Royal Victorian Eye And Ear Hospital,2 St Andrews Place EAST MELBOURNE VIC 3002,8401,Hospitals (except Psychiatric Hospitals),144.97739999193064,-37.81151967
-2016,644,109668,109668,East Melbourne,Dr Daniel Wai Keung Chiu & Dr Jonathon Yeoh,"Suite 405, Level 4, 100 Victoria Parade EAST MELBOURNE 3002",8512,Specialist Medical Services,144.97488849463832,-37.80863467
-2022,651,107431,107431,East Melbourne,Burston Reserve,Burston Reserve 1-33 Parliament Place EAST MELBOURNE VIC 3002,8922,Nature Reserves and Conservation Parks Operation,144.9751896,-37.81149726
-2016,644,109668,109668,East Melbourne,Dr David Leong,"Suite 420, Level 4, 100 Victoria Parade EAST MELBOURNE 3002",8511,General Practice Medical Services,144.97488849463832,-37.80863467
-2022,652,106291,109542,East Melbourne,Department of Premier and Cabinet,1 MacArthur Street EAST MELBOURNE VIC 3002,7520,State Government Administration,144.97567152833767,-37.81280015
-2016,644,109668,109668,East Melbourne,Victoria Parade Anaesthetic Services,"Unit 4, 23-0 Victoria Parade EAST MELBOURNE 3002",8512,Specialist Medical Services,144.97488849463832,-37.80863467
-2022,652,108599,109542,East Melbourne,Department Of Education And Training,23 St Andrews Place EAST MELBOURNE VIC 3002,7520,State Government Administration,144.97567152833767,-37.81280015
-2016,644,109668,109668,East Melbourne,Dr Graeme M Gonzales / Dr Valerie Tay,"Suite 413, Level 4, 100 Victoria Parade EAST MELBOURNE 3002",8512,Specialist Medical Services,144.97488849463832,-37.80863467
-2022,652,108600,109542,East Melbourne,Department of Parliamentary Services,55 St Andrews Place EAST MELBOURNE VIC 3002,7520,State Government Administration,144.97567152833767,-37.81280015
-2016,644,109668,109668,East Melbourne,Mr Paul Smith,"Suite 2, Ground , 100 Victoria Parade EAST MELBOURNE 3002",8512,Specialist Medical Services,144.97488849463832,-37.80863467
-2022,652,109546,109542,East Melbourne,Victorian Aboriginal Heritage Council,Part 3 Treasury Place EAST MELBOURNE VIC 3002,7520,State Government Administration,144.97567152833767,-37.81280015
-2016,644,109668,109668,East Melbourne,Clive Hair Clinics,"Suite 401, Level 4, 100 Victoria Parade EAST MELBOURNE 3002",8512,Specialist Medical Services,144.97488849463832,-37.80863467
-2022,652,109546,109542,East Melbourne,Victorian Public Sector Commission,Part 3 Treasury Place EAST MELBOURNE VIC 3002,7520,State Government Administration,144.97567152833767,-37.81280015
-2016,644,109669,109669,East Melbourne,Wilson Parking,"Carpark , 68-90 Victoria Parade EAST MELBOURNE 3002",9533,Parking Services,144.97429854094273,-37.80856308
-2022,652,109547,109547,East Melbourne,Office Of The Victorian Government Architect,Part Level 2 20 Spring Street EAST MELBOURNE VIC 3002,7520,State Government Administration,144.9743358,-37.81320727
-2016,644,109669,109669,East Melbourne,Home @ the Mansion,80 Victoria Parade EAST MELBOURNE 3002,4400,Accommodation,144.97429854094273,-37.80856308
-2022,653,108996,108996,East Melbourne,Treasury Gardens,Treasury Gardens 2-18 Spring Street EAST MELBOURNE VIC 3002,8922,Nature Reserves and Conservation Parks Operation,144.9759418945689,-37.81400001
-2016,645,109667,109667,East Melbourne,Cochlear Clinic,"Part Level 6, 126 Victoria Parade EAST MELBOURNE 3002",8512,Specialist Medical Services,144.97626845296764,-37.80887179
-2022,656,100252,100252,East Melbourne,Vacant,Gnd & Flr1 33-41 Agnes Street EAST MELBOURNE VIC 3002,0,Vacant Space,144.97971917553264,-37.81751274
-2016,645,109667,109667,East Melbourne,Zouki Cafe Eye & Ear Hospital,"Part Ground , 32 Victoria Parade EAST MELBOURNE 3002",4511,Cafes and Restaurants,144.97626845296764,-37.80887179
-2022,656,100252,100252,East Melbourne,Built Environment Channel Pty Ltd,Level 2 33-41 Agnes Street EAST MELBOURNE VIC 3002,6240,Financial Asset Investing,144.97971917553264,-37.81751274
-2016,646,100343,100343,East Melbourne,Allen & Unwin,406 Albert Street EAST MELBOURNE 3002,5413,Book Publishing,144.9773530704522,-37.80937127
-2022,656,100253,100253,East Melbourne,Businessary,Part Ground 43 Agnes Street EAST MELBOURNE VIC 3002,6962,Management Advice and Other Consulting Services,144.97974239066485,-37.81737702
-2016,646,105430,105430,East Melbourne,Stephen Andrianakis and Associates,19 Lansdowne Street EAST MELBOURNE 3002,6931,Legal Services,144.9781096,-37.80916563
-2022,656,100253,100253,East Melbourne,Sutherland Farrelly Pty Ltd,Part Ground 43 Agnes Street EAST MELBOURNE VIC 3002,6720,Real Estate Services,144.97974239066485,-37.81737702
-2016,646,105430,105430,East Melbourne,vacant,"Part Level 1, 19 Lansdowne Street EAST MELBOURNE 3002",0,Vacant Space,144.9781096,-37.80916563
-2022,656,100256,100256,East Melbourne,Vacant,49-51 Agnes Street EAST MELBOURNE VIC 3002,0,Vacant Space,144.97977276685765,-37.81719942
-2016,646,105433,105433,East Melbourne,vacant,"Ground , 25 Lansdowne Street EAST MELBOURNE 3002",0,Vacant Space,144.97813984133572,-37.80898917
-2022,656,105126,105126,East Melbourne,ALPHINGTON PRIVATE WEALTH PTY LTD,Part Ground 128-136 Jolimont Road EAST MELBOURNE VIC 3002,6240,Financial Asset Investing,144.9791900624346,-37.81750017
-2016,646,109660,109660,East Melbourne,Michael Murphy,"Lot 6, Level 5, 182-184 Victoria Parade EAST MELBOURNE 3002",8512,Specialist Medical Services,144.9779037009024,-37.8089547
-2022,656,105126,105126,East Melbourne,Cricket Australia,Level 2 128-136 Jolimont Road EAST MELBOURNE VIC 3002,9112,Sports and Physical Recreation Clubs and Sports Professionals,144.9791900624346,-37.81750017
-2016,646,109660,109660,East Melbourne,East Melbourne Podiatry,"Lot 3, Level 2, 182-184 Victoria Parade EAST MELBOURNE 3002",8599,Other Health Care Services n.e.c.,144.9779037009024,-37.8089547
-2022,656,105128,105128,East Melbourne,Number One Womens Health,Part Level 1 120 Jolimont Road EAST MELBOURNE VIC 3002,8539,Other Allied Health Services,144.9791267553843,-37.81786791
-2016,646,109660,109660,East Melbourne,Dr Vadim Mirmilestein,"Lot 3, Level 2, 182-184 Victoria Parade EAST MELBOURNE 3002",8512,Specialist Medical Services,144.9779037009024,-37.8089547
-2022,656,105129,105129,East Melbourne,Vacant,108-110 Jolimont Road EAST MELBOURNE VIC 3002,0,Vacant Space,144.97909751247153,-37.81803777
-2016,646,109660,109660,East Melbourne,Synapse Medical Services,"Lot 2, Level 1, 182-184 Victoria Parade EAST MELBOURNE 3002",7292,Document Preparation Services,144.9779037009024,-37.8089547
-2022,656,105134,105134,East Melbourne,CSE,Level 1 & Part Level 2 82 Jolimont Street EAST MELBOURNE VIC 3002,9551,Business and Professional Association Services,144.979993,-37.81822582
-2016,646,109660,109660,East Melbourne,Integrative Psychology Pty Ltd,"Lot 3, Level 2, 182-184 Victoria Parade EAST MELBOURNE 3002",8512,Specialist Medical Services,144.9779037009024,-37.8089547
-2022,656,105137,105137,East Melbourne,H.I.A. Insurance Services,Level 2 70 Jolimont Street EAST MELBOURNE VIC 3002,6322,General Insurance,144.9803627,-37.81820615
-2016,646,109660,109660,East Melbourne,"Evren-Ear,Nose and Throat Clinic","Lot 4, Level 3, 182-184 Victoria Parade EAST MELBOURNE 3002",8512,Specialist Medical Services,144.9779037009024,-37.8089547
-2022,656,105137,105137,East Melbourne,Vacant,Level 4 70 Jolimont Street EAST MELBOURNE VIC 3002,0,Vacant Space,144.9803627,-37.81820615
-2016,646,109660,109660,East Melbourne,Palliative Care Victoria,"Lot 3, Level 2, 182-184 Victoria Parade EAST MELBOURNE 3002",9559,Other Interest Group Services n.e.c.,144.9779037009024,-37.8089547
-2022,656,105147,105147,East Melbourne,Vacant,32-34 Jolimont Terrace EAST MELBOURNE VIC 3002,0,Vacant Space,144.98146392387412,-37.81808963
-2016,646,109660,109660,East Melbourne,Mr T Redhead,"Lot 5, Part 182-184 Victoria Parade EAST MELBOURNE 3002",8512,Specialist Medical Services,144.9779037009024,-37.8089547
-2022,656,109988,109988,East Melbourne,Barassi & Co Chartered Accountants,Ground & Part Level 1 149-151 Wellington Parade South EAST MELBOURNE VIC 3002,6932,Accounting Services,144.9796769,-37.81677377
-2016,646,109660,109660,East Melbourne,Mr David Wallace,"Lot 5, Level 4, 182-184 Victoria Parade EAST MELBOURNE 3002",8512,Specialist Medical Services,144.9779037009024,-37.8089547
-2022,656,109988,109988,East Melbourne,Tigers Realm Coal Limited,Part Level 1 149-151 Wellington Parade South EAST MELBOURNE VIC 3002,600,Coal Mining,144.9796769,-37.81677377
-2016,646,109661,109661,East Melbourne,Cochlear Limited,"Part Level 1, 174 Victoria Parade EAST MELBOURNE 3002",6910,Scientific Research Services,144.9777340459487,-37.80893638
-2022,657,101064,101064,East Melbourne,Yarra Park Children's Centre,17-29 Berry Street EAST MELBOURNE VIC 3002,8710,Child Care Services,144.9883573,-37.81860737
-2016,646,109661,109661,East Melbourne,Cochlear Care Centre,"Ground , 174 Victoria Parade EAST MELBOURNE 3002",8512,Specialist Medical Services,144.9777340459487,-37.80893638
-2022,658,110264,110264,East Melbourne,Citipower Pty,"Substation 46 Adjacent 58 Vale Street South, EAST MELBOURNE VIC 3002",2620,Electricity Transmission,144.9872781285602,-37.81972785
-2016,646,109662,109662,East Melbourne,Royal Victorian Eye and Ear Hospital,168-172 Victoria Parade EAST MELBOURNE 3002,8401,Hospitals (except Psychiatric Hospitals),144.97755658378236,-37.80891722
-2022,658,110264,110264,East Melbourne,Yarra Park,Brunton Avenue EAST MELBOURNE 3002,8922,Nature Reserves and Conservation Parks Operation,144.9872781285602,-37.81972785
-2016,646,638520,638520,East Melbourne,Balmoral House Hostel,146-152 Victoria Parade EAST MELBOURNE 3002,4400,Accommodation,,
-2022,658,110265,110264,East Melbourne,Richmond Football Club Limited - Oval,Part Punt Road Oval Punt Road EAST MELBOURNE VIC 3002,9112,Sports and Physical Recreation Clubs and Sports Professionals,144.9872781285602,-37.81972785
-2016,646,638520,638520,East Melbourne,RuronaHouse,146-150 Victoria Parade EAST MELBOURNE 3002,4400,Accommodation,,
-2022,658,110265,110264,East Melbourne,Richmond Football Club Limited - Office,Office Punt Road Oval Yarra Park Punt Road EAST MELBOURNE VIC 3002,9112,Sports and Physical Recreation Clubs and Sports Professionals,144.9872781285602,-37.81972785
-2016,649,110700,104369,East Melbourne,IG Partners,"Part Level 1, 15 Gisborne Street EAST MELBOURNE 3002",6962,Management Advice and Other Consulting Services,144.9749695915576,-37.80986997
-2022,658,110266,110266,East Melbourne,Melbourne Cricket Club,MCG 120 Brunton Avenue EAST MELBOURNE VIC 3002,9113,"Sports and Physical Recreation Venues, Grounds and Facilities Operation",144.9831880016318,-37.82000693
-2016,649,110742,108974,East Melbourne,Victorian Parliament,160 Spring Street EAST MELBOURNE 3002,7520,State Government Administration,144.97417004087114,-37.81086095
-2022,658,110266,110266,East Melbourne,Australian Sports Museum,"Part Olympic Stand, MCG 120 Brunton Avenue EAST MELBOURNE VIC 3002",8910,Museum Operation,144.9831880016318,-37.82000693
-2016,649,110742,108974,East Melbourne,Strangers Corridor,"Level 1, 160 Spring Street EAST MELBOURNE 3002",4511,Cafes and Restaurants,144.97417004087114,-37.81086095
-2022,658,110266,110266,East Melbourne,MCG Tours,"Part Olympic Stand, MCG 120 Brunton Avenue EAST MELBOURNE VIC 3002",8910,Museum Operation,144.9831880016318,-37.82000693
-2016,649,110743,108974,East Melbourne,Parliamentary Committees,481-487 Albert Street EAST MELBOURNE 3002,7520,State Government Administration,144.97417004087114,-37.81086095
-2022,658,110266,110266,East Melbourne,Spotless Services,Part MCG 120 Brunton Avenue EAST MELBOURNE VIC 3002,4511,Cafes and Restaurants,144.9831880016318,-37.82000693
-2016,649,108995,108995,East Melbourne,Gordon Reserve,74-108 Spring Street EAST MELBOURNE 3002,8922,Nature Reserves and Conservation Parks Operation,144.97407597498966,-37.81234839
-2022,658,110266,110266,East Melbourne,Tab,TAB MCG 120 Brunton Avenue EAST MELBOURNE VIC 3002,9209,Other Gambling Activities,144.9831880016318,-37.82000693
-2016,651,557129,101779,East Melbourne,Cell Therapies Pty Ltd,10 St Andrews Place EAST MELBOURNE 3002,6910,Scientific Research Services,144.9774093613641,-37.811521
-2022,659,100847,100847,Melbourne (Remainder),Open Space,Batman Avenue MELBOURNE 3004,8922,Nature Reserves and Conservation Parks Operation,144.9790384792317,-37.8213404
-2016,651,107429,107429,East Melbourne,Park Hyatt Melbourne Entrance,Parliament Place EAST MELBOURNE 3002,4400,Accommodation,144.97579948472233,-37.81136961
-2022,660,531599,109256,Melbourne (Remainder),Collingwood Football Club Limited,Part Holden Centre Olympic Park 10 Olympic Boulevard MELBOURNE VIC 3004,9112,Sports and Physical Recreation Clubs and Sports Professionals,144.9824560052769,-37.82484857
-2016,651,107430,107430,East Melbourne,National Trust of Australia (Victoria),2-8 Parliament Place EAST MELBOURNE 3002,9559,Other Interest Group Services n.e.c.,144.97575519744709,-37.81162413
-2022,660,573342,109256,Melbourne (Remainder),Olympic Park Oval,Olympic Park Oval 30 Olympic Boulevard MELBOURNE VIC 3004,9113,"Sports and Physical Recreation Venues, Grounds and Facilities Operation",144.9824560052769,-37.82484857
-2016,651,111469,111469,East Melbourne,Park Hyatt Melbourne,20 Cathedral Place EAST MELBOURNE 3002,4400,Accommodation,144.9765191718672,-37.81131306
-2022,660,597955,109256,Melbourne (Remainder),Barlaston Pty Ltd,Part AAMI Park Olympic Park 60 Olympic Boulevard MELBOURNE VIC 3004,8533,Physiotherapy Services,144.9824560052769,-37.82484857
-2016,652,108599,109542,East Melbourne,Department of Education & Early Childhood Development,23 St Andrews Place EAST MELBOURNE 3002,7520,State Government Administration,144.97568089859797,-37.81280148
-2022,660,597955,109256,Melbourne (Remainder),Victorian Olympic Council Inc,Part AAMI Park Olympic Park 60 Olympic Boulevard MELBOURNE VIC 3004,9114,Sport and Physical Recreation Administrative Service,144.9824560052769,-37.82484857
-2016,652,109547,109547,East Melbourne,Office of Victorian Government Architect,"Part Level 2, 20 Spring Street EAST MELBOURNE 3002",7520,State Government Administration,144.97434518032065,-37.81320861
-2022,660,646982,109256,Melbourne (Remainder),The Glasshouse,Part The Glasshouse Olympic Park 20 Olympic Boulevard MELBOURNE VIC 3004,6712,Non-Residential Property Operators,144.9824560052769,-37.82484857
-2016,652,609343,609343,East Melbourne,St Andrews Place Reserve,St Andrews Place EAST MELBOURNE 3002,8922,Nature Reserves and Conservation Parks Operation,,
-2022,661,111460,111460,East Melbourne,Jolimont Reserve,Jolimont Reserve Wellington Parade South EAST MELBOURNE VIC 3002,8922,Nature Reserves and Conservation Parks Operation,144.98059074816084,-37.81638866
-2016,655,105121,105121,East Melbourne,Mantra On Jolimont / Boundary Line Bar,"Level 1, 133 Jolimont Road EAST MELBOURNE 3002",4400,Accommodation,144.97828721326022,-37.81795065
-2022,710,108620,108620,Melbourne (Remainder),Delisure Kitchen,"Shop 1, 391 St Kilda Road MELBOURNE VIC 3004",4511,Cafes and Restaurants,144.97571669564798,-37.83548527
-2016,655,105122,105122,East Melbourne,Recreational Areas (Wellington Cresent),157 Jolimont Road EAST MELBOURNE 3002,8922,Nature Reserves and Conservation Parks Operation,144.97693010015723,-37.81669592
-2022,710,108621,108621,Melbourne (Remainder),Denim It Consulting And Law,"Shop 7A, 397 St Kilda Road MELBOURNE VIC 3004",6931,Legal Services,144.97603268455885,-37.83571029
-2016,655,580629,580629,East Melbourne,Irwin Consult,"Part Level 3, 279 Wellington Parade South EAST MELBOURNE 3002",6923,Engineering Design and Engineering Consulting Services,144.97653897867497,-37.81674567
-2022,710,108622,108622,Melbourne (Remainder),B Convenience,Ground 403 St Kilda Road MELBOURNE VIC 3004,4110,Supermarket and Grocery Stores,144.97593792633205,-37.83587082
-2016,655,580629,580629,East Melbourne,Mugs Alley,291 Wellington Parade South EAST MELBOURNE 3002,4511,Cafes and Restaurants,144.97653897867497,-37.81674567
-2022,710,108623,108623,Melbourne (Remainder),Vacant,"Suite G3, 405 St Kilda Road MELBOURNE VIC 3004",0,Vacant Space,144.97612072787217,-37.83601611
-2016,656,100252,100252,East Melbourne,Krongold Group of Companies,"Part Level 1, 33-41 Agnes Street JOLIMONT 3002",3211,Land Development and Subdivision,144.9797285547559,-37.81751405
-2022,710,108625,108625,Melbourne (Remainder),Subway,407B St Kilda Road MELBOURNE VIC 3004,4512,Takeaway Food Services,144.9761948,-37.83626983
-2016,656,105126,105126,East Melbourne,vacant,128-136 Jolimont Road JOLIMONT 3002,0,Vacant Space,144.97919944320205,-37.81750148
-2022,720,108627,108627,Melbourne (Remainder),Tandem,Level 1 & Part Level 4 417 St Kilda Road MELBOURNE VIC 3004,6962,Management Advice and Other Consulting Services,144.97704370947372,-37.83774644
-2016,656,105127,105127,East Melbourne,Jolimont Consulting group,124-126 Jolimont Road JOLIMONT 3002,8539,Other Allied Health Services,144.97916704325513,-37.81768969
-2022,720,108627,108627,Melbourne (Remainder),Bon,Part Ground 417 St Kilda Road MELBOURNE VIC 3004,4511,Cafes and Restaurants,144.97704370947372,-37.83774644
-2016,656,105128,105128,East Melbourne,vacant,"Part Ground , 120 Jolimont Road JOLIMONT 3002",0,Vacant Space,144.9791361380477,-37.81786921
-2022,720,108627,108627,Melbourne (Remainder),Tokyo Sushi Kitchen,Part Ground 417 St Kilda Road MELBOURNE VIC 3004,4511,Cafes and Restaurants,144.97704370947372,-37.83774644
-2016,656,105128,105128,East Melbourne,Dorsavi,"Part Level 1, 120 Jolimont Road JOLIMONT 3002",6910,Scientific Research Services,144.9791361380477,-37.81786921
-2022,720,108627,108627,Melbourne (Remainder),The Royal Australasian College of Physicians,Part Level 2 417 St Kilda Road MELBOURNE VIC 3004,9551,Business and Professional Association Services,144.97704370947372,-37.83774644
-2016,656,105128,105128,East Melbourne,Caine Real Estate,"Part Ground , 120 Jolimont Road JOLIMONT 3002",6720,Real Estate Services,144.9791361380477,-37.81786921
-2022,720,108627,108627,Melbourne (Remainder),Century Plaza Trading Pty Ltd,Part Level 7 417 St Kilda Road MELBOURNE VIC 3004,6240,Financial Asset Investing,144.97704370947372,-37.83774644
-2016,656,105133,105133,East Melbourne,Cricket Victoria,86-88 Jolimont Street JOLIMONT 3002,9114,Sport and Physical Recreation Administrative Service,144.9797285615565,-37.81819455
-2022,720,108627,108627,Melbourne (Remainder),Vacant,Part Level 2 & Level 3 417 St Kilda Road MELBOURNE VIC 3004,0,Vacant Space,144.97704370947372,-37.83774644
-2016,656,105135,105135,East Melbourne,Melbourne Stars,"Ground , 80 Jolimont Street JOLIMONT 3002",9114,Sport and Physical Recreation Administrative Service,144.98009704959424,-37.81823692
-2022,720,108629,108629,Melbourne (Remainder),Fawkner Express,"Suite 2-3, Ground 431 St Kilda Road MELBOURNE VIC 3004",4110,Supermarket and Grocery Stores,144.97705516826431,-37.83852859
-2016,656,105136,105136,East Melbourne,B2B Lawyers,76-78 Jolimont Street JOLIMONT 3002,6931,Legal Services,144.9801879706038,-37.81824631
-2022,720,108629,108629,Melbourne (Remainder),Phillip Anthony Partners Pty Ltd,"Suite 19-20, Level 1 431 St Kilda Road MELBOURNE VIC 3004",6932,Accounting Services,144.97705516826431,-37.83852859
-2016,656,105137,105137,East Melbourne,Housing Industry Association,70 Jolimont Street JOLIMONT 3002,9551,Business and Professional Association Services,144.98037209074636,-37.81820744
-2022,720,108629,108629,Melbourne (Remainder),Westpac,"Part Suite 43, Level 2 431 St Kilda Road MELBOURNE VIC 3004",6221,Banking,144.97705516826431,-37.83852859
-2016,656,105139,105139,East Melbourne,W Marshall & Associates,64 Jolimont Street JOLIMONT 3002,6932,Accounting Services,144.9806327416161,-37.81823634
-2022,720,108629,108629,Melbourne (Remainder),Little Beauty Bar Melbourne,"Suite 9, Ground 431 St Kilda Road MELBOURNE VIC 3004",9511,Hairdressing and Beauty Services,144.97705516826431,-37.83852859
-2016,656,105141,105141,East Melbourne,Cricket Australia,60 Jolimont Street JOLIMONT 3002,9114,Sport and Physical Recreation Administrative Service,144.9808782573573,-37.81826356
-2022,720,108629,108629,Melbourne (Remainder),Melbourne Chamber Orchestra Inc,"Suite 31, Level 1 431 St Kilda Road MELBOURNE VIC 3004",9001,Performing Arts Operation,144.97705516826431,-37.83852859
-2016,656,105147,105147,East Melbourne,Tamarra,32-34 Jolimont Terrace JOLIMONT 3002,6419,Other Auxiliary Finance and Investment Services,144.9814733020981,-37.81809093
-2022,720,108629,108629,Melbourne (Remainder),Moody Brew Coffee Bar,"Suite 6, Ground 431 St Kilda Road MELBOURNE VIC 3004",4511,Cafes and Restaurants,144.97705516826431,-37.83852859
-2016,656,109985,109985,East Melbourne,Aggies Cafe Bar Restaurant,137 Agnes Street JOLIMONT 3002,4511,Cafes and Restaurants,144.97999262134277,-37.81680857
-2022,720,108629,108629,Melbourne (Remainder),Mitchell Munn Valuations Pty Ltd,"Suite 40, Level 1 431 St Kilda Road MELBOURNE VIC 3004",6720,Real Estate Services,144.97705516826431,-37.83852859
-2016,658,110264,110264,East Melbourne,Yarra Park,Brunton Avenue JOLIMONT 3002,8922,Nature Reserves and Conservation Parks Operation,144.98728756357266,-37.81972752
-2022,720,108629,108629,Melbourne (Remainder),Australian Nurses Memorial Centre,"Suite 11-12, Ground 431 St Kilda Road MELBOURNE VIC 3004",9551,Business and Professional Association Services,144.97705516826431,-37.83852859
-2016,658,111414,110264,East Melbourne,Electricity Substation,"Substation 10, Opposite 50 Jolimont Street JOLIMONT 3002",2620,Electricity Transmission,144.98728756357266,-37.81972752
-2022,720,587425,587425,Melbourne (Remainder),Toorak and St Kilda Road Reserve,Toorak & St Kilda Road Reserve Toorak Road MELBOURNE VIC 3004,8922,Nature Reserves and Conservation Parks Operation,144.97625739735014,-37.83683415
-2016,658,110266,110266,East Melbourne,National Sports Museum,120 Brunton Avenue JOLIMONT 3002,8910,Museum Operation,144.98319738818486,-37.82000821
-2022,724,108646,108646,Melbourne (Remainder),Vacant,1A-3 Commercial Road MELBOURNE VIC 3004,0,Vacant Space,144.97987060014765,-37.84555711
-2016,658,110266,110266,East Melbourne,Melbourne Cricket Club,120 Brunton Avenue JOLIMONT 3002,9113,"Sports and Physical Recreation Venues, Grounds and Facilities Operation",144.98319738818486,-37.82000821
-2022,724,108646,108646,Melbourne (Remainder),Nando's Chevron,17 Commercial Road MELBOURNE VIC 3004,4511,Cafes and Restaurants,144.97987060014765,-37.84555711
-2016,658,110266,110266,East Melbourne,Spotless Services,Part 120 Brunton Avenue JOLIMONT 3002,4511,Cafes and Restaurants,144.98319738818486,-37.82000821
-2022,724,108646,108646,Melbourne (Remainder),Hawker Canteen,521 St Kilda Road MELBOURNE VIC 3004,4511,Cafes and Restaurants,144.97987060014765,-37.84555711
-2016,658,110266,110266,East Melbourne,Ticketek,"Part Ground , 120 Brunton Avenue JOLIMONT 3002",7299,Other Administrative Services n.e.c.,144.98319738818486,-37.82000821
-2022,724,108647,108647,Melbourne (Remainder),Vacant,Part Ground & Level 1-6 541 St Kilda Road MELBOURNE VIC 3004,0,Vacant Space,144.98005827881204,-37.84607442
-2016,658,110266,110266,East Melbourne,MCG Tours,120 Brunton Avenue JOLIMONT 3002,8910,Museum Operation,144.98319738818486,-37.82000821
-2022,724,108649,108649,Melbourne (Remainder),Experian,Level 6 549 St Kilda Road MELBOURNE VIC 3004,6940,Advertising Services,144.9802819032385,-37.84658908
-2016,659,624156,100847,Melbourne (Remainder),Tennis Australia,Part 200 Batman Avenue MELBOURNE 3004,9114,Sport and Physical Recreation Administrative Service,144.97911103405852,-37.82121117
-2022,728,110605,110605,Southbank,Vacant,33 Meaden Street SOUTHBANK VIC 3006,0,Vacant Space,144.95400097782618,-37.82778111
-2016,660,597955,109256,Melbourne (Remainder),Melbourne Storm Rugby League Club Limited,Part 60 Olympic Boulevard MELBOURNE 3004,9112,Sports and Physical Recreation Clubs and Sports Professionals,144.98246541664287,-37.82484984
-2022,729,110475,110475,Southbank,Launch Housing Southbank,Launch Housing 52-70 Haig Street SOUTHBANK VIC 3006,8609,Other Residential Care Services,144.9564236535723,-37.82727288
-2016,660,597955,109256,Melbourne (Remainder),Edwin's Cafe,Part 60 Olympic Boulevard MELBOURNE 3004,4511,Cafes and Restaurants,144.98246541664287,-37.82484984
-2022,729,110487,110487,Southbank,Europcar,50-54 Clarendon Street SOUTHBANK VIC 3006,6611,Passenger Car Rental and Hiring,144.95703571051317,-37.82627107
-2016,660,597955,109256,Melbourne (Remainder),Melbourne Victory Football Club,Part 60 Olympic Boulevard MELBOURNE 3004,9112,Sports and Physical Recreation Clubs and Sports Professionals,144.98246541664287,-37.82484984
-2022,730,110400,110400,Southbank,BP Connect,322-332 City Road SOUTHBANK VIC 3006,4000,Fuel Retailing,144.9576407188754,-37.82756039
-2016,660,597955,109256,Melbourne (Remainder),Melbourne Football Club,Part 60 Olympic Boulevard MELBOURNE 3004,9112,Sports and Physical Recreation Clubs and Sports Professionals,144.98246541664287,-37.82484984
-2022,730,110401,110401,Southbank,Vacant,Basement 334-342 City Road SOUTHBANK VIC 3006,0,Vacant Space,144.9573512903071,-37.82783772
-2016,660,597955,109256,Melbourne (Remainder),Victorian Tennis Association,Part 60 Olympic Boulevard MELBOURNE 3004,9114,Sport and Physical Recreation Administrative Service,144.98246541664287,-37.82484984
-2022,730,110401,110401,Southbank,Vacant,Part Ground 334-342 City Road SOUTHBANK VIC 3006,0,Vacant Space,144.9573512903071,-37.82783772
-2016,661,109992,109992,East Melbourne,Wellington Park,Wellington Parade South EAST MELBOURNE 3002,8922,Nature Reserves and Conservation Parks Operation,144.9776995,-37.81603354
-2022,730,110402,110402,Southbank,City Road Management Pty Ltd,344 City Road SOUTHBANK VIC 3006,4400,Accommodation,144.9571245862669,-37.82794172
-2016,662,109975,109975,East Melbourne,Vacant,63-65 Wellington Parade JOLIMONT 3002,0,Vacant Space,,
-2022,730,110473,110473,Southbank,Vacant,65-71 Haig Street SOUTHBANK VIC 3006,0,Vacant Space,144.9565549126964,-37.82786726
-2016,662,110017,110017,East Melbourne,Weedon Reserve,1-61 Wellington Parade EAST MELBOURNE 3002,8922,Nature Reserves and Conservation Parks Operation,144.98936017442796,-37.81703859
-2022,730,110491,110491,Southbank,Southbank Residential Pty Ltd,"Unit 102, Ground 45 Haig Street SOUTHBANK VIC 3006",6720,Real Estate Services,144.95737836755416,-37.82721009
-2016,710,108620,108620,Melbourne (Remainder),@Rice Cafe & Bar,"Shop 2, 391 St Kilda Road MELBOURNE 3004",4511,Cafes and Restaurants,144.97572656547288,-37.83548659
-2022,731,110377,110377,Southbank,McDonalds,305-331 City Road SOUTHBANK VIC 3006,4511,Cafes and Restaurants,144.9579148110422,-37.82823635
-2016,710,108620,108620,Melbourne (Remainder),Vacant,"Level 2, 391 St Kilda Road MELBOURNE 3004",0,Vacant Space,144.97572656547288,-37.83548659
-2022,732,110375,110375,Southbank,Vacant,Part Ground 285 City Road SOUTHBANK VIC 3006,0,Vacant Space,144.95877974899338,-37.82742528
-2016,710,108621,108621,Melbourne (Remainder),Domain Newsagency,"Shop 6, 397 St Kilda Road MELBOURNE 3004",4244,Newspaper and Book Retailing,144.9760423808675,-37.83571161
-2022,732,110466,110466,Southbank,Vacant,54 Clarke Street SOUTHBANK VIC 3006,0,Vacant Space,144.9591641388897,-37.82755226
-2016,710,108621,108621,Melbourne (Remainder),Skin Temple,"Shop 7, 397 St Kilda Road MELBOURNE 3004",9511,Hairdressing and Beauty Services,144.9760423808675,-37.83571161
-2022,732,110483,110483,Southbank,Crown Staff Parking,127-135 Clarendon Street SOUTHBANK VIC 3006,9201,Casino Operation,144.95914203339998,-37.82829112
-2016,710,108621,108621,Melbourne (Remainder),Domain Post Office,"Shop 4, 397 St Kilda Road MELBOURNE 3004",5101,Postal Services,144.9760423808675,-37.83571161
-2022,733,110396,110396,Southbank,Peritus Technology Pty Ltd,292-294 City Road SOUTHBANK VIC 3006,9422,Electronic (except Domestic Appliance) and Precision Equipment Repair and Maint,144.95861547757875,-37.82675831
-2016,710,108622,108622,Melbourne (Remainder),Earl Canteen,403A St Kilda Road MELBOURNE 3004,4511,Cafes and Restaurants,144.97594740582142,-37.83587214
-2022,733,110397,110397,Southbank,Vacant,Gnd & Flr1 300 City Road SOUTHBANK VIC 3006,0,Vacant Space,144.95845940402495,-37.82689102
-2016,710,108623,108623,Melbourne (Remainder),Vacant,405 St Kilda Road MELBOURNE 3004,0,Vacant Space,144.9761308886499,-37.83601897
-2022,733,110399,110399,Southbank,Edwin Wine Bar,105A Clarendon Street SOUTHBANK VIC 3006,4511,Cafes and Restaurants,144.9582570056776,-37.82713113
-2016,710,108625,108625,Melbourne (Remainder),Cafe Rosco,407C-407D St Kilda Road MELBOURNE 3004,4511,Cafes and Restaurants,144.9762042555408,-37.83627053
-2022,733,110399,110399,Southbank,The Cloakroom Bar,Level 46 308 City Road SOUTHBANK VIC 3006,4520,"Pubs, Taverns and Bars",144.9582570056776,-37.82713113
-2016,710,108625,108625,Melbourne (Remainder),Subway,407B St Kilda Road MELBOURNE 3004,4512,Takeaway Food Services,144.9762042555408,-37.83627053
-2022,734,110370,110370,Southbank,Vacant,243 City Road SOUTHBANK VIC 3006,0,Vacant Space,144.9600035443899,-37.82651045
-2016,720,108626,108626,Melbourne (Remainder),Tien Tran Solicitors,"Part Level 12, 409 St Kilda Road MELBOURNE 3004",6931,Legal Services,144.97691090259116,-37.83735766
-2022,734,110371,110371,Southbank,Vacant,"Suite 101, Level 1 245 City Road SOUTHBANK VIC 3006",0,Vacant Space,144.9598182,-37.82674665
-2016,720,108626,108626,Melbourne (Remainder),First 5 Minutes Pty Ltd,"Part Level 9, 409 St Kilda Road MELBOURNE 3004",8219,"Adult, Community and Other Education n.e.c.",144.97691090259116,-37.83735766
-2022,734,110372,110372,Southbank,Vacant,"Shop 2, 263 City Road SOUTHBANK VIC 3006",0,Vacant Space,144.9594939941902,-37.82684854
-2016,720,108626,108626,Melbourne (Remainder),Port Finance Group Pty Ltd,"Part Level 6, 409 St Kilda Road MELBOURNE 3004",6419,Other Auxiliary Finance and Investment Services,144.97691090259116,-37.83735766
-2022,734,110463,110463,Southbank,Unified Energy,Part Ground 51-65 Clarke Street SOUTHBANK VIC 3006,3232,Electrical Services,144.9597264487462,-37.827319
-2016,720,108626,108626,Melbourne (Remainder),Restaurant & Catering Association,"Part Level 3, 409 St Kilda Road MELBOURNE 3004",9551,Business and Professional Association Services,144.97691090259116,-37.83735766
-2022,734,110463,110463,Southbank,SMA GROUP SERVICES PTY LTD,Part Level 2 51-65 Clarke Street SOUTHBANK VIC 3006,3011,House Construction,144.9597264487462,-37.827319
-2016,720,108626,108626,Melbourne (Remainder),Next,"Part Level 5, 409 St Kilda Road MELBOURNE 3004",7211,Employment Placement and Recruitment Services,144.97691090259116,-37.83735766
-2022,734,110465,110465,Southbank,Crown Melbourne Limited,71-75 Clarke Street SOUTHBANK VIC 3006,9533,Parking Services,144.9600728004601,-37.8280004
-2016,720,108626,108626,Melbourne (Remainder),Australian National Consulting Pty Ltd,"Part Level 12, 409 St Kilda Road MELBOURNE 3004",6419,Other Auxiliary Finance and Investment Services,144.97691090259116,-37.83735766
-2022,734,110633,110633,Southbank,Imperium 18 Apartments,Level 1-33 18-24 Moray Street SOUTHBANK VIC 3006,4400,Accommodation,144.96019599948846,-37.82675738
-2016,720,108626,108626,Melbourne (Remainder),Vacant,"Part Level 2, 409 St Kilda Road MELBOURNE 3004",0,Vacant Space,144.97691090259116,-37.83735766
-2022,734,110634,110634,Southbank,Electricity Substation,Substation 12 Hancock Street SOUTHBANK VIC 3006,2620,Electricity Transmission,144.96021282139975,-37.8271777
-2016,720,108626,108626,Melbourne (Remainder),Westpac Banking Corporation,"Ground , 409 St Kilda Road MELBOURNE 3004",6221,Banking,144.97691090259116,-37.83735766
-2022,734,110635,110635,Southbank,Vacant,Part Level 1 42 Moray Street SOUTHBANK VIC 3006,0,Vacant Space,144.96041370461484,-37.82754796
-2016,720,108627,108627,Melbourne (Remainder),Quintiq,"Part Level 8, 417-421 St Kilda Road MELBOURNE 3004",7000,Computer System Design and Related Services,144.97705316396585,-37.83774777
-2022,735,110444,110444,Southbank,Care Park,100-110 Kings Way SOUTHBANK VIC 3006,9533,Parking Services,144.96166447695057,-37.82794966
-2016,720,108627,108627,Melbourne (Remainder),The Cupcake Queens,"Part Ground , 417 St Kilda Road MELBOURNE 3004",4512,Takeaway Food Services,144.97705316396585,-37.83774777
-2022,735,110630,110630,Southbank,360 South,11 Moray Street SOUTHBANK VIC 3006,7000,Computer System Design and Related Services,144.9608469,-37.8268518
-2016,720,108627,108627,Melbourne (Remainder),Gilead,"Level 6, 417 St Kilda Road MELBOURNE 3004",3720,Pharmaceutical and Toiletry Goods Wholesaling,144.97705316396585,-37.83774777
-2022,735,110631,110631,Southbank,Partners In Training Australia Pty Ltd,Part Level 2 21 Moray Street SOUTHBANK VIC 3006,8101,Technical and Vocational Education and Training,144.9611367061462,-37.82728867
-2016,720,108627,108627,Melbourne (Remainder),The Royal Australasian College of Physicians,"Part Level 2, 417 St Kilda Road MELBOURNE 3004",9551,Business and Professional Association Services,144.97705316396585,-37.83774777
-2022,735,110631,110631,Southbank,Vacant,Ground 21 Moray Street SOUTHBANK VIC 3006,0,Vacant Space,144.9611367061462,-37.82728867
-2016,720,108627,108627,Melbourne (Remainder),Vacant,417 St Kilda Road MELBOURNE 3004,0,Vacant Space,144.97705316396585,-37.83774777
-2022,736,706735,110408,Southbank,BWS,"Shop 2, 10 Hoff Boulevard SOUTHBANK VIC 3006",4123,Liquor Retailing,144.9635736,-37.82572544
-2016,720,108629,108629,Melbourne (Remainder),Surefact Australia,"Unit 22, Level 1, 431 St Kilda Road MELBOURNE 3004",7712,Investigation and Security Services,144.9770646241192,-37.83852993
-2022,736,706735,110408,Southbank,Vacant,"Tenancy 101, Level 1 10 Hoff Boulevard SOUTHBANK VIC 3006",0,Vacant Space,144.9635736,-37.82572544
-2016,720,108629,108629,Melbourne (Remainder),Eagle Financial Solutions Pty Ltd,"Suite 35, Level 1, 431 St Kilda Road MELBOURNE 3004",6240,Financial Asset Investing,144.9770646241192,-37.83852993
-2022,736,706735,110408,Southbank,Waku Waku,"Shop 3, 10 Hoff Boulevard SOUTHBANK VIC 3006",4512,Takeaway Food Services,144.9635736,-37.82572544
-2016,720,108629,108629,Melbourne (Remainder),Slater St Bench,"Suite 8, Ground , 431 St Kilda Road MELBOURNE 3004",4511,Cafes and Restaurants,144.9770646241192,-37.83852993
-2022,736,706735,110408,Southbank,Yarra Park City Pty Ltd,Carpark 10 Hoff Boulevard SOUTHBANK VIC 3006,9533,Parking Services,144.9635736,-37.82572544
-2016,720,108629,108629,Melbourne (Remainder),Dingle Partners Pty Ltd,"Suite 7, Ground , 431 St Kilda Road MELBOURNE 3004",6720,Real Estate Services,144.9770646241192,-37.83852993
-2022,736,706736,110408,Southbank,Vacant,"Shop 1, 11 Bale Circuit SOUTHBANK VIC 3006",0,Vacant Space,144.9635736,-37.82572544
-2016,720,108629,108629,Melbourne (Remainder),Fable Music Pty Ltd,"Suite 38, Level 1, 431-431 St Kilda Road MELBOURNE 3004",1620,Reproduction of Recorded Media,144.9770646241192,-37.83852993
-2022,736,110410,110410,Southbank,Electricity Substation,121-125 Kavanagh Street SOUTHBANK VIC 3006,2620,Electricity Transmission,144.96226507934267,-37.82639115
-2016,720,108629,108629,Melbourne (Remainder),Byron Consulting Pty Ltd,"Suite 31, Level 1, 431 St Kilda Road MELBOURNE 3004",6962,Management Advice and Other Consulting Services,144.9770646241192,-37.83852993
-2022,736,110441,110441,Southbank,Vacant,63-83 Kings Way SOUTHBANK VIC 3006,0,Vacant Space,144.9618319746424,-37.82679655
-2016,720,587425,587425,Melbourne (Remainder),Toorak and St Kilda Road Reserve,Toorak Road MELBOURNE 3004,8922,Nature Reserves and Conservation Parks Operation,144.9762650205266,-37.83683549
-2022,736,640606,640606,Southbank,Vacant,Rear 135-149 Kings Way SOUTHBANK VIC 3006,0,Vacant Space,144.9643959,-37.82805813
-2016,724,106798,106798,Melbourne (Remainder),Village Melbourne - Ormond Hall,Part 557 St Kilda Road MELBOURNE 3004,4513,Catering Services,144.98093986721295,-37.84737019
-2022,736,706728,706728,Southbank,Kennedy Park,99-107 Kavanagh Street SOUTHBANK VIC 3006,8922,Nature Reserves and Conservation Parks Operation,144.96323305399778,-37.82530105
-2016,724,108646,108646,Melbourne (Remainder),Nando's Chevron,17 St Kilda Road MELBOURNE 3004,4511,Cafes and Restaurants,144.97988006702337,-37.84555849
-2022,737,110406,110406,Southbank,State Coroner's Office,State Coroner's Office 65 Kavanagh Street SOUTHBANK VIC 3006,7540,Justice,144.96478949001647,-37.82469709
-2016,724,108647,108647,Melbourne (Remainder),Duayne Cafe,"Part Ground , 541 St Kilda Road MELBOURNE 3004",4511,Cafes and Restaurants,144.9800677515115,-37.8460758
-2022,737,110406,110406,Southbank,Vacant,National Coronial Information System 65 Kavanagh Street SOUTHBANK VIC 3006,0,Vacant Space,144.96478949001647,-37.82469709
-2016,724,108647,108647,Melbourne (Remainder),Seek Limited,541 St Kilda Road MELBOURNE 3004,7211,Employment Placement and Recruitment Services,144.9800677515115,-37.8460758
-2022,738,110342,110342,Southbank,Melbourne Symphony Orchestra,Iwaki Auditorium 120-130 Southbank Boulevard SOUTHBANK VIC 3006,9003,Performing Arts Venue Operation,144.96649692066353,-37.8239921
-2016,724,108647,108647,Melbourne (Remainder),Vacant,"Part Ground , 541 St Kilda Road MELBOURNE 3004",0,Vacant Space,144.9800677515115,-37.8460758
-2022,738,110342,110342,Southbank,Citipower Pty,Substation 98 Sturt Street SOUTHBANK VIC 3006,2620,Electricity Transmission,144.96649692066353,-37.8239921
-2016,724,108648,108648,Melbourne (Remainder),Reinhild Robertson Pty Ltd,"Suite 13, 545 St Kilda Road MELBOURNE 3004",8512,Specialist Medical Services,144.98016355255947,-37.84633985
-2022,738,110622,110622,Southbank,Theatre Network Australia,"Part Suite 5, 152 Sturt Street SOUTHBANK VIC 3006",9001,Performing Arts Operation,144.96607155795095,-37.82539897
-2016,724,108648,108648,Melbourne (Remainder),Farrell Consulting Services,"Suite 8, Part 545 St Kilda Road MELBOURNE 3004",8512,Specialist Medical Services,144.98016355255947,-37.84633985
-2022,738,110622,110622,Southbank,Australian Performing Arts Market,"Part Suite 5, 152 Sturt Street SOUTHBANK VIC 3006",9001,Performing Arts Operation,144.96607155795095,-37.82539897
-2016,724,108648,108648,Melbourne (Remainder),Vacant,"Suite 2, 545 St Kilda Road MELBOURNE 3004",0,Vacant Space,144.98016355255947,-37.84633985
-2022,738,110622,110622,Southbank,Cafe Godot,"Suite 2A, 152 Sturt Street SOUTHBANK VIC 3006",4511,Cafes and Restaurants,144.96607155795095,-37.82539897
-2016,724,108648,108648,Melbourne (Remainder),Stuart Pettigrew Design Pty,"Suite 10, 545 St Kilda Road MELBOURNE 3004",6924,Other Specialised Design Services,144.98016355255947,-37.84633985
-2022,739,110738,110738,Southbank,Betwixt Cafe & Bar,"Part Building 877, 45 Sturt Street SOUTHBANK VIC 3006",4511,Cafes and Restaurants,144.96754903019752,-37.82517894
-2016,724,108648,108648,Melbourne (Remainder),On The Ball Personnel Australasia Pty Ltd,"Suite 11, 545 St Kilda Road MELBOURNE 3004",7211,Employment Placement and Recruitment Services,144.98016355255947,-37.84633985
-2022,739,567772,567772,Southbank,Electricity Substation,Substation 99A Sturt Street SOUTHBANK VIC 3006,2630,Electricity Distribution,144.9668283204345,-37.82595534
-2016,724,108648,108648,Melbourne (Remainder),Caliper Human Strategies (Australia) Pty Ltd,"Suite 8, Part 545 St Kilda Road MELBOURNE 3004",7211,Employment Placement and Recruitment Services,144.98016355255947,-37.84633985
-2022,739,620270,606476,Southbank,Melbourne Recital Centre,Part 31 Sturt Street SOUTHBANK VIC 3006,9003,Performing Arts Venue Operation,144.96787675627007,-37.82414021
-2016,724,108649,108649,Melbourne (Remainder),Monash University,"Level 1, 549-0 St Kilda Road MELBOURNE 3004",8102,Higher Education,144.98029138095802,-37.84659046
-2022,739,620270,606476,Southbank,Blondie Bar,Part 31 Sturt Street SOUTHBANK VIC 3006,4511,Cafes and Restaurants,144.96787675627007,-37.82414021
-2016,724,108649,108649,Melbourne (Remainder),Spotless Group Limited,"Level 1, 549 St Kilda Road MELBOURNE 3004",4513,Catering Services,144.98029138095802,-37.84659046
-2022,739,620273,620273,Southbank,Faculty Of Fine Arts And Music,33-43 Sturt Street SOUTHBANK VIC 3006,8102,Higher Education,144.96740466298934,-37.82454586
-2016,724,108650,108650,Melbourne (Remainder),Fair Work Building And Construction,"Level 2, 553 St Kilda Road MELBOURNE 3004",7520,State Government Administration,144.98038782913517,-37.84685438
-2022,740,110443,110443,Southbank,Hungry Jack's,"Shop 3, 165 Kings Way SOUTHBANK VIC 3006",4511,Cafes and Restaurants,144.96381368955002,-37.82872356
-2016,728,110605,110605,Southbank,Ace Parking Pty Ltd,33 Meaden Street SOUTHBANK 3006,9533,Parking Services,144.9541473186557,-37.82778103
-2022,740,110443,110443,Southbank,GM Cabs Southbank,"Shop 1, 153 Kings Way SOUTHBANK VIC 3006",4623,Taxi and Other Road Transport,144.96381368955002,-37.82872356
-2016,728,111524,111524,Southbank,Open Space,Rear 33 Meaden Street SOUTHBANK 3006,8922,Nature Reserves and Conservation Parks Operation,144.95457915633358,-37.82746946
-2022,740,110443,110443,Southbank,Vacant,"Shop 2-3, 153 Kings Way SOUTHBANK VIC 3006",0,Vacant Space,144.96381368955002,-37.82872356
-2016,729,110486,110486,Southbank,Clarendon St IGA X-Press,42-44 Whiteman Street SOUTHBANK 3006,4110,Supermarket and Grocery Stores,144.95686136932426,-37.82605674
-2022,740,110443,110443,Southbank,United,"Shop 1, 165 Kings Way SOUTHBANK VIC 3006",4000,Fuel Retailing,144.96381368955002,-37.82872356
-2016,729,110489,110489,Southbank,Europcar,60-62 Clarendon Street SOUTHBANK 3006,6611,Passenger Car Rental and Hiring,144.9572456445631,-37.82658959
-2022,741,110612,110612,Southbank,Vacant,"Suite 13, Level 1 117 Sturt Street SOUTHBANK VIC 3006",0,Vacant Space,144.96695911295785,-37.8271278
-2016,730,110401,110401,Southbank,Urban Central Accomodation / bar334,334-342 City Road SOUTHBANK 3006,4400,Accommodation,144.95736075837317,-37.8278391
-2022,741,110612,110612,Southbank,CitiPower,Substation 78 Dodds Street SOUTHBANK VIC 3006,2620,Electricity Transmission,144.96695911295785,-37.8271278
-2016,730,110403,110403,Southbank,Care Park Pty Ltd,358-366 City Road SOUTHBANK 3006,9533,Parking Services,144.9565598712123,-37.82822942
-2022,741,110612,110612,Southbank,Kath Papas Productions,"Suite 14, Level 1 117 Sturt Street SOUTHBANK VIC 3006",9002,"Creative Artists, Musicians, Writers and Performers",144.96695911295785,-37.8271278
-2016,730,110471,110471,Southbank,Vacant,"Part Level 1, 57-59 Haig Street SOUTHBANK 3006",0,Vacant Space,144.95698882979377,-37.82758165
-2022,741,110612,110612,Southbank,Black Hole Theatre Inc,"Suite 15, Level 1 117 Sturt Street SOUTHBANK VIC 3006",9002,"Creative Artists, Musicians, Writers and Performers",144.96695911295785,-37.8271278
-2016,730,110473,110473,Southbank,The Backlot Studios,65-71 Haig Street SOUTHBANK 3006,5513,Motion Picture Exhibition,144.95656596170994,-37.82788674
-2022,741,110612,110612,Southbank,Malthouse Theatre (Storage 2),"Suite 6, Ground 117 Sturt Street SOUTHBANK VIC 3006",9001,Performing Arts Operation,144.96695911295785,-37.8271278
-2016,730,110491,110491,Southbank,Southport Customs,"Unit 101, Ground , 45 Haig Street SOUTHBANK 3006",5291,Customs Agency Services,144.95738783639172,-37.82721146
-2022,741,110613,110613,Southbank,Vacant,Suite 2-3 & Pt Suite 4 Level 1 135 Sturt Street SOUTHBANK VIC 3006,0,Vacant Space,144.9668656680518,-37.82743685
-2016,732,110376,110376,Southbank,Budget Rent a Car,293-297 City Road SOUTHBANK 3006,6611,Passenger Car Rental and Hiring,144.95878827292003,-37.82762557
-2022,741,110614,110614,Southbank,Sturt Street IGA Plus Liquor,Part Ground 151 Sturt Street SOUTHBANK VIC 3006,4110,Supermarket and Grocery Stores,144.96678573256793,-37.82770122
-2016,732,110461,110461,Southbank,PSG Facility Services,35-37 Hancock Street SOUTHBANK 3006,9499,Other Repair and Maintenance n.e.c.,144.9590462208398,-37.82793743
-2022,742,108656,108656,Southbank,Grant street reserve,Grant Street Reserve 25-45 Grant Street SOUTHBANK VIC 3006,8922,Nature Reserves and Conservation Parks Operation,144.9685490345298,-37.82589177
-2016,732,110462,110462,Southbank,Vacant,39-51 Hancock Street SOUTHBANK 3006,0,Vacant Space,144.95886956497245,-37.8279931
-2022,742,110425,110425,Southbank,CitiPower,"Electres 4542PR, 75 Dodds Street SOUTHBANK VIC 3006",2620,Electricity Transmission,144.96854627530453,-37.82616589
-2016,732,110466,110466,Southbank,Vacant,54 Clarke Street SOUTHBANK 3006,0,Vacant Space,144.9591683546895,-37.82755312
-2022,744,110429,110429,Southbank,Pacific Asia Express Pty Ltd,Part 29 Miles Street SOUTHBANK VIC 3006,5219,Other Water Transport Support Services,144.96676350441953,-37.82876946
-2016,732,110467,110467,Southbank,Vacant,56 Clarke Street SOUTHBANK 3006,0,Vacant Space,144.9592125597846,-37.82763497
-2022,744,110429,110429,Southbank,Motum Simulation Pty Ltd,Part 29 Miles Street SOUTHBANK VIC 3006,9139,Amusement and Other Recreational Activities n.e.c.,144.96676350441953,-37.82876946
-2016,732,110468,110468,Southbank,Vacant,"Shop 1, 58 Clarke Street SOUTHBANK 3006",0,Vacant Space,144.95934767829772,-37.82786672
-2022,744,110617,110617,Southbank,Electricity Substation,Substation 187 Sturt Street SOUTHBANK VIC 3006,2620,Electricity Transmission,144.9662633687996,-37.82867473
-2016,732,110482,110482,Southbank,Ray White Southbank,301 Clarendon Street SOUTHBANK 3006,6720,Real Estate Services,144.95848111380894,-37.82773383
-2022,744,110618,110618,Southbank,Vacant,215-217 Sturt Street SOUTHBANK VIC 3006,0,Vacant Space,144.96618358258524,-37.82969297
-2016,732,110483,110483,Southbank,Crown Staff Parking,127-135 Clarendon Street SOUTHBANK 3006,9533,Parking Services,144.95912526868068,-37.82825196
-2022,745,110628,110628,Southbank,Sturt Street Reserve,Sturt Street Reserve 276-280 Sturt Street SOUTHBANK VIC 3006,8922,Nature Reserves and Conservation Parks Operation,144.96490788802322,-37.82986988
-2016,733,110395,110395,Southbank,Crown Melbourne Limited,284-290 City Road SOUTHBANK 3006,9003,Performing Arts Venue Operation,144.9587207724398,-37.82659891
-2022,746,110438,110437,Southbank,SJB Planning Pty Ltd,Part Level 1 80 Dorcas Street SOUTHBANK VIC 3006,6921,Architectural Services,144.96622594606356,-37.83069486
-2016,733,110398,110398,Southbank,Picci,308-310 City Road SOUTHBANK 3006,4211,Furniture Retailing,144.9583121517656,-37.82702719
-2022,746,110438,110437,Southbank,Human Synergistics Australia Pty Limited,Part Level 1 80 Dorcas Street SOUTHBANK VIC 3006,6950,Market Research and Statistical Services,144.96622594606356,-37.83069486
-2016,734,110370,110370,Southbank,Melbourne Inner City Management Pty Ltd,Part 243 City Road SOUTHBANK 3006,6720,Real Estate Services,144.95996506063028,-37.82640247
-2022,746,110438,110437,Southbank,Cengage Learning Australia Pty Limited,Level 5-7 80 Dorcas Street SOUTHBANK VIC 3006,5413,Book Publishing,144.96622594606356,-37.83069486
-2016,734,110372,110372,Southbank,Vacant,253-267 City Road SOUTHBANK 3006,0,Vacant Space,144.95945672165885,-37.82690799
-2022,746,110439,110437,Southbank,Vacant,Part Level 3 100 Dorcas Street SOUTHBANK VIC 3006,0,Vacant Space,144.96622594606356,-37.83069486
-2016,734,110458,110458,Southbank,Vacant,11-13 Hancock Street SOUTHBANK 3006,0,Vacant Space,144.9601354434452,-37.82763274
-2022,746,110439,110437,Southbank,Project Planning And Management Pty Ltd,Part Ground 100 Dorcas Street SOUTHBANK VIC 3006,6962,Management Advice and Other Consulting Services,144.96622594606356,-37.83069486
-2016,734,110459,110459,Southbank,Interpacific Insurance Brokers Pty Ltd,15 Hancock Street SOUTHBANK 3006,6411,Financial Asset Broking Services,144.95997431254818,-37.82768555
-2022,746,110439,110437,Southbank,Rezex Timber,Part Level 2 100 Dorcas Street SOUTHBANK VIC 3006,3800,Commission-Based Wholesaling,144.96622594606356,-37.83069486
-2016,734,110463,110463,Southbank,Blount Osborne Walsh Pty Ltd,"Part Level 2, 51-65 Clarke Street SOUTHBANK 3006",6720,Real Estate Services,144.95973599544607,-37.82731887
-2022,746,110439,110437,Southbank,Terumo Australia Pty Limited,Part Level 2 100 Dorcas Street SOUTHBANK VIC 3006,3491,Professional and Scientific Goods Wholesaling,144.96622594606356,-37.83069486
-2016,734,110463,110463,Southbank,Recruitment Advisory Services Pty Ltd,"Part Level 2, 51-65 Clarke Street SOUTHBANK 3006",7211,Employment Placement and Recruitment Services,144.95973599544607,-37.82731887
-2022,746,110439,110437,Southbank,Jobs Australia Limited,Part Level 4 100 Dorcas Street SOUTHBANK VIC 3006,7211,Employment Placement and Recruitment Services,144.96622594606356,-37.83069486
-2016,734,110463,110463,Southbank,Business Risks International Pty Limited,"Part Ground , 51-65 Clarke Street SOUTHBANK 3006",7712,Investigation and Security Services,144.95973599544607,-37.82731887
-2022,746,110439,110437,Southbank,Radware Australia Pty Ltd,Part Level 2 100 Dorcas Street SOUTHBANK VIC 3006,7000,Computer System Design and Related Services,144.96622594606356,-37.83069486
-2016,734,110633,110633,Southbank,Race Components Pty Ltd,"Ground , 18-24 Moray Street SOUTHBANK 3006",3921,Motor Vehicle Parts Retailing,144.9602021292617,-37.82675723
-2022,746,110439,110437,Southbank,Vacant,Part Level 2 100 Dorcas Street SOUTHBANK VIC 3006,0,Vacant Space,144.96622594606356,-37.83069486
-2016,734,110635,110635,Southbank,Keep Left Public Relations Pty Ltd,"Part Ground , 42 Moray Street SOUTHBANK 3006",6962,Management Advice and Other Consulting Services,144.96042317135476,-37.82754932
-2022,746,110439,110437,Southbank,Estee Lauder,Part Level 1 100 Dorcas Street SOUTHBANK VIC 3006,4271,"Pharmaceutical, Cosmetic and Toiletry Goods Retailing",144.96622594606356,-37.83069486
-2016,734,110635,110635,Southbank,Great British Apparel Pty Ltd,"Part Level 1, 42 Moray Street SOUTHBANK 3006",3712,Clothing and Footwear Wholesaling,144.96042317135476,-37.82754932
-2022,746,110448,110437,Southbank,Efektiv Pty Ltd,Part Level 1 95 Coventry Street SOUTHBANK VIC 3006,6419,Other Auxiliary Finance and Investment Services,144.96622594606356,-37.83069486
-2016,734,110635,110635,Southbank,The Brackenbury Group Pty Ltd,"Part Level 1, 42 Moray Street SOUTHBANK 3006",6419,Other Auxiliary Finance and Investment Services,144.96042317135476,-37.82754932
-2022,746,110448,110437,Southbank,Electricity Substation,Basement 95 Coventry Street SOUTHBANK VIC 3006,2620,Electricity Transmission,144.96622594606356,-37.83069486
-2016,735,110630,110630,Southbank,360 South,11 Moray Street SOUTHBANK 3006,7000,Computer System Design and Related Services,144.96085634209027,-37.82685315
-2022,746,110448,110437,Southbank,Intrec Management Pty Ltd,Part Level 2 95 Coventry Street SOUTHBANK VIC 3006,6924,Other Specialised Design Services,144.96622594606356,-37.83069486
-2016,735,110631,110631,Southbank,Vacant,"Gnd & Flr1 , 21 Moray Street SOUTHBANK 3006",0,Vacant Space,144.96114614082018,-37.82729006
-2022,746,110449,110437,Southbank,Vacant,Level 4 99 Coventry Street SOUTHBANK VIC 3006,0,Vacant Space,144.96622594606356,-37.83069486
-2016,736,110412,110412,Southbank,Vacant,127-129 Kavanagh Street SOUTHBANK 3006,0,Vacant Space,144.96203805690843,-37.82660157
-2022,746,110449,110437,Southbank,Office Choice Limited,Part Level 2 99 Coventry Street SOUTHBANK VIC 3006,4272,Stationery Goods Retailing,144.96622594606356,-37.83069486
-2016,737,110406,110406,Southbank,Donor Tissue Bank of Victoria,Part 57-83 Kavanagh Street SOUTHBANK 3006,6925,Scientific Testing and Analysis Services,144.9647989407082,-37.82469841
-2022,746,110449,110437,Southbank,Vacant,Part Level 1 99 Coventry Street SOUTHBANK VIC 3006,0,Vacant Space,144.96622594606356,-37.83069486
-2016,737,110406,110406,Southbank,State Coroner's Office & Court,Part 57-83 Kavanagh Street SOUTHBANK 3006,7540,Justice,144.9647989407082,-37.82469841
-2022,746,110449,110437,Southbank,Elevated Accounting,Part Ground 99 Coventry Street SOUTHBANK VIC 3006,6932,Accounting Services,144.96622594606356,-37.83069486
-2016,738,110342,110342,Southbank,Australian Broadcasting Corporation,Part 120-130 Southbank Boulevard SOUTHBANK 3006,5621,Free-to-Air Television Broadcasting,144.96655924003932,-37.82381854
-2022,746,110450,110437,Southbank,BESIX Watpac,Part Level 1 111 Coventry Street SOUTHBANK VIC 3006,3020,Non-Residential Building Construction,144.96622594606356,-37.83069486
-2016,738,110342,110342,Southbank,Melbourne Symphony Orchestra,Part 120-130 Southbank Boulevard SOUTHBANK 3006,9003,Performing Arts Venue Operation,144.96655924003932,-37.82381854
-2022,746,110450,110437,Southbank,Vacant,Part Level 1 111 Coventry Street SOUTHBANK VIC 3006,0,Vacant Space,144.96622594606356,-37.83069486
-2016,738,110342,110342,Southbank,Lissajous,"Part Level 2, 120-130 Southbank Boulevard SOUTHBANK 3006",4512,Takeaway Food Services,144.96655924003932,-37.82381854
-2022,746,110450,110437,Southbank,Sports Entertainment Network (SEN),Ground & Level 5 111 Coventry Street SOUTHBANK VIC 3006,5621,Free-to-Air Television Broadcasting,144.96622594606356,-37.83069486
-2016,738,110622,110622,Southbank,Vacant,"Suite 5, 152 Sturt Street SOUTHBANK 3006",0,Vacant Space,144.96608101326837,-37.82540029
-2022,746,110450,110437,Southbank,McMullan Solicitors,Part Level 4 111 Coventry Street SOUTHBANK VIC 3006,6931,Legal Services,144.96622594606356,-37.83069486
-2016,740,110443,110443,Southbank,Vacant,"Shop 4, 165-169 Kings Way SOUTHBANK 3006",0,Vacant Space,144.96383778586306,-37.82873018
-2022,746,110450,110437,Southbank,Bevilles Jewellers,Part Level 2 111 Coventry Street SOUTHBANK VIC 3006,3732,Jewellery and Watch Wholesaling,144.96622594606356,-37.83069486
-2016,740,110443,110443,Southbank,Kebab Republic,"Shop 2, 165-169 Kings Way SOUTHBANK 3006",4512,Takeaway Food Services,144.96383778586306,-37.82873018
-2022,747,110436,110436,Southbank,Property Shell,68A Dorcas Street SOUTHBANK VIC 3006,5420,Software Publishing,144.9674665,-37.83063269
-2016,740,110443,110443,Southbank,GM Cabs Southbank,"Shop 1, 153-169 Kings Way SOUTHBANK 3006",4623,Taxi and Other Road Transport,144.96383778586306,-37.82873018
-2022,747,110436,110436,Southbank,KDA OCM Pty Ltd,"Suite 2401, Level 24 70 Dorcas Street SOUTHBANK VIC 3006",6711,Residential Property Operators,144.9674665,-37.83063269
-2016,740,110443,110443,Southbank,Hungry Jack's,"Shop 3, 165 Kings Way SOUTHBANK 3006",4511,Cafes and Restaurants,144.96383778586306,-37.82873018
-2022,747,110436,110436,Southbank,Vacant,68B Dorcas Street SOUTHBANK VIC 3006,0,Vacant Space,144.9674665,-37.83063269
-2016,741,110612,110612,Southbank,Vacant,"Suite 5, Ground , 117 Sturt Street SOUTHBANK 3006",0,Vacant Space,144.96696857326228,-37.82712911
-2022,747,110436,110436,Southbank,Human Beans,147 Dodds Street SOUTHBANK VIC 3006,4511,Cafes and Restaurants,144.9674665,-37.83063269
-2016,741,110612,110612,Southbank,Citipower Pty,"Substation , 78 Sturt Street SOUTHBANK 3006",2620,Electricity Transmission,144.96696857326228,-37.82712911
-2022,747,110436,110436,Southbank,MACARTHUR NATIONAL LTD,"Suite 2402, Level 24 70 Dorcas Street SOUTHBANK VIC 3006",6961,Corporate Head Office Management Services,144.9674665,-37.83063269
-2016,741,110612,110612,Southbank,Malthouse Theatre (Storage),"Suite 6, Ground , 117 Sturt Street SOUTHBANK 3006",9001,Performing Arts Operation,144.96696857326228,-37.82712911
-2022,748,108658,108658,Southbank,Bluestone OCM Pty Ltd,Part Level 3 312 St Kilda Road SOUTHBANK VIC 3006,6712,Non-Residential Property Operators,144.97068521750572,-37.82909022
-2016,741,110612,110612,Southbank,Malthouse Theatre,113 Sturt Street SOUTHBANK 3006,9003,Performing Arts Venue Operation,144.96696857326228,-37.82712911
-2022,748,108658,108658,Southbank,Hca Healthcare Australia,Part Level 3 312 St Kilda Road SOUTHBANK VIC 3006,8599,Other Health Care Services n.e.c.,144.97068521750572,-37.82909022
-2016,741,110613,110613,Southbank,Hayball Pty Ltd,"Suite 2, Level 1, 135 Sturt Street SOUTHBANK 3006",6921,Architectural Services,144.96687413179632,-37.82744146
-2022,748,108658,108658,Southbank,Urban Property Australia Pty Ltd,Part Ground 312 St Kilda Road SOUTHBANK VIC 3006,6962,Management Advice and Other Consulting Services,144.97068521750572,-37.82909022
-2016,741,110613,110613,Southbank,HLS Superannuation Fund Pty Ltd,"Suite 4, Part Level 1, 135 Sturt Street SOUTHBANK 3006",6419,Other Auxiliary Finance and Investment Services,144.96687413179632,-37.82744146
-2022,748,108658,108658,Southbank,Vacant,Part LwrGround 312 St Kilda Road SOUTHBANK VIC 3006,0,Vacant Space,144.97068521750572,-37.82909022
-2016,741,110614,110614,Southbank,Landmark Worldwide Pty Limited,"Part Gnd & Flr1 , 151 Sturt Street SOUTHBANK 3006",8101,Technical and Vocational Education and Training,144.96679519595142,-37.82770253
-2022,748,108658,108658,Southbank,Duo Projects,Part Ground 312 St Kilda Road SOUTHBANK VIC 3006,3019,Other Residential Building Construction,144.97068521750572,-37.82909022
-2016,741,110615,110615,Southbank,Vacant,"Shop 1, Part 153-159 Sturt Street SOUTHBANK 3006",0,Vacant Space,144.96672869333315,-37.82792248
-2022,748,108659,108659,Southbank,IGA Express,Ground 320-322 St Kilda Road SOUTHBANK VIC 3006,4110,Supermarket and Grocery Stores,144.97068651660857,-37.82941499
-2016,741,110615,110615,Southbank,Vacant,"Shop 8, 153-159 Sturt Street SOUTHBANK 3006",0,Vacant Space,144.96672869333315,-37.82792248
-2022,748,108660,108660,Southbank,Veolia,Level 5 324 St Kilda Road SOUTHBANK VIC 3006,6923,Engineering Design and Engineering Consulting Services,144.97068925962134,-37.82963551
-2016,741,110615,110615,Southbank,Vacant,"Shop 1, Part 153 Sturt Street SOUTHBANK 3006",0,Vacant Space,144.96672869333315,-37.82792248
-2022,748,108660,108660,Southbank,Wesfarmers,Ground & Level 7 324 St Kilda Road SOUTHBANK VIC 3006,6322,General Insurance,144.97068925962134,-37.82963551
-2016,741,110615,110615,Southbank,Vacant,"Shop 4, 153 Sturt Street SOUTHBANK 3006",0,Vacant Space,144.96672869333315,-37.82792248
-2022,748,108661,108661,Southbank,Holmesglen Institute Of Tafe,"Ground, Level 1-2, 4 & Part Level 5, 6 332 St Kilda Road SOUTHBANK VIC 3006",8101,Technical and Vocational Education and Training,144.97065401616496,-37.82987354
-2016,741,110615,110615,Southbank,Vacant,"Shop 7, 153-159 Sturt Street SOUTHBANK 3006",0,Vacant Space,144.96672869333315,-37.82792248
-2022,748,108661,108661,Southbank,Vacant,Part Level 3 332 St Kilda Road SOUTHBANK VIC 3006,0,Vacant Space,144.97065401616496,-37.82987354
-2016,742,110426,110426,Southbank,Citipower Pty,"Substation , 4 Wells Street SOUTHBANK 3006",2620,Electricity Transmission,144.96798920016522,-37.82792586
-2022,748,108661,108661,Southbank,Ineight Pty Ltd,Part Level 3 332 St Kilda Road SOUTHBANK VIC 3006,3299,Other Construction Services n.e.c.,144.97065401616496,-37.82987354
-2016,742,111297,111297,Southbank,8 On Miles,"Ground , 8 Miles Street SOUTHBANK 3006",4511,Cafes and Restaurants,144.96803069883032,-37.82843575
-2022,748,110434,110434,Southbank,Dimension Data,Level 2-4 & 6-7 10-16 Dorcas Street SOUTHBANK VIC 3006,6020,Other Information Services,144.969924,-37.82991835
-2016,743,111526,111526,Southbank,Miles &  Dodd Street Park,Miles Street SOUTHBANK 3006,8922,Nature Reserves and Conservation Parks Operation,144.967416,-37.82869655
-2022,748,110434,110434,Southbank,Dimension 5 Pty Ltd,Level 1 10-16 Dorcas Street SOUTHBANK VIC 3006,7291,Office Administrative Services,144.969924,-37.82991835
-2016,744,110617,110617,Southbank,Electricity Substation,"Substation , 187 Sturt Street SOUTHBANK 3006",2620,Electricity Transmission,144.96627283771733,-37.82867604
-2022,748,110435,110435,Southbank,Humbaba,20 Dorcas Street SOUTHBANK VIC 3006,4511,Cafes and Restaurants,144.9695712,-37.83002099
-2016,744,110617,110617,Southbank,Optotech Pty Ltd,"Part Level 1, 175 Sturt Street SOUTHBANK 3006",6923,Engineering Design and Engineering Consulting Services,144.96627283771733,-37.82867604
-2022,748,110445,110445,Southbank,Vacant,"Unit 114, Level 1 23 Coventry Street SOUTHBANK VIC 3006",0,Vacant Space,144.97024785989998,-37.82923357
-2016,744,110617,110617,Southbank,Fyfe Pty Ltd,"Part Level 1, 175 Sturt Street SOUTHBANK 3006",6999,"Other Professional, Scientific and Technical Services n.e.c.",144.96627283771733,-37.82867604
-2022,748,110452,110452,Southbank,Vacant,27 Coventry Street SOUTHBANK VIC 3006,0,Vacant Space,144.9700371,-37.82937789
-2016,744,110617,110617,Southbank,Thomson Perrett,"Part Ground , 175 Sturt Street SOUTHBANK 3006",3291,Landscape Construction Services,144.96627283771733,-37.82867604
-2022,748,110454,110454,Southbank,Beevo Pty Ltd,Front Level 2 31 Coventry Street SOUTHBANK VIC 3006,7211,Employment Placement and Recruitment Services,144.9697962,-37.82944688
-2016,744,110617,110617,Southbank,Sustainability House,"Part Level 1, 175 Sturt Street SOUTHBANK 3006",6924,Other Specialised Design Services,144.96627283771733,-37.82867604
-2022,748,110456,110456,Southbank,Queenie's Restaurant & Cafe,41 Coventry Street SOUTHBANK VIC 3006,4511,Cafes and Restaurants,144.9693922478557,-37.82956559
-2016,744,110618,110618,Southbank,Downstaris Bistro & Lounge,215-217 Sturt Street SOUTHBANK 3006,4511,Cafes and Restaurants,144.96619305724775,-37.82969428
-2022,748,110456,110456,Southbank,Scoogle Optometrist,131 Wells Street SOUTHBANK VIC 3006,8532,Optometry and Optical Dispensing,144.9693922478557,-37.82956559
-2016,746,110438,110437,Southbank,Wipro Australia Pty Ltd,"Level 4, 80 Dorcas Street SOUTHBANK 3006",5801,Wired Telecommunications Network Operation,144.96623542443987,-37.83069617
-2022,750,569746,108655,Southbank,HOW GROUP PTY LTD,"Suite 2, Ground 250 St Kilda Road SOUTHBANK VIC 3006",4211,Furniture Retailing,144.97009746733903,-37.82561837
-2016,746,110439,110437,Southbank,Schepisi Communications,"Part Level 1, 100 Dorcas Street SOUTHBANK 3006",5809,Other Telecommunications Services,144.96623542443987,-37.83069617
-2022,751,108654,108654,Southbank,Vacant,"Building 866, 170 Southbank Boulevard SOUTHBANK VIC 3006",0,Vacant Space,144.9694138,-37.82453473
-2016,746,110439,110437,Southbank,Asian Pacific Group Pty Ltd,"Part Level 4, 100 Dorcas Street SOUTHBANK 3006",3020,Non-Residential Building Construction,144.96623542443987,-37.83069617
-2022,751,108654,108654,Southbank,Lionel Gell Lounge,Part Building 872 Grant Street Theatre 234 St Kilda Road SOUTHBANK VIC 3006,4511,Cafes and Restaurants,144.9694138,-37.82453473
-2016,746,110439,110437,Southbank,Insight Systems International Pty Ltd,"Part Level 1, 100 Dorcas Street SOUTHBANK 3006",7000,Computer System Design and Related Services,144.96623542443987,-37.83069617
-2022,751,108654,108654,Southbank,Faculty Of The VCA & Music (Bld 860-868+871-873),"Building 864, Performing Arts Dance 234 St Kilda Road SOUTHBANK VIC 3006",8102,Higher Education,144.9694138,-37.82453473
-2016,746,110439,110437,Southbank,Estee Lauder,"Part Level 1, 100 Dorcas Street SOUTHBANK 3006",4271,"Pharmaceutical, Cosmetic and Toiletry Goods Retailing",144.96623542443987,-37.83069617
-2022,752,110734,110733,Southbank,Teatro,Part 100 St Kilda Road SOUTHBANK VIC 3006,4511,Cafes and Restaurants,144.96817034075002,-37.82094204
-2016,746,110439,110437,Southbank,Spectra Training,"Part Ground , 100 Dorcas Street SOUTHBANK 3006",8101,Technical and Vocational Education and Training,144.96623542443987,-37.83069617
-2022,752,110736,110736,Southbank,NGV International,180 St Kilda Road SOUTHBANK VIC 3006,8910,Museum Operation,144.96862693658863,-37.82273793
-2016,746,110439,110437,Southbank,MDA National,"Part Level 3, 100 Dorcas Street SOUTHBANK 3006",6322,General Insurance,144.96623542443987,-37.83069617
-2022,753,110323,110380,Southbank,Melba Restaurant,Part Podium 1 Southgate Avenue SOUTHBANK VIC 3006,4511,Cafes and Restaurants,144.96630309077528,-37.82071821
-2016,746,110439,110437,Southbank,The Net-Effects Group Pty Ltd,"Part Level 3, 100 Dorcas Street SOUTHBANK 3006",7000,Computer System Design and Related Services,144.96623542443987,-37.83069617
-2022,753,110323,110380,Southbank,Aria Bar & Lounge,Part Podium 1 Southgate Avenue SOUTHBANK VIC 3006,4520,"Pubs, Taverns and Bars",144.96630309077528,-37.82071821
-2016,746,110448,110437,Southbank,Tyco Fire Protection Products,"Part Level 3, 95 Coventry Street SOUTHBANK 3006",3234,Fire and Security Alarm Installation Services,144.96623542443987,-37.83069617
-2022,753,110378,110380,Southbank,Lutheran Church Of Aust Trustees Of St Johns,St Johns Lutheran Church Southgate 16-24 City Road SOUTHBANK VIC 3006,9540,Religious Services,144.96630309077528,-37.82071821
-2016,746,110448,110437,Southbank,Substantia Property Group,"Part Ground , 95 Coventry Street SOUTHBANK 3006",6720,Real Estate Services,144.96623542443987,-37.83069617
-2022,753,110379,110380,Southbank,Pagemasters Pty Ltd,Part Level 8 40 City Road SOUTHBANK VIC 3006,6940,Advertising Services,144.96630309077528,-37.82071821
-2016,746,110448,110437,Southbank,PFP (Aust) Pty Ltd,"Part Level 2, 95 Coventry Street SOUTHBANK 3006",6923,Engineering Design and Engineering Consulting Services,144.96623542443987,-37.83069617
-2022,753,110379,110380,Southbank,Pitt & Sherry,Part Level 1 40 City Road SOUTHBANK VIC 3006,6923,Engineering Design and Engineering Consulting Services,144.96630309077528,-37.82071821
-2016,746,110448,110437,Southbank,Exponential,"Part Level 1, 95 Coventry Street SOUTHBANK 3006",6940,Advertising Services,144.96623542443987,-37.83069617
-2022,753,110379,110380,Southbank,Vacant,Part Level 20 40 City Road SOUTHBANK VIC 3006,0,Vacant Space,144.96630309077528,-37.82071821
-2016,746,110448,110437,Southbank,Nova Group,"Part Level 2, 95 Coventry Street SOUTHBANK 3006",6923,Engineering Design and Engineering Consulting Services,144.96623542443987,-37.83069617
-2022,753,110379,110380,Southbank,Dairy Australia Limited,Level 2 & Part Level 3 40 City Road SOUTHBANK VIC 3006,3603,Dairy Produce Wholesaling,144.96630309077528,-37.82071821
-2016,746,110449,110437,Southbank,Clean Energy Enterprises,"Part Ground 0, 99-0 Coventry Street SOUTHBANK 3006",7294,Call Centre Operation,144.96623542443987,-37.83069617
-2022,753,110379,110380,Southbank,News Corp Australia,"Podium, Pt Gnd, Level 7, 9 ,11-12 & Part Level 10 40 City Road SOUTHBANK VIC 3006",5411,Newspaper Publishing,144.96630309077528,-37.82071821
-2016,746,110449,110437,Southbank,Pentarch,"Part Level 1, 99 Coventry Street SOUTHBANK 3006",510,Forestry Support Services,144.96623542443987,-37.83069617
-2022,753,110379,110380,Southbank,Vacant,Part Level 1 40 City Road SOUTHBANK VIC 3006,0,Vacant Space,144.96630309077528,-37.82071821
-2016,746,110449,110437,Southbank,Vacant,"Part Level 1, 99 Coventry Street SOUTHBANK 3006",0,Vacant Space,144.96623542443987,-37.83069617
-2022,753,110381,110380,Southbank,Vacant,Part Level 12 60 City Road SOUTHBANK VIC 3006,0,Vacant Space,144.96630309077528,-37.82071821
-2016,746,110449,110437,Southbank,SCT Logistics,"Ground , 99 Coventry Street SOUTHBANK 3006",4710,Rail Freight Transport,144.96623542443987,-37.83069617
-2022,753,110381,110380,Southbank,Stellar Asia Pacific Pty Ltd,Part Level 17 60 City Road SOUTHBANK VIC 3006,7294,Call Centre Operation,144.96630309077528,-37.82071821
-2016,746,110450,110437,Southbank,Straight Arrows Inc,"Part Ground , 111 Coventry Street SOUTHBANK 3006",8599,Other Health Care Services n.e.c.,144.96623542443987,-37.83069617
-2022,753,110381,110380,Southbank,Plan Australia,Level 18 60 City Road SOUTHBANK VIC 3006,8790,Other Social Assistance Services,144.96630309077528,-37.82071821
-2016,746,110450,110437,Southbank,The Careers Group,"Part Level 2, 111-0 Coventry Street SOUTHBANK 3006",8102,Higher Education,144.96623542443987,-37.83069617
-2022,753,110381,110380,Southbank,Celgene Pty Limited,Level 15 60 City Road SOUTHBANK VIC 3006,1841,Human Pharmaceutical and Medicinal Product Manufacturing,144.96630309077528,-37.82071821
-2016,746,110450,110437,Southbank,St John of God Health Care Melbourne Office,"Part Ground , 111 Coventry Street SOUTHBANK 3006",8599,Other Health Care Services n.e.c.,144.96623542443987,-37.83069617
-2022,753,110381,110380,Southbank,Seaway Agencies Pty Ltd,Part Level 8 60 City Road SOUTHBANK VIC 3006,4810,Water Freight Transport,144.96630309077528,-37.82071821
-2016,746,110450,110437,Southbank,People Living With Hiv/Aids Victoria Inc / Living Positive Victoria,"Part Ground , 111 Coventry Street SOUTHBANK 3006",8599,Other Health Care Services n.e.c.,144.96623542443987,-37.83069617
-2022,753,110381,110380,Southbank,Snow Brand (Australia) Pty Ltd,Part Level 10 60 City Road SOUTHBANK VIC 3006,1133,Cheese and Other Dairy Product Manufacturing,144.96630309077528,-37.82071821
-2016,746,110450,110437,Southbank,Relate Empower Deliver,"Part Level 4, 111 Coventry Street SOUTHBANK 3006",6419,Other Auxiliary Finance and Investment Services,144.96623542443987,-37.83069617
+census_year,location,trading_name,business_address,industry_description,longitude,latitude
+2016,East Melbourne,Epworth Pathology,"Suite 111, Level 1, 320 Victoria Parade EAST MELBOURNE 3002",Pathology and Diagnostic Imaging Services,,
+2022,East Melbourne,The Institute of Patent and Trade Mark Attorneys of Australia,Part Level 15 1 Nicholson Street EAST MELBOURNE VIC 3002,Legal Services,144.9735222,-37.80899048
+2016,East Melbourne,"Mr N A Collier, Mr B Fleming, R Wilson, Mr A R Hyett & Mr C Murphy","Suite 112, Level 1, 320 Victoria Parade EAST MELBOURNE 3002",Specialist Medical Services,,
+2022,East Melbourne,Cafe Ecco,Part Gnd & Mezz 8 Nicholson Street EAST MELBOURNE VIC 3002,Cafes and Restaurants,144.9736193,-37.8084963
+2016,East Melbourne,"Dr M Rasmussen, Mr R Rome, Dr K Reid & Dr N Israelsohn","Suite 115, Level 1, 320 Victoria Parade EAST MELBOURNE 3002",Specialist Medical Services,,
+2022,East Melbourne,State Control Centre,Level 4 8 Nicholson Street EAST MELBOURNE VIC 3002,State Government Administration,144.9736193,-37.8084963
+2016,East Melbourne,Hudsons Coffee Freemasons,"Part Ground , 320 Victoria Parade EAST MELBOURNE 3002",Cafes and Restaurants,,
+2022,East Melbourne,Aspiron Consulting Group Pty Ltd,"Suite 516, Level 5 100 Victoria Parade EAST MELBOURNE VIC 3002",Accounting Services,144.9748791,-37.80863332
+2016,East Melbourne,Epworth Parking,"Carpark , 320 Victoria Parade EAST MELBOURNE 3002",Parking Services,,
+2022,East Melbourne,Melbourne Ear Specialists,"Suite 221-222, Level 2 100 Victoria Parade EAST MELBOURNE VIC 3002",Specialist Medical Services,144.9748791,-37.80863332
+2016,East Melbourne,"Dr R Ryan, Dr S Hargreaves, Dr S Lee, Dr J Whitehead & Dr A Woodward",320 Victoria Parade EAST MELBOURNE 3002,Specialist Medical Services,,
+2022,East Melbourne,Victoria Parade Surgery Centre,"Lot S3, Level 1 100 Victoria Parade EAST MELBOURNE VIC 3002",Specialist Medical Services,144.9748791,-37.80863332
+2016,East Melbourne,Mr Leonard Jack Kliman,"Suite 101, Level 1, 320 Victoria Parade EAST MELBOURNE 3002",Specialist Medical Services,,
+2022,East Melbourne,East Side Story Bar + Cafe,"Suite 1, Ground 100 Victoria Parade EAST MELBOURNE VIC 3002",Cafes and Restaurants,144.9748791,-37.80863332
+2016,East Melbourne,Epworth Freemasons Hospital,320 Victoria Parade EAST MELBOURNE 3002,Hospitals (except Psychiatric Hospitals),,
+2022,East Melbourne,CITY CPAP PTY LTD,"Suite 512, Level 5 100 Victoria Parade EAST MELBOURNE VIC 3002",Specialist Medical Services,144.9748791,-37.80863332
+2016,East Melbourne,"Dr V Woodward, Dr H Tran, Dr L Begg, Dr K Williamson & Dr V Woodward","Suite 209, Level 2, 320 Victoria Parade EAST MELBOURNE 3002",Specialist Medical Services,,
+2022,East Melbourne,Ford Health Group Pty Ltd,"Suite 513, Level 5 100 Victoria Parade EAST MELBOURNE VIC 3002",Specialist Medical Services,144.9748791,-37.80863332
+2016,East Melbourne,Mr David Chong,"Suite 506, Level 5, 372-376 Albert Street EAST MELBOURNE 3002",Other Allied Health Services,144.9787143,-37.80964055
+2022,East Melbourne,Melbourne Radoilogy Clinic,"Suite 3-6, Ground 100 Victoria Parade EAST MELBOURNE VIC 3002",Pathology and Diagnostic Imaging Services,144.9748791,-37.80863332
+2016,East Melbourne,Dentists in East Melbourne,"Suite 304, Level 3, 372-376 Albert Street EAST MELBOURNE 3002",Dental Services,144.9787143,-37.80964055
+2022,East Melbourne,Retina Specialists Victoria,"Suite 405, Level 4 100 Victoria Parade EAST MELBOURNE VIC 3002",Specialist Medical Services,144.9748791,-37.80863332
+2016,East Melbourne,Medilaw,"Suite 302, Level 3, 372-376 Albert Street EAST MELBOURNE 3002",Other Allied Health Services,144.9787143,-37.80964055
+2022,East Melbourne,Victoria Parade Neurosurgery,"Suite 2, Ground 100 Victoria Parade EAST MELBOURNE VIC 3002",Specialist Medical Services,144.9748791,-37.80863332
+2016,East Melbourne,Degani @ East Melbourne,"Shop 1, 372-376 Albert Street EAST MELBOURNE 3002",Cafes and Restaurants,144.9787143,-37.80964055
+2022,East Melbourne,Dr Geoff Markov,"Suite 502, Level 5 100 Victoria Parade EAST MELBOURNE VIC 3002",Specialist Medical Services,144.9748791,-37.80863332
+2016,East Melbourne,Tyre Stewardship,"Suite 405, Level 4, 372-376 Albert Street EAST MELBOURNE 3002",Motor Vehicle Dismantling and Used Part Wholesaling,144.9787143,-37.80964055
+2022,East Melbourne,Central Melbourne Orthopaedics,"Suite 417-418, Level 4 100 Victoria Parade EAST MELBOURNE VIC 3002",Specialist Medical Services,144.9748791,-37.80863332
+2016,East Melbourne,Peter MacCallum Cancer Centre,372-376 Albert Street EAST MELBOURNE 3002,Other Interest Group Services n.e.c.,144.9787143,-37.80964055
+2022,East Melbourne,Dr Mark Troski,"Suite 408-412, Level 4 100 Victoria Parade EAST MELBOURNE VIC 3002",Specialist Medical Services,144.9748791,-37.80863332
+2016,East Melbourne,Blamey & Saunders Hearing,364 Albert Street EAST MELBOURNE 3002,Professional and Scientific Goods Wholesaling,144.9791101,-37.80957906
+2022,East Melbourne,Melbourne Retina Associates,"Suites 401-404, 406-407 Lvl 4 & Suite 515 Lvl 5 100 Victoria Parade EAST MELBOURNE VIC 3002",Specialist Medical Services,144.9748791,-37.80863332
+2016,East Melbourne,vacant,"Part Level 2, 340 Albert Street EAST MELBOURNE 3002",Vacant Space,144.979806,-37.80963484
+2022,East Melbourne,Robert Yung Ming Chen,"Suite 205, Level 2 100 Victoria Parade EAST MELBOURNE VIC 3002",Specialist Medical Services,144.9748791,-37.80863332
+2016,East Melbourne,Hearservice,"Part Level 2, 340 Albert Street EAST MELBOURNE 3002",Other Allied Health Services,144.979806,-37.80963484
+2022,East Melbourne,Victoria Vein Clinic,"Suite 504, 506-507 & 517 Level 5 100 Victoria Parade EAST MELBOURNE VIC 3002",Specialist Medical Services,144.9748791,-37.80863332
+2016,East Melbourne,Architectus Limited,250 Victoria Parade EAST MELBOURNE 3002,Architectural Services,144.979887,-37.80918452
+2022,East Melbourne,Dr Charles Su,"Suite 219-220, Level 2 100 Victoria Parade EAST MELBOURNE VIC 3002",Specialist Medical Services,144.9748791,-37.80863332
+2016,East Melbourne,Pagemasters,250 Victoria Parade EAST MELBOURNE 3002,Printing,144.979887,-37.80918452
+2022,East Melbourne,Irene Haas & Associates,"Suite 215, Level 2 100 Victoria Parade EAST MELBOURNE VIC 3002",Other Allied Health Services,144.9748791,-37.80863332
+2016,East Melbourne,Eye Surgery Associates,"Level 2, 232 Victoria Parade EAST MELBOURNE 3002",Specialist Medical Services,,
+2022,East Melbourne,Wilson Parking,Carpark 68-90 Victoria Parade EAST MELBOURNE VIC 3002,Parking Services,144.9742892,-37.80856173
+2016,East Melbourne,Parenting Research Centre Inc,"Level 5, 232 Victoria Parade EAST MELBOURNE 3002",Scientific Research Services,,
+2022,East Melbourne,Vacant,Ground 404 Albert Street EAST MELBOURNE VIC 3002,Vacant Space,144.9774299,-37.80937924
+2016,East Melbourne,Mercy Health Lymphoedema Clinic,"Part Level 1, 232 Victoria Parade EAST MELBOURNE 3002",Specialist Medical Services,,
+2022,East Melbourne,Melbourne Diocesan Historial Commission,396 Albert Street EAST MELBOURNE VIC 3002,Religious Services,144.9777272,-37.80946178
+2016,East Melbourne,Royal College of Surgeons,250-290 Spring Street EAST MELBOURNE 3002,Higher Education,144.9723459,-37.80865786
+2022,East Melbourne,Marriage Tribunal,390 Albert Street EAST MELBOURNE VIC 3002,Religious Services,144.9779344,-37.80950175
+2016,East Melbourne,College of Surgeons' Museum and Art Gallery,"Part Ground , 250-290 Spring Street EAST MELBOURNE 3002",Museum Operation,144.9723459,-37.80865786
+2022,East Melbourne,Stephen Andrianakis and Associates,Part Ground 19 Lansdowne Street EAST MELBOURNE VIC 3002,Legal Services,144.9781003,-37.80916429
+2016,East Melbourne,Giliot Reserve,210-230 Spring Street EAST MELBOURNE 3002,Nature Reserves and Conservation Parks Operation,144.9725758,-37.80966808
+2022,East Melbourne,Melbourne Residential Property Services Pty Limite,21 Lansdowne Street EAST MELBOURNE VIC 3002,Real Estate Services,144.9781107,-37.80910339
+2016,East Melbourne,The Faculty Management Consultants Pty Ltd,"Part Gnd & Flr1 , 502 Albert Street EAST MELBOURNE 3002",Management Advice and Other Consulting Services,144.9740327,-37.80900083
+2022,East Melbourne,Intrafin Systems,27 Lansdowne Street EAST MELBOURNE VIC 3002,Computer System Design and Related Services,144.9781396,-37.8089345
+2016,East Melbourne,vacant,"Level 7, 486-492 Albert Street EAST MELBOURNE 3002",Vacant Space,144.9744583,-37.80900661
+2022,East Melbourne,Eye And Ear Hospital Accommodation,20-22 Morrison Place EAST MELBOURNE VIC 3002,Hospitals (except Psychiatric Hospitals),144.9768677,-37.8089904
+2016,East Melbourne,vacant,"Level 4, 486-492 Albert Street EAST MELBOURNE 3002",Vacant Space,144.9744583,-37.80900661
+2022,East Melbourne,The Annunciation of Our Lady Greek Orthodox Church,186-196 Victoria Parade EAST MELBOURNE VIC 3002,Religious Services,144.9781568,-37.80883391
+2016,East Melbourne,Victorian TAFE Association,"Part Level 3, 478 Albert Street EAST MELBOURNE 3002",Business and Professional Association Services,144.9746894,-37.80907172
+2022,East Melbourne,East Melbourne Neurosurgery,"Lot 6E, Level 5 182-184 Victoria Parade EAST MELBOURNE VIC 3002",Specialist Medical Services,144.9778943,-37.80895336
+2016,East Melbourne,McGregor West,"Part Level 1, 478-484 Albert Street EAST MELBOURNE 3002",Accounting Services,144.9746894,-37.80907172
+2022,East Melbourne,Intelligent Dental Solutions,"Lot 2A, Level 1 182-184 Victoria Parade EAST MELBOURNE VIC 3002",Dental Services,144.9778943,-37.80895336
+2016,East Melbourne,Metropolitan Fire & Emergency Services Board,456 Albert Street EAST MELBOURNE 3002,Fire Protection and Other Emergency Services,144.9751841,-37.80896912
+2022,East Melbourne,Vacant,"Lot 3A, Level 2 182-184 Victoria Parade EAST MELBOURNE VIC 3002",Vacant Space,144.9778943,-37.80895336
+2016,East Melbourne,BSM Services,1 Nicholson Street EAST MELBOURNE 3002,Architectural Services,144.9735316,-37.80899183
+2022,East Melbourne,Marie Stopes Australia,"Lot 2D, Level 1 182-184 Victoria Parade EAST MELBOURNE VIC 3002",Other Social Assistance Services,144.9778943,-37.80895336
+2016,East Melbourne,Foursight,"Part Level 15, 1 Nicholson Street EAST MELBOURNE 3002",Other Auxiliary Finance and Investment Services,144.9735316,-37.80899183
+2022,East Melbourne,Vacant,"Lot 5B, Level 4 182-184 Victoria Parade EAST MELBOURNE VIC 3002",Vacant Space,144.9778943,-37.80895336
+2016,East Melbourne,vacant,"Part Ground , 1 Nicholson Street EAST MELBOURNE 3002",Vacant Space,144.9735316,-37.80899183
+2022,East Melbourne,Ear Nose & Throat Victoria,"Lot 6C, Level 5 182-184 Victoria Parade EAST MELBOURNE VIC 3002",Specialist Medical Services,144.9778943,-37.80895336
+2016,East Melbourne,Orica Limited,1 Nicholson Street EAST MELBOURNE 3002,Basic Organic Chemical Manufacturing,144.9735316,-37.80899183
+2022,East Melbourne,Balance & Hearing Centre,"Part Lot 5C, Level 4 182-184 Victoria Parade EAST MELBOURNE VIC 3002",Specialist Medical Services,144.9778943,-37.80895336
+2016,East Melbourne,"Department of Environment, Land, Water & Planning",8 Nicholson Street EAST MELBOURNE 3002,State Government Administration,144.9736287,-37.80849765
+2022,East Melbourne,Mr David Wallace,"Lot 5E, Level 4 182-184 Victoria Parade EAST MELBOURNE VIC 3002",Specialist Medical Services,144.9778943,-37.80895336
+2016,East Melbourne,Cafe Ecco,"Part Gnd & Mezz , 8 Nicholson Street EAST MELBOURNE 3002",Cafes and Restaurants,144.9736287,-37.80849765
+2022,East Melbourne,Vacant,168-172 Victoria Parade EAST MELBOURNE VIC 3002,Vacant Space,144.9775472,-37.80891588
+2016,East Melbourne,State Control Centre,"Level 4, 8 Nicholson Street EAST MELBOURNE 3002",State Government Administration,144.9736287,-37.80849765
+2022,East Melbourne,Vacant,Part Ground 166 Victoria Parade EAST MELBOURNE VIC 3002,Vacant Space,144.9773774,-37.80889754
+2016,East Melbourne,Danielle Baker,"Suite 512, Level 5, 100 Victoria Parade EAST MELBOURNE 3002",Other Allied Health Services,144.9748885,-37.80863467
+2022,East Melbourne,Royal Victorian Eye And Ear Hospital,Level 1 160 Victoria Parade EAST MELBOURNE VIC 3002,Scientific Research Services,144.9771827,-37.8087897
+2016,East Melbourne,Orica Limited,"Lot , Level 3, 100 Victoria Parade EAST MELBOURNE 3002",Management Advice and Other Consulting Services,144.9748885,-37.80863467
+2022,East Melbourne,St Vincents Health Australia,14-18 Morrison Place EAST MELBOURNE VIC 3002,General Practice Medical Services,144.9768379,-37.80916775
+2016,East Melbourne,Melbourne Sleep Disorders Centre,"Suite 508, Level 5, 100 Victoria Parade EAST MELBOURNE 3002",Specialist Medical Services,144.9748885,-37.80863467
+2022,East Melbourne,Strangers Corridor,Level 1 160 Spring Street EAST MELBOURNE VIC 3002,Cafes and Restaurants,144.9741607,-37.8108596
+2016,East Melbourne,Focus Gastroenterology,"Suite 419, Level 4, 100 Victoria Parade EAST MELBOURNE 3002",Specialist Medical Services,144.9748885,-37.80863467
+2022,East Melbourne,Department Of Parliamentary Services,Rear Parliamentary Offices 160 Spring Street EAST MELBOURNE VIC 3002,State Government Administration,144.9741607,-37.8108596
+2016,East Melbourne,Irene Haas & Associates,"Suite 215, Level 2, 100 Victoria Parade EAST MELBOURNE 3002",Other Allied Health Services,144.9748885,-37.80863467
+2022,East Melbourne,"Maintenance Sheds, St.Patricks",Maintenance Sheds St Patricks Cathedral 7 Lansdowne Street EAST MELBOURNE VIC 3002,Religious Services,144.9769172,-37.81028319
+2016,East Melbourne,Dr Christopher Ley & Ms Mary Parkin,"Suite 202, Level 2, 100 Victoria Parade EAST MELBOURNE 3002",Specialist Medical Services,144.9748885,-37.80863467
+2022,East Melbourne,Vacant,Part Ground & Pt Lvl 4 10 St Andrews Place EAST MELBOURNE VIC 3002,Vacant Space,144.9774,-37.81151967
+2016,East Melbourne,Melbourne Retina Associates,"Level 4, 100 Victoria Parade EAST MELBOURNE 3002",Specialist Medical Services,144.9748885,-37.80863467
+2022,East Melbourne,Vacant,"Level 1-3, Part Level 4 & Level 5-6 10 St Andrews Place EAST MELBOURNE VIC 3002",Vacant Space,144.9774,-37.81151967
+2016,East Melbourne,Dr Geoff Markov,"Suite 502, Level 5, 100 Victoria Parade EAST MELBOURNE 3002",Specialist Medical Services,144.9748885,-37.80863467
+2022,East Melbourne,Royal Victorian Eye And Ear Hospital,2 St Andrews Place EAST MELBOURNE VIC 3002,Hospitals (except Psychiatric Hospitals),144.9774,-37.81151967
+2016,East Melbourne,Dr Daniel Wai Keung Chiu & Dr Jonathon Yeoh,"Suite 405, Level 4, 100 Victoria Parade EAST MELBOURNE 3002",Specialist Medical Services,144.9748885,-37.80863467
+2022,East Melbourne,Burston Reserve,Burston Reserve 1-33 Parliament Place EAST MELBOURNE VIC 3002,Nature Reserves and Conservation Parks Operation,144.9751896,-37.81149726
+2016,East Melbourne,Dr David Leong,"Suite 420, Level 4, 100 Victoria Parade EAST MELBOURNE 3002",General Practice Medical Services,144.9748885,-37.80863467
+2022,East Melbourne,Department of Premier and Cabinet,1 MacArthur Street EAST MELBOURNE VIC 3002,State Government Administration,144.9756715,-37.81280015
+2016,East Melbourne,Victoria Parade Anaesthetic Services,"Unit 4, 23-0 Victoria Parade EAST MELBOURNE 3002",Specialist Medical Services,144.9748885,-37.80863467
+2022,East Melbourne,Department Of Education And Training,23 St Andrews Place EAST MELBOURNE VIC 3002,State Government Administration,144.9756715,-37.81280015
+2016,East Melbourne,Dr Graeme M Gonzales / Dr Valerie Tay,"Suite 413, Level 4, 100 Victoria Parade EAST MELBOURNE 3002",Specialist Medical Services,144.9748885,-37.80863467
+2022,East Melbourne,Department of Parliamentary Services,55 St Andrews Place EAST MELBOURNE VIC 3002,State Government Administration,144.9756715,-37.81280015
+2016,East Melbourne,Mr Paul Smith,"Suite 2, Ground , 100 Victoria Parade EAST MELBOURNE 3002",Specialist Medical Services,144.9748885,-37.80863467
+2022,East Melbourne,Victorian Aboriginal Heritage Council,Part 3 Treasury Place EAST MELBOURNE VIC 3002,State Government Administration,144.9756715,-37.81280015
+2016,East Melbourne,Clive Hair Clinics,"Suite 401, Level 4, 100 Victoria Parade EAST MELBOURNE 3002",Specialist Medical Services,144.9748885,-37.80863467
+2022,East Melbourne,Victorian Public Sector Commission,Part 3 Treasury Place EAST MELBOURNE VIC 3002,State Government Administration,144.9756715,-37.81280015
+2016,East Melbourne,Wilson Parking,"Carpark , 68-90 Victoria Parade EAST MELBOURNE 3002",Parking Services,144.9742985,-37.80856308
+2022,East Melbourne,Office Of The Victorian Government Architect,Part Level 2 20 Spring Street EAST MELBOURNE VIC 3002,State Government Administration,144.9743358,-37.81320727
+2016,East Melbourne,Home @ the Mansion,80 Victoria Parade EAST MELBOURNE 3002,Accommodation,144.9742985,-37.80856308
+2022,East Melbourne,Treasury Gardens,Treasury Gardens 2-18 Spring Street EAST MELBOURNE VIC 3002,Nature Reserves and Conservation Parks Operation,144.9759419,-37.81400001
+2016,East Melbourne,Cochlear Clinic,"Part Level 6, 126 Victoria Parade EAST MELBOURNE 3002",Specialist Medical Services,144.9762685,-37.80887179
+2022,East Melbourne,Vacant,Gnd & Flr1 33-41 Agnes Street EAST MELBOURNE VIC 3002,Vacant Space,144.9797192,-37.81751274
+2016,East Melbourne,Zouki Cafe Eye & Ear Hospital,"Part Ground , 32 Victoria Parade EAST MELBOURNE 3002",Cafes and Restaurants,144.9762685,-37.80887179
+2022,East Melbourne,Built Environment Channel Pty Ltd,Level 2 33-41 Agnes Street EAST MELBOURNE VIC 3002,Financial Asset Investing,144.9797192,-37.81751274
+2016,East Melbourne,Allen & Unwin,406 Albert Street EAST MELBOURNE 3002,Book Publishing,144.9773531,-37.80937127
+2022,East Melbourne,Businessary,Part Ground 43 Agnes Street EAST MELBOURNE VIC 3002,Management Advice and Other Consulting Services,144.9797424,-37.81737702
+2016,East Melbourne,Stephen Andrianakis and Associates,19 Lansdowne Street EAST MELBOURNE 3002,Legal Services,144.9781096,-37.80916563
+2022,East Melbourne,Sutherland Farrelly Pty Ltd,Part Ground 43 Agnes Street EAST MELBOURNE VIC 3002,Real Estate Services,144.9797424,-37.81737702
+2016,East Melbourne,vacant,"Part Level 1, 19 Lansdowne Street EAST MELBOURNE 3002",Vacant Space,144.9781096,-37.80916563
+2022,East Melbourne,Vacant,49-51 Agnes Street EAST MELBOURNE VIC 3002,Vacant Space,144.9797728,-37.81719942
+2016,East Melbourne,vacant,"Ground , 25 Lansdowne Street EAST MELBOURNE 3002",Vacant Space,144.9781398,-37.80898917
+2022,East Melbourne,ALPHINGTON PRIVATE WEALTH PTY LTD,Part Ground 128-136 Jolimont Road EAST MELBOURNE VIC 3002,Financial Asset Investing,144.9791901,-37.81750017
+2016,East Melbourne,Michael Murphy,"Lot 6, Level 5, 182-184 Victoria Parade EAST MELBOURNE 3002",Specialist Medical Services,144.9779037,-37.8089547
+2022,East Melbourne,Cricket Australia,Level 2 128-136 Jolimont Road EAST MELBOURNE VIC 3002,Sports and Physical Recreation Clubs and Sports Professionals,144.9791901,-37.81750017
+2016,East Melbourne,East Melbourne Podiatry,"Lot 3, Level 2, 182-184 Victoria Parade EAST MELBOURNE 3002",Other Health Care Services n.e.c.,144.9779037,-37.8089547
+2022,East Melbourne,Number One Womens Health,Part Level 1 120 Jolimont Road EAST MELBOURNE VIC 3002,Other Allied Health Services,144.9791268,-37.81786791
+2016,East Melbourne,Dr Vadim Mirmilestein,"Lot 3, Level 2, 182-184 Victoria Parade EAST MELBOURNE 3002",Specialist Medical Services,144.9779037,-37.8089547
+2022,East Melbourne,Vacant,108-110 Jolimont Road EAST MELBOURNE VIC 3002,Vacant Space,144.9790975,-37.81803777
+2016,East Melbourne,Synapse Medical Services,"Lot 2, Level 1, 182-184 Victoria Parade EAST MELBOURNE 3002",Document Preparation Services,144.9779037,-37.8089547
+2022,East Melbourne,CSE,Level 1 & Part Level 2 82 Jolimont Street EAST MELBOURNE VIC 3002,Business and Professional Association Services,144.979993,-37.81822582
+2016,East Melbourne,Integrative Psychology Pty Ltd,"Lot 3, Level 2, 182-184 Victoria Parade EAST MELBOURNE 3002",Specialist Medical Services,144.9779037,-37.8089547
+2022,East Melbourne,H.I.A. Insurance Services,Level 2 70 Jolimont Street EAST MELBOURNE VIC 3002,General Insurance,144.9803627,-37.81820615
+2016,East Melbourne,"Evren-Ear,Nose and Throat Clinic","Lot 4, Level 3, 182-184 Victoria Parade EAST MELBOURNE 3002",Specialist Medical Services,144.9779037,-37.8089547
+2022,East Melbourne,Vacant,Level 4 70 Jolimont Street EAST MELBOURNE VIC 3002,Vacant Space,144.9803627,-37.81820615
+2016,East Melbourne,Palliative Care Victoria,"Lot 3, Level 2, 182-184 Victoria Parade EAST MELBOURNE 3002",Other Interest Group Services n.e.c.,144.9779037,-37.8089547
+2022,East Melbourne,Vacant,32-34 Jolimont Terrace EAST MELBOURNE VIC 3002,Vacant Space,144.9814639,-37.81808963
+2016,East Melbourne,Mr T Redhead,"Lot 5, Part 182-184 Victoria Parade EAST MELBOURNE 3002",Specialist Medical Services,144.9779037,-37.8089547
+2022,East Melbourne,Barassi & Co Chartered Accountants,Ground & Part Level 1 149-151 Wellington Parade South EAST MELBOURNE VIC 3002,Accounting Services,144.9796769,-37.81677377
+2016,East Melbourne,Mr David Wallace,"Lot 5, Level 4, 182-184 Victoria Parade EAST MELBOURNE 3002",Specialist Medical Services,144.9779037,-37.8089547
+2022,East Melbourne,Tigers Realm Coal Limited,Part Level 1 149-151 Wellington Parade South EAST MELBOURNE VIC 3002,Coal Mining,144.9796769,-37.81677377
+2016,East Melbourne,Cochlear Limited,"Part Level 1, 174 Victoria Parade EAST MELBOURNE 3002",Scientific Research Services,144.977734,-37.80893638
+2022,East Melbourne,Yarra Park Children's Centre,17-29 Berry Street EAST MELBOURNE VIC 3002,Child Care Services,144.9883573,-37.81860737
+2016,East Melbourne,Cochlear Care Centre,"Ground , 174 Victoria Parade EAST MELBOURNE 3002",Specialist Medical Services,144.977734,-37.80893638
+2022,East Melbourne,Citipower Pty,"Substation 46 Adjacent 58 Vale Street South, EAST MELBOURNE VIC 3002",Electricity Transmission,144.9872781,-37.81972785
+2016,East Melbourne,Royal Victorian Eye and Ear Hospital,168-172 Victoria Parade EAST MELBOURNE 3002,Hospitals (except Psychiatric Hospitals),144.9775566,-37.80891722
+2022,East Melbourne,Yarra Park,Brunton Avenue EAST MELBOURNE 3002,Nature Reserves and Conservation Parks Operation,144.9872781,-37.81972785
+2016,East Melbourne,Balmoral House Hostel,146-152 Victoria Parade EAST MELBOURNE 3002,Accommodation,,
+2022,East Melbourne,Richmond Football Club Limited - Oval,Part Punt Road Oval Punt Road EAST MELBOURNE VIC 3002,Sports and Physical Recreation Clubs and Sports Professionals,144.9872781,-37.81972785
+2016,East Melbourne,RuronaHouse,146-150 Victoria Parade EAST MELBOURNE 3002,Accommodation,,
+2022,East Melbourne,Richmond Football Club Limited - Office,Office Punt Road Oval Yarra Park Punt Road EAST MELBOURNE VIC 3002,Sports and Physical Recreation Clubs and Sports Professionals,144.9872781,-37.81972785
+2016,East Melbourne,IG Partners,"Part Level 1, 15 Gisborne Street EAST MELBOURNE 3002",Management Advice and Other Consulting Services,144.9749696,-37.80986997
+2022,East Melbourne,Melbourne Cricket Club,MCG 120 Brunton Avenue EAST MELBOURNE VIC 3002,"Sports and Physical Recreation Venues, Grounds and Facilities Operation",144.983188,-37.82000693
+2016,East Melbourne,Victorian Parliament,160 Spring Street EAST MELBOURNE 3002,State Government Administration,144.97417,-37.81086095
+2022,East Melbourne,Australian Sports Museum,"Part Olympic Stand, MCG 120 Brunton Avenue EAST MELBOURNE VIC 3002",Museum Operation,144.983188,-37.82000693
+2016,East Melbourne,Strangers Corridor,"Level 1, 160 Spring Street EAST MELBOURNE 3002",Cafes and Restaurants,144.97417,-37.81086095
+2022,East Melbourne,MCG Tours,"Part Olympic Stand, MCG 120 Brunton Avenue EAST MELBOURNE VIC 3002",Museum Operation,144.983188,-37.82000693
+2016,East Melbourne,Parliamentary Committees,481-487 Albert Street EAST MELBOURNE 3002,State Government Administration,144.97417,-37.81086095
+2022,East Melbourne,Spotless Services,Part MCG 120 Brunton Avenue EAST MELBOURNE VIC 3002,Cafes and Restaurants,144.983188,-37.82000693
+2016,East Melbourne,Gordon Reserve,74-108 Spring Street EAST MELBOURNE 3002,Nature Reserves and Conservation Parks Operation,144.974076,-37.81234839
+2022,East Melbourne,Tab,TAB MCG 120 Brunton Avenue EAST MELBOURNE VIC 3002,Other Gambling Activities,144.983188,-37.82000693
+2016,East Melbourne,Cell Therapies Pty Ltd,10 St Andrews Place EAST MELBOURNE 3002,Scientific Research Services,144.9774094,-37.811521
+2022,Melbourne (Remainder),Open Space,Batman Avenue MELBOURNE 3004,Nature Reserves and Conservation Parks Operation,144.9790385,-37.8213404
+2016,East Melbourne,Park Hyatt Melbourne Entrance,Parliament Place EAST MELBOURNE 3002,Accommodation,144.9757995,-37.81136961
+2022,Melbourne (Remainder),Collingwood Football Club Limited,Part Holden Centre Olympic Park 10 Olympic Boulevard MELBOURNE VIC 3004,Sports and Physical Recreation Clubs and Sports Professionals,144.982456,-37.82484857
+2016,East Melbourne,National Trust of Australia (Victoria),2-8 Parliament Place EAST MELBOURNE 3002,Other Interest Group Services n.e.c.,144.9757552,-37.81162413
+2022,Melbourne (Remainder),Olympic Park Oval,Olympic Park Oval 30 Olympic Boulevard MELBOURNE VIC 3004,"Sports and Physical Recreation Venues, Grounds and Facilities Operation",144.982456,-37.82484857
+2016,East Melbourne,Park Hyatt Melbourne,20 Cathedral Place EAST MELBOURNE 3002,Accommodation,144.9765192,-37.81131306
+2022,Melbourne (Remainder),Barlaston Pty Ltd,Part AAMI Park Olympic Park 60 Olympic Boulevard MELBOURNE VIC 3004,Physiotherapy Services,144.982456,-37.82484857
+2016,East Melbourne,Department of Education & Early Childhood Development,23 St Andrews Place EAST MELBOURNE 3002,State Government Administration,144.9756809,-37.81280148
+2022,Melbourne (Remainder),Victorian Olympic Council Inc,Part AAMI Park Olympic Park 60 Olympic Boulevard MELBOURNE VIC 3004,Sport and Physical Recreation Administrative Service,144.982456,-37.82484857
+2016,East Melbourne,Office of Victorian Government Architect,"Part Level 2, 20 Spring Street EAST MELBOURNE 3002",State Government Administration,144.9743452,-37.81320861
+2022,Melbourne (Remainder),The Glasshouse,Part The Glasshouse Olympic Park 20 Olympic Boulevard MELBOURNE VIC 3004,Non-Residential Property Operators,144.982456,-37.82484857
+2016,East Melbourne,St Andrews Place Reserve,St Andrews Place EAST MELBOURNE 3002,Nature Reserves and Conservation Parks Operation,,
+2022,East Melbourne,Jolimont Reserve,Jolimont Reserve Wellington Parade South EAST MELBOURNE VIC 3002,Nature Reserves and Conservation Parks Operation,144.9805907,-37.81638866
+2016,East Melbourne,Mantra On Jolimont / Boundary Line Bar,"Level 1, 133 Jolimont Road EAST MELBOURNE 3002",Accommodation,144.9782872,-37.81795065
+2022,Melbourne (Remainder),Delisure Kitchen,"Shop 1, 391 St Kilda Road MELBOURNE VIC 3004",Cafes and Restaurants,144.9757167,-37.83548527
+2016,East Melbourne,Recreational Areas (Wellington Cresent),157 Jolimont Road EAST MELBOURNE 3002,Nature Reserves and Conservation Parks Operation,144.9769301,-37.81669592
+2022,Melbourne (Remainder),Denim It Consulting And Law,"Shop 7A, 397 St Kilda Road MELBOURNE VIC 3004",Legal Services,144.9760327,-37.83571029
+2016,East Melbourne,Irwin Consult,"Part Level 3, 279 Wellington Parade South EAST MELBOURNE 3002",Engineering Design and Engineering Consulting Services,144.976539,-37.81674567
+2022,Melbourne (Remainder),B Convenience,Ground 403 St Kilda Road MELBOURNE VIC 3004,Supermarket and Grocery Stores,144.9759379,-37.83587082
+2016,East Melbourne,Mugs Alley,291 Wellington Parade South EAST MELBOURNE 3002,Cafes and Restaurants,144.976539,-37.81674567
+2022,Melbourne (Remainder),Vacant,"Suite G3, 405 St Kilda Road MELBOURNE VIC 3004",Vacant Space,144.9761207,-37.83601611
+2016,East Melbourne,Krongold Group of Companies,"Part Level 1, 33-41 Agnes Street JOLIMONT 3002",Land Development and Subdivision,144.9797286,-37.81751405
+2022,Melbourne (Remainder),Subway,407B St Kilda Road MELBOURNE VIC 3004,Takeaway Food Services,144.9761948,-37.83626983
+2016,East Melbourne,vacant,128-136 Jolimont Road JOLIMONT 3002,Vacant Space,144.9791994,-37.81750148
+2022,Melbourne (Remainder),Tandem,Level 1 & Part Level 4 417 St Kilda Road MELBOURNE VIC 3004,Management Advice and Other Consulting Services,144.9770437,-37.83774644
+2016,East Melbourne,Jolimont Consulting group,124-126 Jolimont Road JOLIMONT 3002,Other Allied Health Services,144.979167,-37.81768969
+2022,Melbourne (Remainder),Bon,Part Ground 417 St Kilda Road MELBOURNE VIC 3004,Cafes and Restaurants,144.9770437,-37.83774644
+2016,East Melbourne,vacant,"Part Ground , 120 Jolimont Road JOLIMONT 3002",Vacant Space,144.9791361,-37.81786921
+2022,Melbourne (Remainder),Tokyo Sushi Kitchen,Part Ground 417 St Kilda Road MELBOURNE VIC 3004,Cafes and Restaurants,144.9770437,-37.83774644
+2016,East Melbourne,Dorsavi,"Part Level 1, 120 Jolimont Road JOLIMONT 3002",Scientific Research Services,144.9791361,-37.81786921
+2022,Melbourne (Remainder),The Royal Australasian College of Physicians,Part Level 2 417 St Kilda Road MELBOURNE VIC 3004,Business and Professional Association Services,144.9770437,-37.83774644
+2016,East Melbourne,Caine Real Estate,"Part Ground , 120 Jolimont Road JOLIMONT 3002",Real Estate Services,144.9791361,-37.81786921
+2022,Melbourne (Remainder),Century Plaza Trading Pty Ltd,Part Level 7 417 St Kilda Road MELBOURNE VIC 3004,Financial Asset Investing,144.9770437,-37.83774644
+2016,East Melbourne,Cricket Victoria,86-88 Jolimont Street JOLIMONT 3002,Sport and Physical Recreation Administrative Service,144.9797286,-37.81819455
+2022,Melbourne (Remainder),Vacant,Part Level 2 & Level 3 417 St Kilda Road MELBOURNE VIC 3004,Vacant Space,144.9770437,-37.83774644
+2016,East Melbourne,Melbourne Stars,"Ground , 80 Jolimont Street JOLIMONT 3002",Sport and Physical Recreation Administrative Service,144.980097,-37.81823692
+2022,Melbourne (Remainder),Fawkner Express,"Suite 2-3, Ground 431 St Kilda Road MELBOURNE VIC 3004",Supermarket and Grocery Stores,144.9770552,-37.83852859
+2016,East Melbourne,B2B Lawyers,76-78 Jolimont Street JOLIMONT 3002,Legal Services,144.980188,-37.81824631
+2022,Melbourne (Remainder),Phillip Anthony Partners Pty Ltd,"Suite 19-20, Level 1 431 St Kilda Road MELBOURNE VIC 3004",Accounting Services,144.9770552,-37.83852859
+2016,East Melbourne,Housing Industry Association,70 Jolimont Street JOLIMONT 3002,Business and Professional Association Services,144.9803721,-37.81820744
+2022,Melbourne (Remainder),Westpac,"Part Suite 43, Level 2 431 St Kilda Road MELBOURNE VIC 3004",Banking,144.9770552,-37.83852859
+2016,East Melbourne,W Marshall & Associates,64 Jolimont Street JOLIMONT 3002,Accounting Services,144.9806327,-37.81823634
+2022,Melbourne (Remainder),Little Beauty Bar Melbourne,"Suite 9, Ground 431 St Kilda Road MELBOURNE VIC 3004",Hairdressing and Beauty Services,144.9770552,-37.83852859
+2016,East Melbourne,Cricket Australia,60 Jolimont Street JOLIMONT 3002,Sport and Physical Recreation Administrative Service,144.9808783,-37.81826356
+2022,Melbourne (Remainder),Melbourne Chamber Orchestra Inc,"Suite 31, Level 1 431 St Kilda Road MELBOURNE VIC 3004",Performing Arts Operation,144.9770552,-37.83852859
+2016,East Melbourne,Tamarra,32-34 Jolimont Terrace JOLIMONT 3002,Other Auxiliary Finance and Investment Services,144.9814733,-37.81809093
+2022,Melbourne (Remainder),Moody Brew Coffee Bar,"Suite 6, Ground 431 St Kilda Road MELBOURNE VIC 3004",Cafes and Restaurants,144.9770552,-37.83852859
+2016,East Melbourne,Aggies Cafe Bar Restaurant,137 Agnes Street JOLIMONT 3002,Cafes and Restaurants,144.9799926,-37.81680857
+2022,Melbourne (Remainder),Mitchell Munn Valuations Pty Ltd,"Suite 40, Level 1 431 St Kilda Road MELBOURNE VIC 3004",Real Estate Services,144.9770552,-37.83852859
+2016,East Melbourne,Yarra Park,Brunton Avenue JOLIMONT 3002,Nature Reserves and Conservation Parks Operation,144.9872876,-37.81972752
+2022,Melbourne (Remainder),Australian Nurses Memorial Centre,"Suite 11-12, Ground 431 St Kilda Road MELBOURNE VIC 3004",Business and Professional Association Services,144.9770552,-37.83852859
+2016,East Melbourne,Electricity Substation,"Substation 10, Opposite 50 Jolimont Street JOLIMONT 3002",Electricity Transmission,144.9872876,-37.81972752
+2022,Melbourne (Remainder),Toorak and St Kilda Road Reserve,Toorak & St Kilda Road Reserve Toorak Road MELBOURNE VIC 3004,Nature Reserves and Conservation Parks Operation,144.9762574,-37.83683415
+2016,East Melbourne,National Sports Museum,120 Brunton Avenue JOLIMONT 3002,Museum Operation,144.9831974,-37.82000821
+2022,Melbourne (Remainder),Vacant,1A-3 Commercial Road MELBOURNE VIC 3004,Vacant Space,144.9798706,-37.84555711
+2016,East Melbourne,Melbourne Cricket Club,120 Brunton Avenue JOLIMONT 3002,"Sports and Physical Recreation Venues, Grounds and Facilities Operation",144.9831974,-37.82000821
+2022,Melbourne (Remainder),Nando's Chevron,17 Commercial Road MELBOURNE VIC 3004,Cafes and Restaurants,144.9798706,-37.84555711
+2016,East Melbourne,Spotless Services,Part 120 Brunton Avenue JOLIMONT 3002,Cafes and Restaurants,144.9831974,-37.82000821
+2022,Melbourne (Remainder),Hawker Canteen,521 St Kilda Road MELBOURNE VIC 3004,Cafes and Restaurants,144.9798706,-37.84555711
+2016,East Melbourne,Ticketek,"Part Ground , 120 Brunton Avenue JOLIMONT 3002",Other Administrative Services n.e.c.,144.9831974,-37.82000821
+2022,Melbourne (Remainder),Vacant,Part Ground & Level 1-6 541 St Kilda Road MELBOURNE VIC 3004,Vacant Space,144.9800583,-37.84607442
+2016,East Melbourne,MCG Tours,120 Brunton Avenue JOLIMONT 3002,Museum Operation,144.9831974,-37.82000821
+2022,Melbourne (Remainder),Experian,Level 6 549 St Kilda Road MELBOURNE VIC 3004,Advertising Services,144.9802819,-37.84658908
+2016,Melbourne (Remainder),Tennis Australia,Part 200 Batman Avenue MELBOURNE 3004,Sport and Physical Recreation Administrative Service,144.979111,-37.82121117
+2022,Southbank,Vacant,33 Meaden Street SOUTHBANK VIC 3006,Vacant Space,144.954001,-37.82778111
+2016,Melbourne (Remainder),Melbourne Storm Rugby League Club Limited,Part 60 Olympic Boulevard MELBOURNE 3004,Sports and Physical Recreation Clubs and Sports Professionals,144.9824654,-37.82484984
+2022,Southbank,Launch Housing Southbank,Launch Housing 52-70 Haig Street SOUTHBANK VIC 3006,Other Residential Care Services,144.9564237,-37.82727288
+2016,Melbourne (Remainder),Edwin's Cafe,Part 60 Olympic Boulevard MELBOURNE 3004,Cafes and Restaurants,144.9824654,-37.82484984
+2022,Southbank,Europcar,50-54 Clarendon Street SOUTHBANK VIC 3006,Passenger Car Rental and Hiring,144.9570357,-37.82627107
+2016,Melbourne (Remainder),Melbourne Victory Football Club,Part 60 Olympic Boulevard MELBOURNE 3004,Sports and Physical Recreation Clubs and Sports Professionals,144.9824654,-37.82484984
+2022,Southbank,BP Connect,322-332 City Road SOUTHBANK VIC 3006,Fuel Retailing,144.9576407,-37.82756039
+2016,Melbourne (Remainder),Melbourne Football Club,Part 60 Olympic Boulevard MELBOURNE 3004,Sports and Physical Recreation Clubs and Sports Professionals,144.9824654,-37.82484984
+2022,Southbank,Vacant,Basement 334-342 City Road SOUTHBANK VIC 3006,Vacant Space,144.9573513,-37.82783772
+2016,Melbourne (Remainder),Victorian Tennis Association,Part 60 Olympic Boulevard MELBOURNE 3004,Sport and Physical Recreation Administrative Service,144.9824654,-37.82484984
+2022,Southbank,Vacant,Part Ground 334-342 City Road SOUTHBANK VIC 3006,Vacant Space,144.9573513,-37.82783772
+2016,East Melbourne,Wellington Park,Wellington Parade South EAST MELBOURNE 3002,Nature Reserves and Conservation Parks Operation,144.9776995,-37.81603354
+2022,Southbank,City Road Management Pty Ltd,344 City Road SOUTHBANK VIC 3006,Accommodation,144.9571246,-37.82794172
+2016,East Melbourne,Vacant,63-65 Wellington Parade JOLIMONT 3002,Vacant Space,,
+2022,Southbank,Vacant,65-71 Haig Street SOUTHBANK VIC 3006,Vacant Space,144.9565549,-37.82786726
+2016,East Melbourne,Weedon Reserve,1-61 Wellington Parade EAST MELBOURNE 3002,Nature Reserves and Conservation Parks Operation,144.9893602,-37.81703859
+2022,Southbank,Southbank Residential Pty Ltd,"Unit 102, Ground 45 Haig Street SOUTHBANK VIC 3006",Real Estate Services,144.9573784,-37.82721009
+2016,Melbourne (Remainder),@Rice Cafe & Bar,"Shop 2, 391 St Kilda Road MELBOURNE 3004",Cafes and Restaurants,144.9757266,-37.83548659
+2022,Southbank,McDonalds,305-331 City Road SOUTHBANK VIC 3006,Cafes and Restaurants,144.9579148,-37.82823635
+2016,Melbourne (Remainder),Vacant,"Level 2, 391 St Kilda Road MELBOURNE 3004",Vacant Space,144.9757266,-37.83548659
+2022,Southbank,Vacant,Part Ground 285 City Road SOUTHBANK VIC 3006,Vacant Space,144.9587797,-37.82742528
+2016,Melbourne (Remainder),Domain Newsagency,"Shop 6, 397 St Kilda Road MELBOURNE 3004",Newspaper and Book Retailing,144.9760424,-37.83571161
+2022,Southbank,Vacant,54 Clarke Street SOUTHBANK VIC 3006,Vacant Space,144.9591641,-37.82755226
+2016,Melbourne (Remainder),Skin Temple,"Shop 7, 397 St Kilda Road MELBOURNE 3004",Hairdressing and Beauty Services,144.9760424,-37.83571161
+2022,Southbank,Crown Staff Parking,127-135 Clarendon Street SOUTHBANK VIC 3006,Casino Operation,144.959142,-37.82829112
+2016,Melbourne (Remainder),Domain Post Office,"Shop 4, 397 St Kilda Road MELBOURNE 3004",Postal Services,144.9760424,-37.83571161
+2022,Southbank,Peritus Technology Pty Ltd,292-294 City Road SOUTHBANK VIC 3006,Electronic (except Domestic Appliance) and Precision Equipment Repair and Maint,144.9586155,-37.82675831
+2016,Melbourne (Remainder),Earl Canteen,403A St Kilda Road MELBOURNE 3004,Cafes and Restaurants,144.9759474,-37.83587214
+2022,Southbank,Vacant,Gnd & Flr1 300 City Road SOUTHBANK VIC 3006,Vacant Space,144.9584594,-37.82689102
+2016,Melbourne (Remainder),Vacant,405 St Kilda Road MELBOURNE 3004,Vacant Space,144.9761309,-37.83601897
+2022,Southbank,Edwin Wine Bar,105A Clarendon Street SOUTHBANK VIC 3006,Cafes and Restaurants,144.958257,-37.82713113
+2016,Melbourne (Remainder),Cafe Rosco,407C-407D St Kilda Road MELBOURNE 3004,Cafes and Restaurants,144.9762043,-37.83627053
+2022,Southbank,The Cloakroom Bar,Level 46 308 City Road SOUTHBANK VIC 3006,"Pubs, Taverns and Bars",144.958257,-37.82713113
+2016,Melbourne (Remainder),Subway,407B St Kilda Road MELBOURNE 3004,Takeaway Food Services,144.9762043,-37.83627053
+2022,Southbank,Vacant,243 City Road SOUTHBANK VIC 3006,Vacant Space,144.9600035,-37.82651045
+2016,Melbourne (Remainder),Tien Tran Solicitors,"Part Level 12, 409 St Kilda Road MELBOURNE 3004",Legal Services,144.9769109,-37.83735766
+2022,Southbank,Vacant,"Suite 101, Level 1 245 City Road SOUTHBANK VIC 3006",Vacant Space,144.9598182,-37.82674665
+2016,Melbourne (Remainder),First 5 Minutes Pty Ltd,"Part Level 9, 409 St Kilda Road MELBOURNE 3004","Adult, Community and Other Education n.e.c.",144.9769109,-37.83735766
+2022,Southbank,Vacant,"Shop 2, 263 City Road SOUTHBANK VIC 3006",Vacant Space,144.959494,-37.82684854
+2016,Melbourne (Remainder),Port Finance Group Pty Ltd,"Part Level 6, 409 St Kilda Road MELBOURNE 3004",Other Auxiliary Finance and Investment Services,144.9769109,-37.83735766
+2022,Southbank,Unified Energy,Part Ground 51-65 Clarke Street SOUTHBANK VIC 3006,Electrical Services,144.9597264,-37.827319
+2016,Melbourne (Remainder),Restaurant & Catering Association,"Part Level 3, 409 St Kilda Road MELBOURNE 3004",Business and Professional Association Services,144.9769109,-37.83735766
+2022,Southbank,SMA GROUP SERVICES PTY LTD,Part Level 2 51-65 Clarke Street SOUTHBANK VIC 3006,House Construction,144.9597264,-37.827319
+2016,Melbourne (Remainder),Next,"Part Level 5, 409 St Kilda Road MELBOURNE 3004",Employment Placement and Recruitment Services,144.9769109,-37.83735766
+2022,Southbank,Crown Melbourne Limited,71-75 Clarke Street SOUTHBANK VIC 3006,Parking Services,144.9600728,-37.8280004
+2016,Melbourne (Remainder),Australian National Consulting Pty Ltd,"Part Level 12, 409 St Kilda Road MELBOURNE 3004",Other Auxiliary Finance and Investment Services,144.9769109,-37.83735766
+2022,Southbank,Imperium 18 Apartments,Level 1-33 18-24 Moray Street SOUTHBANK VIC 3006,Accommodation,144.960196,-37.82675738
+2016,Melbourne (Remainder),Vacant,"Part Level 2, 409 St Kilda Road MELBOURNE 3004",Vacant Space,144.9769109,-37.83735766
+2022,Southbank,Electricity Substation,Substation 12 Hancock Street SOUTHBANK VIC 3006,Electricity Transmission,144.9602128,-37.8271777
+2016,Melbourne (Remainder),Westpac Banking Corporation,"Ground , 409 St Kilda Road MELBOURNE 3004",Banking,144.9769109,-37.83735766
+2022,Southbank,Vacant,Part Level 1 42 Moray Street SOUTHBANK VIC 3006,Vacant Space,144.9604137,-37.82754796
+2016,Melbourne (Remainder),Quintiq,"Part Level 8, 417-421 St Kilda Road MELBOURNE 3004",Computer System Design and Related Services,144.9770532,-37.83774777
+2022,Southbank,Care Park,100-110 Kings Way SOUTHBANK VIC 3006,Parking Services,144.9616645,-37.82794966
+2016,Melbourne (Remainder),The Cupcake Queens,"Part Ground , 417 St Kilda Road MELBOURNE 3004",Takeaway Food Services,144.9770532,-37.83774777
+2022,Southbank,360 South,11 Moray Street SOUTHBANK VIC 3006,Computer System Design and Related Services,144.9608469,-37.8268518
+2016,Melbourne (Remainder),Gilead,"Level 6, 417 St Kilda Road MELBOURNE 3004",Pharmaceutical and Toiletry Goods Wholesaling,144.9770532,-37.83774777
+2022,Southbank,Partners In Training Australia Pty Ltd,Part Level 2 21 Moray Street SOUTHBANK VIC 3006,Technical and Vocational Education and Training,144.9611367,-37.82728867
+2016,Melbourne (Remainder),The Royal Australasian College of Physicians,"Part Level 2, 417 St Kilda Road MELBOURNE 3004",Business and Professional Association Services,144.9770532,-37.83774777
+2022,Southbank,Vacant,Ground 21 Moray Street SOUTHBANK VIC 3006,Vacant Space,144.9611367,-37.82728867
+2016,Melbourne (Remainder),Vacant,417 St Kilda Road MELBOURNE 3004,Vacant Space,144.9770532,-37.83774777
+2022,Southbank,BWS,"Shop 2, 10 Hoff Boulevard SOUTHBANK VIC 3006",Liquor Retailing,144.9635736,-37.82572544
+2016,Melbourne (Remainder),Surefact Australia,"Unit 22, Level 1, 431 St Kilda Road MELBOURNE 3004",Investigation and Security Services,144.9770646,-37.83852993
+2022,Southbank,Vacant,"Tenancy 101, Level 1 10 Hoff Boulevard SOUTHBANK VIC 3006",Vacant Space,144.9635736,-37.82572544
+2016,Melbourne (Remainder),Eagle Financial Solutions Pty Ltd,"Suite 35, Level 1, 431 St Kilda Road MELBOURNE 3004",Financial Asset Investing,144.9770646,-37.83852993
+2022,Southbank,Waku Waku,"Shop 3, 10 Hoff Boulevard SOUTHBANK VIC 3006",Takeaway Food Services,144.9635736,-37.82572544
+2016,Melbourne (Remainder),Slater St Bench,"Suite 8, Ground , 431 St Kilda Road MELBOURNE 3004",Cafes and Restaurants,144.9770646,-37.83852993
+2022,Southbank,Yarra Park City Pty Ltd,Carpark 10 Hoff Boulevard SOUTHBANK VIC 3006,Parking Services,144.9635736,-37.82572544
+2016,Melbourne (Remainder),Dingle Partners Pty Ltd,"Suite 7, Ground , 431 St Kilda Road MELBOURNE 3004",Real Estate Services,144.9770646,-37.83852993
+2022,Southbank,Vacant,"Shop 1, 11 Bale Circuit SOUTHBANK VIC 3006",Vacant Space,144.9635736,-37.82572544
+2016,Melbourne (Remainder),Fable Music Pty Ltd,"Suite 38, Level 1, 431-431 St Kilda Road MELBOURNE 3004",Reproduction of Recorded Media,144.9770646,-37.83852993
+2022,Southbank,Electricity Substation,121-125 Kavanagh Street SOUTHBANK VIC 3006,Electricity Transmission,144.9622651,-37.82639115
+2016,Melbourne (Remainder),Byron Consulting Pty Ltd,"Suite 31, Level 1, 431 St Kilda Road MELBOURNE 3004",Management Advice and Other Consulting Services,144.9770646,-37.83852993
+2022,Southbank,Vacant,63-83 Kings Way SOUTHBANK VIC 3006,Vacant Space,144.961832,-37.82679655
+2016,Melbourne (Remainder),Toorak and St Kilda Road Reserve,Toorak Road MELBOURNE 3004,Nature Reserves and Conservation Parks Operation,144.976265,-37.83683549
+2022,Southbank,Vacant,Rear 135-149 Kings Way SOUTHBANK VIC 3006,Vacant Space,144.9643959,-37.82805813
+2016,Melbourne (Remainder),Village Melbourne - Ormond Hall,Part 557 St Kilda Road MELBOURNE 3004,Catering Services,144.9809399,-37.84737019
+2022,Southbank,Kennedy Park,99-107 Kavanagh Street SOUTHBANK VIC 3006,Nature Reserves and Conservation Parks Operation,144.9632331,-37.82530105
+2016,Melbourne (Remainder),Nando's Chevron,17 St Kilda Road MELBOURNE 3004,Cafes and Restaurants,144.9798801,-37.84555849
+2022,Southbank,State Coroner's Office,State Coroner's Office 65 Kavanagh Street SOUTHBANK VIC 3006,Justice,144.9647895,-37.82469709
+2016,Melbourne (Remainder),Duayne Cafe,"Part Ground , 541 St Kilda Road MELBOURNE 3004",Cafes and Restaurants,144.9800678,-37.8460758
+2022,Southbank,Vacant,National Coronial Information System 65 Kavanagh Street SOUTHBANK VIC 3006,Vacant Space,144.9647895,-37.82469709
+2016,Melbourne (Remainder),Seek Limited,541 St Kilda Road MELBOURNE 3004,Employment Placement and Recruitment Services,144.9800678,-37.8460758
+2022,Southbank,Melbourne Symphony Orchestra,Iwaki Auditorium 120-130 Southbank Boulevard SOUTHBANK VIC 3006,Performing Arts Venue Operation,144.9664969,-37.8239921
+2016,Melbourne (Remainder),Vacant,"Part Ground , 541 St Kilda Road MELBOURNE 3004",Vacant Space,144.9800678,-37.8460758
+2022,Southbank,Citipower Pty,Substation 98 Sturt Street SOUTHBANK VIC 3006,Electricity Transmission,144.9664969,-37.8239921
+2016,Melbourne (Remainder),Reinhild Robertson Pty Ltd,"Suite 13, 545 St Kilda Road MELBOURNE 3004",Specialist Medical Services,144.9801636,-37.84633985
+2022,Southbank,Theatre Network Australia,"Part Suite 5, 152 Sturt Street SOUTHBANK VIC 3006",Performing Arts Operation,144.9660716,-37.82539897
+2016,Melbourne (Remainder),Farrell Consulting Services,"Suite 8, Part 545 St Kilda Road MELBOURNE 3004",Specialist Medical Services,144.9801636,-37.84633985
+2022,Southbank,Australian Performing Arts Market,"Part Suite 5, 152 Sturt Street SOUTHBANK VIC 3006",Performing Arts Operation,144.9660716,-37.82539897
+2016,Melbourne (Remainder),Vacant,"Suite 2, 545 St Kilda Road MELBOURNE 3004",Vacant Space,144.9801636,-37.84633985
+2022,Southbank,Cafe Godot,"Suite 2A, 152 Sturt Street SOUTHBANK VIC 3006",Cafes and Restaurants,144.9660716,-37.82539897
+2016,Melbourne (Remainder),Stuart Pettigrew Design Pty,"Suite 10, 545 St Kilda Road MELBOURNE 3004",Other Specialised Design Services,144.9801636,-37.84633985
+2022,Southbank,Betwixt Cafe & Bar,"Part Building 877, 45 Sturt Street SOUTHBANK VIC 3006",Cafes and Restaurants,144.967549,-37.82517894
+2016,Melbourne (Remainder),On The Ball Personnel Australasia Pty Ltd,"Suite 11, 545 St Kilda Road MELBOURNE 3004",Employment Placement and Recruitment Services,144.9801636,-37.84633985
+2022,Southbank,Electricity Substation,Substation 99A Sturt Street SOUTHBANK VIC 3006,Electricity Distribution,144.9668283,-37.82595534
+2016,Melbourne (Remainder),Caliper Human Strategies (Australia) Pty Ltd,"Suite 8, Part 545 St Kilda Road MELBOURNE 3004",Employment Placement and Recruitment Services,144.9801636,-37.84633985
+2022,Southbank,Melbourne Recital Centre,Part 31 Sturt Street SOUTHBANK VIC 3006,Performing Arts Venue Operation,144.9678768,-37.82414021
+2016,Melbourne (Remainder),Monash University,"Level 1, 549-0 St Kilda Road MELBOURNE 3004",Higher Education,144.9802914,-37.84659046
+2022,Southbank,Blondie Bar,Part 31 Sturt Street SOUTHBANK VIC 3006,Cafes and Restaurants,144.9678768,-37.82414021
+2016,Melbourne (Remainder),Spotless Group Limited,"Level 1, 549 St Kilda Road MELBOURNE 3004",Catering Services,144.9802914,-37.84659046
+2022,Southbank,Faculty Of Fine Arts And Music,33-43 Sturt Street SOUTHBANK VIC 3006,Higher Education,144.9674047,-37.82454586
+2016,Melbourne (Remainder),Fair Work Building And Construction,"Level 2, 553 St Kilda Road MELBOURNE 3004",State Government Administration,144.9803878,-37.84685438
+2022,Southbank,Hungry Jack's,"Shop 3, 165 Kings Way SOUTHBANK VIC 3006",Cafes and Restaurants,144.9638137,-37.82872356
+2016,Southbank,Ace Parking Pty Ltd,33 Meaden Street SOUTHBANK 3006,Parking Services,144.9541473,-37.82778103
+2022,Southbank,GM Cabs Southbank,"Shop 1, 153 Kings Way SOUTHBANK VIC 3006",Taxi and Other Road Transport,144.9638137,-37.82872356
+2016,Southbank,Open Space,Rear 33 Meaden Street SOUTHBANK 3006,Nature Reserves and Conservation Parks Operation,144.9545792,-37.82746946
+2022,Southbank,Vacant,"Shop 2-3, 153 Kings Way SOUTHBANK VIC 3006",Vacant Space,144.9638137,-37.82872356
+2016,Southbank,Clarendon St IGA X-Press,42-44 Whiteman Street SOUTHBANK 3006,Supermarket and Grocery Stores,144.9568614,-37.82605674
+2022,Southbank,United,"Shop 1, 165 Kings Way SOUTHBANK VIC 3006",Fuel Retailing,144.9638137,-37.82872356
+2016,Southbank,Europcar,60-62 Clarendon Street SOUTHBANK 3006,Passenger Car Rental and Hiring,144.9572456,-37.82658959
+2022,Southbank,Vacant,"Suite 13, Level 1 117 Sturt Street SOUTHBANK VIC 3006",Vacant Space,144.9669591,-37.8271278
+2016,Southbank,Urban Central Accomodation / bar334,334-342 City Road SOUTHBANK 3006,Accommodation,144.9573608,-37.8278391
+2022,Southbank,CitiPower,Substation 78 Dodds Street SOUTHBANK VIC 3006,Electricity Transmission,144.9669591,-37.8271278
+2016,Southbank,Care Park Pty Ltd,358-366 City Road SOUTHBANK 3006,Parking Services,144.9565599,-37.82822942
+2022,Southbank,Kath Papas Productions,"Suite 14, Level 1 117 Sturt Street SOUTHBANK VIC 3006","Creative Artists, Musicians, Writers and Performers",144.9669591,-37.8271278
+2016,Southbank,Vacant,"Part Level 1, 57-59 Haig Street SOUTHBANK 3006",Vacant Space,144.9569888,-37.82758165
+2022,Southbank,Black Hole Theatre Inc,"Suite 15, Level 1 117 Sturt Street SOUTHBANK VIC 3006","Creative Artists, Musicians, Writers and Performers",144.9669591,-37.8271278
+2016,Southbank,The Backlot Studios,65-71 Haig Street SOUTHBANK 3006,Motion Picture Exhibition,144.956566,-37.82788674
+2022,Southbank,Malthouse Theatre (Storage 2),"Suite 6, Ground 117 Sturt Street SOUTHBANK VIC 3006",Performing Arts Operation,144.9669591,-37.8271278
+2016,Southbank,Southport Customs,"Unit 101, Ground , 45 Haig Street SOUTHBANK 3006",Customs Agency Services,144.9573878,-37.82721146
+2022,Southbank,Vacant,Suite 2-3 & Pt Suite 4 Level 1 135 Sturt Street SOUTHBANK VIC 3006,Vacant Space,144.9668657,-37.82743685
+2016,Southbank,Budget Rent a Car,293-297 City Road SOUTHBANK 3006,Passenger Car Rental and Hiring,144.9587883,-37.82762557
+2022,Southbank,Sturt Street IGA Plus Liquor,Part Ground 151 Sturt Street SOUTHBANK VIC 3006,Supermarket and Grocery Stores,144.9667857,-37.82770122
+2016,Southbank,PSG Facility Services,35-37 Hancock Street SOUTHBANK 3006,Other Repair and Maintenance n.e.c.,144.9590462,-37.82793743
+2022,Southbank,Grant street reserve,Grant Street Reserve 25-45 Grant Street SOUTHBANK VIC 3006,Nature Reserves and Conservation Parks Operation,144.968549,-37.82589177
+2016,Southbank,Vacant,39-51 Hancock Street SOUTHBANK 3006,Vacant Space,144.9588696,-37.8279931
+2022,Southbank,CitiPower,"Electres 4542PR, 75 Dodds Street SOUTHBANK VIC 3006",Electricity Transmission,144.9685463,-37.82616589
+2016,Southbank,Vacant,54 Clarke Street SOUTHBANK 3006,Vacant Space,144.9591684,-37.82755312
+2022,Southbank,Pacific Asia Express Pty Ltd,Part 29 Miles Street SOUTHBANK VIC 3006,Other Water Transport Support Services,144.9667635,-37.82876946
+2016,Southbank,Vacant,56 Clarke Street SOUTHBANK 3006,Vacant Space,144.9592126,-37.82763497
+2022,Southbank,Motum Simulation Pty Ltd,Part 29 Miles Street SOUTHBANK VIC 3006,Amusement and Other Recreational Activities n.e.c.,144.9667635,-37.82876946
+2016,Southbank,Vacant,"Shop 1, 58 Clarke Street SOUTHBANK 3006",Vacant Space,144.9593477,-37.82786672
+2022,Southbank,Electricity Substation,Substation 187 Sturt Street SOUTHBANK VIC 3006,Electricity Transmission,144.9662634,-37.82867473
+2016,Southbank,Ray White Southbank,301 Clarendon Street SOUTHBANK 3006,Real Estate Services,144.9584811,-37.82773383
+2022,Southbank,Vacant,215-217 Sturt Street SOUTHBANK VIC 3006,Vacant Space,144.9661836,-37.82969297
+2016,Southbank,Crown Staff Parking,127-135 Clarendon Street SOUTHBANK 3006,Parking Services,144.9591253,-37.82825196
+2022,Southbank,Sturt Street Reserve,Sturt Street Reserve 276-280 Sturt Street SOUTHBANK VIC 3006,Nature Reserves and Conservation Parks Operation,144.9649079,-37.82986988
+2016,Southbank,Crown Melbourne Limited,284-290 City Road SOUTHBANK 3006,Performing Arts Venue Operation,144.9587208,-37.82659891
+2022,Southbank,SJB Planning Pty Ltd,Part Level 1 80 Dorcas Street SOUTHBANK VIC 3006,Architectural Services,144.9662259,-37.83069486
+2016,Southbank,Picci,308-310 City Road SOUTHBANK 3006,Furniture Retailing,144.9583122,-37.82702719
+2022,Southbank,Human Synergistics Australia Pty Limited,Part Level 1 80 Dorcas Street SOUTHBANK VIC 3006,Market Research and Statistical Services,144.9662259,-37.83069486
+2016,Southbank,Melbourne Inner City Management Pty Ltd,Part 243 City Road SOUTHBANK 3006,Real Estate Services,144.9599651,-37.82640247
+2022,Southbank,Cengage Learning Australia Pty Limited,Level 5-7 80 Dorcas Street SOUTHBANK VIC 3006,Book Publishing,144.9662259,-37.83069486
+2016,Southbank,Vacant,253-267 City Road SOUTHBANK 3006,Vacant Space,144.9594567,-37.82690799
+2022,Southbank,Vacant,Part Level 3 100 Dorcas Street SOUTHBANK VIC 3006,Vacant Space,144.9662259,-37.83069486
+2016,Southbank,Vacant,11-13 Hancock Street SOUTHBANK 3006,Vacant Space,144.9601354,-37.82763274
+2022,Southbank,Project Planning And Management Pty Ltd,Part Ground 100 Dorcas Street SOUTHBANK VIC 3006,Management Advice and Other Consulting Services,144.9662259,-37.83069486
+2016,Southbank,Interpacific Insurance Brokers Pty Ltd,15 Hancock Street SOUTHBANK 3006,Financial Asset Broking Services,144.9599743,-37.82768555
+2022,Southbank,Rezex Timber,Part Level 2 100 Dorcas Street SOUTHBANK VIC 3006,Commission-Based Wholesaling,144.9662259,-37.83069486
+2016,Southbank,Blount Osborne Walsh Pty Ltd,"Part Level 2, 51-65 Clarke Street SOUTHBANK 3006",Real Estate Services,144.959736,-37.82731887
+2022,Southbank,Terumo Australia Pty Limited,Part Level 2 100 Dorcas Street SOUTHBANK VIC 3006,Professional and Scientific Goods Wholesaling,144.9662259,-37.83069486
+2016,Southbank,Recruitment Advisory Services Pty Ltd,"Part Level 2, 51-65 Clarke Street SOUTHBANK 3006",Employment Placement and Recruitment Services,144.959736,-37.82731887
+2022,Southbank,Jobs Australia Limited,Part Level 4 100 Dorcas Street SOUTHBANK VIC 3006,Employment Placement and Recruitment Services,144.9662259,-37.83069486
+2016,Southbank,Business Risks International Pty Limited,"Part Ground , 51-65 Clarke Street SOUTHBANK 3006",Investigation and Security Services,144.959736,-37.82731887
+2022,Southbank,Radware Australia Pty Ltd,Part Level 2 100 Dorcas Street SOUTHBANK VIC 3006,Computer System Design and Related Services,144.9662259,-37.83069486
+2016,Southbank,Race Components Pty Ltd,"Ground , 18-24 Moray Street SOUTHBANK 3006",Motor Vehicle Parts Retailing,144.9602021,-37.82675723
+2022,Southbank,Vacant,Part Level 2 100 Dorcas Street SOUTHBANK VIC 3006,Vacant Space,144.9662259,-37.83069486
+2016,Southbank,Keep Left Public Relations Pty Ltd,"Part Ground , 42 Moray Street SOUTHBANK 3006",Management Advice and Other Consulting Services,144.9604232,-37.82754932
+2022,Southbank,Estee Lauder,Part Level 1 100 Dorcas Street SOUTHBANK VIC 3006,"Pharmaceutical, Cosmetic and Toiletry Goods Retailing",144.9662259,-37.83069486
+2016,Southbank,Great British Apparel Pty Ltd,"Part Level 1, 42 Moray Street SOUTHBANK 3006",Clothing and Footwear Wholesaling,144.9604232,-37.82754932
+2022,Southbank,Efektiv Pty Ltd,Part Level 1 95 Coventry Street SOUTHBANK VIC 3006,Other Auxiliary Finance and Investment Services,144.9662259,-37.83069486
+2016,Southbank,The Brackenbury Group Pty Ltd,"Part Level 1, 42 Moray Street SOUTHBANK 3006",Other Auxiliary Finance and Investment Services,144.9604232,-37.82754932
+2022,Southbank,Electricity Substation,Basement 95 Coventry Street SOUTHBANK VIC 3006,Electricity Transmission,144.9662259,-37.83069486
+2016,Southbank,360 South,11 Moray Street SOUTHBANK 3006,Computer System Design and Related Services,144.9608563,-37.82685315
+2022,Southbank,Intrec Management Pty Ltd,Part Level 2 95 Coventry Street SOUTHBANK VIC 3006,Other Specialised Design Services,144.9662259,-37.83069486
+2016,Southbank,Vacant,"Gnd & Flr1 , 21 Moray Street SOUTHBANK 3006",Vacant Space,144.9611461,-37.82729006
+2022,Southbank,Vacant,Level 4 99 Coventry Street SOUTHBANK VIC 3006,Vacant Space,144.9662259,-37.83069486
+2016,Southbank,Vacant,127-129 Kavanagh Street SOUTHBANK 3006,Vacant Space,144.9620381,-37.82660157
+2022,Southbank,Office Choice Limited,Part Level 2 99 Coventry Street SOUTHBANK VIC 3006,Stationery Goods Retailing,144.9662259,-37.83069486
+2016,Southbank,Donor Tissue Bank of Victoria,Part 57-83 Kavanagh Street SOUTHBANK 3006,Scientific Testing and Analysis Services,144.9647989,-37.82469841
+2022,Southbank,Vacant,Part Level 1 99 Coventry Street SOUTHBANK VIC 3006,Vacant Space,144.9662259,-37.83069486
+2016,Southbank,State Coroner's Office & Court,Part 57-83 Kavanagh Street SOUTHBANK 3006,Justice,144.9647989,-37.82469841
+2022,Southbank,Elevated Accounting,Part Ground 99 Coventry Street SOUTHBANK VIC 3006,Accounting Services,144.9662259,-37.83069486
+2016,Southbank,Australian Broadcasting Corporation,Part 120-130 Southbank Boulevard SOUTHBANK 3006,Free-to-Air Television Broadcasting,144.9665592,-37.82381854
+2022,Southbank,BESIX Watpac,Part Level 1 111 Coventry Street SOUTHBANK VIC 3006,Non-Residential Building Construction,144.9662259,-37.83069486
+2016,Southbank,Melbourne Symphony Orchestra,Part 120-130 Southbank Boulevard SOUTHBANK 3006,Performing Arts Venue Operation,144.9665592,-37.82381854
+2022,Southbank,Vacant,Part Level 1 111 Coventry Street SOUTHBANK VIC 3006,Vacant Space,144.9662259,-37.83069486
+2016,Southbank,Lissajous,"Part Level 2, 120-130 Southbank Boulevard SOUTHBANK 3006",Takeaway Food Services,144.9665592,-37.82381854
+2022,Southbank,Sports Entertainment Network (SEN),Ground & Level 5 111 Coventry Street SOUTHBANK VIC 3006,Free-to-Air Television Broadcasting,144.9662259,-37.83069486
+2016,Southbank,Vacant,"Suite 5, 152 Sturt Street SOUTHBANK 3006",Vacant Space,144.966081,-37.82540029
+2022,Southbank,McMullan Solicitors,Part Level 4 111 Coventry Street SOUTHBANK VIC 3006,Legal Services,144.9662259,-37.83069486
+2016,Southbank,Vacant,"Shop 4, 165-169 Kings Way SOUTHBANK 3006",Vacant Space,144.9638378,-37.82873018
+2022,Southbank,Bevilles Jewellers,Part Level 2 111 Coventry Street SOUTHBANK VIC 3006,Jewellery and Watch Wholesaling,144.9662259,-37.83069486
+2016,Southbank,Kebab Republic,"Shop 2, 165-169 Kings Way SOUTHBANK 3006",Takeaway Food Services,144.9638378,-37.82873018
+2022,Southbank,Property Shell,68A Dorcas Street SOUTHBANK VIC 3006,Software Publishing,144.9674665,-37.83063269
+2016,Southbank,GM Cabs Southbank,"Shop 1, 153-169 Kings Way SOUTHBANK 3006",Taxi and Other Road Transport,144.9638378,-37.82873018
+2022,Southbank,KDA OCM Pty Ltd,"Suite 2401, Level 24 70 Dorcas Street SOUTHBANK VIC 3006",Residential Property Operators,144.9674665,-37.83063269
+2016,Southbank,Hungry Jack's,"Shop 3, 165 Kings Way SOUTHBANK 3006",Cafes and Restaurants,144.9638378,-37.82873018
+2022,Southbank,Vacant,68B Dorcas Street SOUTHBANK VIC 3006,Vacant Space,144.9674665,-37.83063269
+2016,Southbank,Vacant,"Suite 5, Ground , 117 Sturt Street SOUTHBANK 3006",Vacant Space,144.9669686,-37.82712911
+2022,Southbank,Human Beans,147 Dodds Street SOUTHBANK VIC 3006,Cafes and Restaurants,144.9674665,-37.83063269
+2016,Southbank,Citipower Pty,"Substation , 78 Sturt Street SOUTHBANK 3006",Electricity Transmission,144.9669686,-37.82712911
+2022,Southbank,MACARTHUR NATIONAL LTD,"Suite 2402, Level 24 70 Dorcas Street SOUTHBANK VIC 3006",Corporate Head Office Management Services,144.9674665,-37.83063269
+2016,Southbank,Malthouse Theatre (Storage),"Suite 6, Ground , 117 Sturt Street SOUTHBANK 3006",Performing Arts Operation,144.9669686,-37.82712911
+2022,Southbank,Bluestone OCM Pty Ltd,Part Level 3 312 St Kilda Road SOUTHBANK VIC 3006,Non-Residential Property Operators,144.9706852,-37.82909022
+2016,Southbank,Malthouse Theatre,113 Sturt Street SOUTHBANK 3006,Performing Arts Venue Operation,144.9669686,-37.82712911
+2022,Southbank,Hca Healthcare Australia,Part Level 3 312 St Kilda Road SOUTHBANK VIC 3006,Other Health Care Services n.e.c.,144.9706852,-37.82909022
+2016,Southbank,Hayball Pty Ltd,"Suite 2, Level 1, 135 Sturt Street SOUTHBANK 3006",Architectural Services,144.9668741,-37.82744146
+2022,Southbank,Urban Property Australia Pty Ltd,Part Ground 312 St Kilda Road SOUTHBANK VIC 3006,Management Advice and Other Consulting Services,144.9706852,-37.82909022
+2016,Southbank,HLS Superannuation Fund Pty Ltd,"Suite 4, Part Level 1, 135 Sturt Street SOUTHBANK 3006",Other Auxiliary Finance and Investment Services,144.9668741,-37.82744146
+2022,Southbank,Vacant,Part LwrGround 312 St Kilda Road SOUTHBANK VIC 3006,Vacant Space,144.9706852,-37.82909022
+2016,Southbank,Landmark Worldwide Pty Limited,"Part Gnd & Flr1 , 151 Sturt Street SOUTHBANK 3006",Technical and Vocational Education and Training,144.9667952,-37.82770253
+2022,Southbank,Duo Projects,Part Ground 312 St Kilda Road SOUTHBANK VIC 3006,Other Residential Building Construction,144.9706852,-37.82909022
+2016,Southbank,Vacant,"Shop 1, Part 153-159 Sturt Street SOUTHBANK 3006",Vacant Space,144.9667287,-37.82792248
+2022,Southbank,IGA Express,Ground 320-322 St Kilda Road SOUTHBANK VIC 3006,Supermarket and Grocery Stores,144.9706865,-37.82941499
+2016,Southbank,Vacant,"Shop 8, 153-159 Sturt Street SOUTHBANK 3006",Vacant Space,144.9667287,-37.82792248
+2022,Southbank,Veolia,Level 5 324 St Kilda Road SOUTHBANK VIC 3006,Engineering Design and Engineering Consulting Services,144.9706893,-37.82963551
+2016,Southbank,Vacant,"Shop 1, Part 153 Sturt Street SOUTHBANK 3006",Vacant Space,144.9667287,-37.82792248
+2022,Southbank,Wesfarmers,Ground & Level 7 324 St Kilda Road SOUTHBANK VIC 3006,General Insurance,144.9706893,-37.82963551
+2016,Southbank,Vacant,"Shop 4, 153 Sturt Street SOUTHBANK 3006",Vacant Space,144.9667287,-37.82792248
+2022,Southbank,Holmesglen Institute Of Tafe,"Ground, Level 1-2, 4 & Part Level 5, 6 332 St Kilda Road SOUTHBANK VIC 3006",Technical and Vocational Education and Training,144.970654,-37.82987354
+2016,Southbank,Vacant,"Shop 7, 153-159 Sturt Street SOUTHBANK 3006",Vacant Space,144.9667287,-37.82792248
+2022,Southbank,Vacant,Part Level 3 332 St Kilda Road SOUTHBANK VIC 3006,Vacant Space,144.970654,-37.82987354
+2016,Southbank,Citipower Pty,"Substation , 4 Wells Street SOUTHBANK 3006",Electricity Transmission,144.9679892,-37.82792586
+2022,Southbank,Ineight Pty Ltd,Part Level 3 332 St Kilda Road SOUTHBANK VIC 3006,Other Construction Services n.e.c.,144.970654,-37.82987354
+2016,Southbank,8 On Miles,"Ground , 8 Miles Street SOUTHBANK 3006",Cafes and Restaurants,144.9680307,-37.82843575
+2022,Southbank,Dimension Data,Level 2-4 & 6-7 10-16 Dorcas Street SOUTHBANK VIC 3006,Other Information Services,144.969924,-37.82991835
+2016,Southbank,Miles &  Dodd Street Park,Miles Street SOUTHBANK 3006,Nature Reserves and Conservation Parks Operation,144.967416,-37.82869655
+2022,Southbank,Dimension 5 Pty Ltd,Level 1 10-16 Dorcas Street SOUTHBANK VIC 3006,Office Administrative Services,144.969924,-37.82991835
+2016,Southbank,Electricity Substation,"Substation , 187 Sturt Street SOUTHBANK 3006",Electricity Transmission,144.9662728,-37.82867604
+2022,Southbank,Humbaba,20 Dorcas Street SOUTHBANK VIC 3006,Cafes and Restaurants,144.9695712,-37.83002099
+2016,Southbank,Optotech Pty Ltd,"Part Level 1, 175 Sturt Street SOUTHBANK 3006",Engineering Design and Engineering Consulting Services,144.9662728,-37.82867604
+2022,Southbank,Vacant,"Unit 114, Level 1 23 Coventry Street SOUTHBANK VIC 3006",Vacant Space,144.9702479,-37.82923357
+2016,Southbank,Fyfe Pty Ltd,"Part Level 1, 175 Sturt Street SOUTHBANK 3006","Other Professional, Scientific and Technical Services n.e.c.",144.9662728,-37.82867604
+2022,Southbank,Vacant,27 Coventry Street SOUTHBANK VIC 3006,Vacant Space,144.9700371,-37.82937789
+2016,Southbank,Thomson Perrett,"Part Ground , 175 Sturt Street SOUTHBANK 3006",Landscape Construction Services,144.9662728,-37.82867604
+2022,Southbank,Beevo Pty Ltd,Front Level 2 31 Coventry Street SOUTHBANK VIC 3006,Employment Placement and Recruitment Services,144.9697962,-37.82944688
+2016,Southbank,Sustainability House,"Part Level 1, 175 Sturt Street SOUTHBANK 3006",Other Specialised Design Services,144.9662728,-37.82867604
+2022,Southbank,Queenie's Restaurant & Cafe,41 Coventry Street SOUTHBANK VIC 3006,Cafes and Restaurants,144.9693922,-37.82956559
+2016,Southbank,Downstaris Bistro & Lounge,215-217 Sturt Street SOUTHBANK 3006,Cafes and Restaurants,144.9661931,-37.82969428
+2022,Southbank,Scoogle Optometrist,131 Wells Street SOUTHBANK VIC 3006,Optometry and Optical Dispensing,144.9693922,-37.82956559
+2016,Southbank,Wipro Australia Pty Ltd,"Level 4, 80 Dorcas Street SOUTHBANK 3006",Wired Telecommunications Network Operation,144.9662354,-37.83069617
+2022,Southbank,HOW GROUP PTY LTD,"Suite 2, Ground 250 St Kilda Road SOUTHBANK VIC 3006",Furniture Retailing,144.9700975,-37.82561837
+2016,Southbank,Schepisi Communications,"Part Level 1, 100 Dorcas Street SOUTHBANK 3006",Other Telecommunications Services,144.9662354,-37.83069617
+2022,Southbank,Vacant,"Building 866, 170 Southbank Boulevard SOUTHBANK VIC 3006",Vacant Space,144.9694138,-37.82453473
+2016,Southbank,Asian Pacific Group Pty Ltd,"Part Level 4, 100 Dorcas Street SOUTHBANK 3006",Non-Residential Building Construction,144.9662354,-37.83069617
+2022,Southbank,Lionel Gell Lounge,Part Building 872 Grant Street Theatre 234 St Kilda Road SOUTHBANK VIC 3006,Cafes and Restaurants,144.9694138,-37.82453473
+2016,Southbank,Insight Systems International Pty Ltd,"Part Level 1, 100 Dorcas Street SOUTHBANK 3006",Computer System Design and Related Services,144.9662354,-37.83069617
+2022,Southbank,Faculty Of The VCA & Music (Bld 860-868+871-873),"Building 864, Performing Arts Dance 234 St Kilda Road SOUTHBANK VIC 3006",Higher Education,144.9694138,-37.82453473
+2016,Southbank,Estee Lauder,"Part Level 1, 100 Dorcas Street SOUTHBANK 3006","Pharmaceutical, Cosmetic and Toiletry Goods Retailing",144.9662354,-37.83069617
+2022,Southbank,Teatro,Part 100 St Kilda Road SOUTHBANK VIC 3006,Cafes and Restaurants,144.9681703,-37.82094204
+2016,Southbank,Spectra Training,"Part Ground , 100 Dorcas Street SOUTHBANK 3006",Technical and Vocational Education and Training,144.9662354,-37.83069617
+2022,Southbank,NGV International,180 St Kilda Road SOUTHBANK VIC 3006,Museum Operation,144.9686269,-37.82273793
+2016,Southbank,MDA National,"Part Level 3, 100 Dorcas Street SOUTHBANK 3006",General Insurance,144.9662354,-37.83069617
+2022,Southbank,Melba Restaurant,Part Podium 1 Southgate Avenue SOUTHBANK VIC 3006,Cafes and Restaurants,144.9663031,-37.82071821
+2016,Southbank,The Net-Effects Group Pty Ltd,"Part Level 3, 100 Dorcas Street SOUTHBANK 3006",Computer System Design and Related Services,144.9662354,-37.83069617
+2022,Southbank,Aria Bar & Lounge,Part Podium 1 Southgate Avenue SOUTHBANK VIC 3006,"Pubs, Taverns and Bars",144.9663031,-37.82071821
+2016,Southbank,Tyco Fire Protection Products,"Part Level 3, 95 Coventry Street SOUTHBANK 3006",Fire and Security Alarm Installation Services,144.9662354,-37.83069617
+2022,Southbank,Lutheran Church Of Aust Trustees Of St Johns,St Johns Lutheran Church Southgate 16-24 City Road SOUTHBANK VIC 3006,Religious Services,144.9663031,-37.82071821
+2016,Southbank,Substantia Property Group,"Part Ground , 95 Coventry Street SOUTHBANK 3006",Real Estate Services,144.9662354,-37.83069617
+2022,Southbank,Pagemasters Pty Ltd,Part Level 8 40 City Road SOUTHBANK VIC 3006,Advertising Services,144.9663031,-37.82071821
+2016,Southbank,PFP (Aust) Pty Ltd,"Part Level 2, 95 Coventry Street SOUTHBANK 3006",Engineering Design and Engineering Consulting Services,144.9662354,-37.83069617
+2022,Southbank,Pitt & Sherry,Part Level 1 40 City Road SOUTHBANK VIC 3006,Engineering Design and Engineering Consulting Services,144.9663031,-37.82071821
+2016,Southbank,Exponential,"Part Level 1, 95 Coventry Street SOUTHBANK 3006",Advertising Services,144.9662354,-37.83069617
+2022,Southbank,Vacant,Part Level 20 40 City Road SOUTHBANK VIC 3006,Vacant Space,144.9663031,-37.82071821
+2016,Southbank,Nova Group,"Part Level 2, 95 Coventry Street SOUTHBANK 3006",Engineering Design and Engineering Consulting Services,144.9662354,-37.83069617
+2022,Southbank,Dairy Australia Limited,Level 2 & Part Level 3 40 City Road SOUTHBANK VIC 3006,Dairy Produce Wholesaling,144.9663031,-37.82071821
+2016,Southbank,Clean Energy Enterprises,"Part Ground 0, 99-0 Coventry Street SOUTHBANK 3006",Call Centre Operation,144.9662354,-37.83069617
+2022,Southbank,News Corp Australia,"Podium, Pt Gnd, Level 7, 9 ,11-12 & Part Level 10 40 City Road SOUTHBANK VIC 3006",Newspaper Publishing,144.9663031,-37.82071821
+2016,Southbank,Pentarch,"Part Level 1, 99 Coventry Street SOUTHBANK 3006",Forestry Support Services,144.9662354,-37.83069617
+2022,Southbank,Vacant,Part Level 1 40 City Road SOUTHBANK VIC 3006,Vacant Space,144.9663031,-37.82071821
+2016,Southbank,Vacant,"Part Level 1, 99 Coventry Street SOUTHBANK 3006",Vacant Space,144.9662354,-37.83069617
+2022,Southbank,Vacant,Part Level 12 60 City Road SOUTHBANK VIC 3006,Vacant Space,144.9663031,-37.82071821
+2016,Southbank,SCT Logistics,"Ground , 99 Coventry Street SOUTHBANK 3006",Rail Freight Transport,144.9662354,-37.83069617
+2022,Southbank,Stellar Asia Pacific Pty Ltd,Part Level 17 60 City Road SOUTHBANK VIC 3006,Call Centre Operation,144.9663031,-37.82071821
+2016,Southbank,Straight Arrows Inc,"Part Ground , 111 Coventry Street SOUTHBANK 3006",Other Health Care Services n.e.c.,144.9662354,-37.83069617
+2022,Southbank,Plan Australia,Level 18 60 City Road SOUTHBANK VIC 3006,Other Social Assistance Services,144.9663031,-37.82071821
+2016,Southbank,The Careers Group,"Part Level 2, 111-0 Coventry Street SOUTHBANK 3006",Higher Education,144.9662354,-37.83069617
+2022,Southbank,Celgene Pty Limited,Level 15 60 City Road SOUTHBANK VIC 3006,Human Pharmaceutical and Medicinal Product Manufacturing,144.9663031,-37.82071821
+2016,Southbank,St John of God Health Care Melbourne Office,"Part Ground , 111 Coventry Street SOUTHBANK 3006",Other Health Care Services n.e.c.,144.9662354,-37.83069617
+2022,Southbank,Seaway Agencies Pty Ltd,Part Level 8 60 City Road SOUTHBANK VIC 3006,Water Freight Transport,144.9663031,-37.82071821
+2016,Southbank,People Living With Hiv/Aids Victoria Inc / Living Positive Victoria,"Part Ground , 111 Coventry Street SOUTHBANK 3006",Other Health Care Services n.e.c.,144.9662354,-37.83069617
+2022,Southbank,Snow Brand (Australia) Pty Ltd,Part Level 10 60 City Road SOUTHBANK VIC 3006,Cheese and Other Dairy Product Manufacturing,144.9663031,-37.82071821
+2016,Southbank,Relate Empower Deliver,"Part Level 4, 111 Coventry Street SOUTHBANK 3006",Other Auxiliary Finance and Investment Services,144.9662354,-37.83069617

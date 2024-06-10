@@ -1,20 +1,13 @@
-FROM node:lts-buster AS development
+# syntax=docker/dockerfile:1.4
+FROM node:16-slim AS development
 
-# Create app directory
-WORKDIR /usr/src/app
+WORKDIR /usr/app
 
-# Copy dependency definitions
-COPY package.json /usr/src/app
-COPY package-lock.json /usr/src/app
+COPY package*.json ./
+RUN npm install
 
-# Install dependencies
-RUN npm ci
+COPY . .
 
-# Copy the rest of the application code
-COPY . /usr/src/app
-
-# Expose the port the app runs on
 EXPOSE 3000
 
-# Command to run the app
 CMD ["npm", "start"]

@@ -27,7 +27,6 @@ app.get('/health', (req, res) => {
 });
 
 app.get('/ready', (req, res) => {
-  // Add your readiness checks here
   res.status(200).send('Ready');
 });
 

@@ -1,4 +1,5 @@
 import React from "react";
+import axios from "axios";
 
 export default class Dashboard extends React.Component {
   constructor(props) {
@@ -27,12 +28,26 @@ export default class Dashboard extends React.Component {
     this.setState({ filteredData });
   };
 
+  handleDelete = (id) => {
+    axios
+      .delete(`/api/dashboards/${id}`)
+      .then(() => {
+        this.setState(prevState => ({
+          filteredData: prevState.filteredData.filter(item => item._id !== id)
+        }));
+      })
+      .catch((e) => console.log("Error deleting data:", e));
+  };
+
   renderData(data) {
     return (
       <ul className="list-group">
         {data.map((item, i) => (
           <li key={i} className="list-group-item">
             {item.census_year}: {item.trading_name} - {item.business_address}
+            <button onClick={() => this.handleDelete(item._id)} className="btn btn-danger btn-sm float-right">
+              Delete
+            </button>
           </li>
         ))}
       </ul>

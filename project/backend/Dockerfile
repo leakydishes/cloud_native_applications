@@ -1,13 +1,12 @@
 # syntax=docker/dockerfile:1.4
-FROM node:lts-buster-slim AS development
+FROM node:16-slim AS development
 
-WORKDIR /usr/src/app
+WORKDIR /usr/app
 
-COPY package.json /usr/src/app/package.json
-COPY package-lock.json /usr/src/app/package-lock.json
-RUN npm ci
+COPY package*.json ./
+RUN npm install
 
-COPY . /usr/src/app
+COPY . .
 
 EXPOSE 3000
 

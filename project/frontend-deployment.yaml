@@ -1,10 +1,9 @@
-# Google Cloud deployment
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: frontend-deployment
+  name: frontend
 spec:
-  replicas: 1
+  replicas: 2
   selector:
     matchLabels:
       app: frontend
@@ -18,71 +17,3 @@ spec:
         image: australia-southeast2-docker.pkg.dev/sit323-24t1-te-claire-15b5962/app-registry/frontend:latest
         ports:
         - containerPort: 3000
-        resources:
-          requests:
-            memory: "256Mi"
-            cpu: "500m"
-          limits:
-            memory: "512Mi"
-            cpu: "1000m"
-        livenessProbe:
-          httpGet:
-            path: /health
-            port: 3000
-          initialDelaySeconds: 10
-          periodSeconds: 5
-        readinessProbe:
-          httpGet:
-            path: /ready
-            port: 3000
-          initialDelaySeconds: 5
-          periodSeconds: 5
----
-apiVersion: v1
-kind: Service
-metadata:
-  name: frontend-service
-spec:
-  selector:
-    app: frontend
-  ports:
-    - protocol: TCP
-      port: 3000
-      targetPort: 3000
-  type: LoadBalancer
-
-
-# # Docker Desktop deployment
-# apiVersion: apps/v1
-# kind: Deployment
-# metadata:
-#   name: frontend-deployment
-# spec:
-#   replicas: 1
-#   selector:
-#     matchLabels:
-#       app: frontend
-#   template:
-#     metadata:
-#       labels:
-#         app: frontend
-#     spec:
-#       containers:
-#       - name: frontend
-#         image: your-frontend-image
-#         ports:
-#         - containerPort: 3000
-# ---
-# apiVersion: v1
-# kind: Service
-# metadata:
-#   name: frontend-service
-# spec:
-#   selector:
-#     app: frontend
-#   ports:
-#     - protocol: TCP
-#       port: 3000
-#       targetPort: 3000
-#       nodePort: 30000
-#   type: NodePort

@@ -1,10 +1,9 @@
-# Google Cloud deployment
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: backend-deployment
+  name: backend
 spec:
-  replicas: 1
+  replicas: 2
   selector:
     matchLabels:
       app: backend
@@ -19,74 +18,5 @@ spec:
         ports:
         - containerPort: 3000
         env:
-        - name: MONGODB_URI
-          value: "mongodb://mongo-service:27017/DataBuildApp"
-        resources:
-          requests:
-            memory: "256Mi"
-            cpu: "500m"
-          limits:
-            memory: "512Mi"
-            cpu: "1000m"
-        livenessProbe:
-          httpGet:
-            path: /health
-            port: 3000
-          initialDelaySeconds: 10
-          periodSeconds: 5
-        readinessProbe:
-          httpGet:
-            path: /ready
-            port: 3000
-          initialDelaySeconds: 5
-          periodSeconds: 5
----
-apiVersion: v1
-kind: Service
-metadata:
-  name: backend-service
-spec:
-  selector:
-    app: backend
-  ports:
-    - protocol: TCP
-      port: 3000
-      targetPort: 3000
-
-
-
-# Docker Desktop deployment
-# apiVersion: apps/v1
-# kind: Deployment
-# metadata:
-#   name: backend-deployment
-# spec:
-#   replicas: 1
-#   selector:
-#     matchLabels:
-#       app: backend
-#   template:
-#     metadata:
-#       labels:
-#         app: backend
-#     spec:
-#       containers:
-#       - name: backend
-#         image: your-backend-image
-#         ports:
-#         - containerPort: 3000
-#         env:
-#         - name: MONGODB_URI
-#           value: "mongodb://mongo-service:27017/DataBuildApp"
-# ---
-# apiVersion: v1
-# kind: Service
-# metadata:
-#   name: backend-service
-# spec:
-#   selector:
-#     app: backend
-#   ports:
-#     - protocol: TCP
-#       port: 3000
-#       targetPort: 3000
+        - name: MONGO_CONNECTION_STRING
+          value: mongodb://mongo:27017/DataBuildApp

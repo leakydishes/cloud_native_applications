@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: mongo-deployment
+  name: mongo
 spec:
   replicas: 1
   selector:
@@ -19,8 +19,8 @@ spec:
         - containerPort: 27017
         volumeMounts:
         - mountPath: /data/db
-          name: mongo-storage
+          name: mongo-persistent-storage
       volumes:
-      - name: mongo-storage
+      - name: mongo-persistent-storage
         persistentVolumeClaim:
           claimName: mongo-pvc

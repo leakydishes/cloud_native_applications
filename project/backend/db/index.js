@@ -1,6 +1,8 @@
-const mongoose = require('mongoose')
+const mongoose = require('mongoose');
+const { log } = require('../utils/helpers/logger');
 
-exports.connect = (app) => {
+const connect = (app) => {
+  const url = process.env.MONGO_CONNECTION_STRING;
   const options = {
     useNewUrlParser: true,
     useUnifiedTopology: true,
@@ -9,19 +11,28 @@ exports.connect = (app) => {
   };
 
   const connectWithRetry = () => {
-    mongoose.Promise = global.Promise;
-    console.log("MongoDB connection with retry");
-    mongoose
-      .connect(process.env.MONGODB_URI, options)
+    log.info("MongoDB connection with retry");
+    mongoose.connect(url, options)
       .then(() => {
-        console.log("MongoDB is connected");
-        app.emit("ready");
+        log.info("MongoDB is connected");
+        app.emit("ready");  // Ensure this line is here
       })
       .catch((err) => {
-        console.log("MongoDB connection unsuccessful, retry after 2 seconds.", err);
+        log.error("MongoDB connection unsuccessful, retry after 2 seconds.", err);
         setTimeout(connectWithRetry, 2000);
       });
   };
 
   connectWithRetry();
+
+  mongoose.connection.on("error", (err) => {
+    log.error("Error connecting to database", err);
+  });
+
+  mongoose.connection.on("disconnected", () => {
+    log.info("MongoDB disconnected, retrying connection...");
+    connectWithRetry();
+  });
 };
+
+module.exports = { connect };
