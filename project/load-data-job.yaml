@@ -7,8 +7,8 @@ spec:
     spec:
       containers:
       - name: load-data
-        image: node:16-slim # Same image as backend
-        command: ["sh", "-c", "npm install && node /scripts/loadData.js"]
+        image: node:16-slim  # Same image as your backend
+        command: ["sh", "-c", "npm cache clean --force && npm install && node /scripts/loadData.js"]
         env:
         - name: MONGO_CONNECTION_STRING
           value: mongodb://mongo:27017/DataBuildApp
