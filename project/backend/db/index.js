@@ -15,7 +15,7 @@ const connect = (app) => {
     mongoose.connect(url, options)
       .then(() => {
         log.info("MongoDB is connected");
-        app.emit("ready");  // Ensure this line is here
+        app.emit("ready");  // Confirm connection
       })
       .catch((err) => {
         log.error("MongoDB connection unsuccessful, retry after 2 seconds.", err);

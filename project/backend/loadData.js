@@ -17,7 +17,7 @@ async function loadCSVData() {
     console.log(`Connected to database: ${db.databaseName}`);
     console.log(`Using collection: ${collection.collectionName}`);
 
-    // Step 1: Delete existing data
+    // Delete data
     await collection.deleteMany({});
     console.log('Existing data deleted');
 
@@ -26,12 +26,10 @@ async function loadCSVData() {
     fs.createReadStream(csvFilePath)
       .pipe(csv())
       .on('data', (data) => {
-        // Ensure numeric fields are correctly parsed
         data.census_year = parseInt(data.census_year, 10);
         data.longitude = parseFloat(data.longitude);
         data.latitude = parseFloat(data.latitude);
 
-        // Ensure string fields are correctly handled
         data.location = data.location || "";
         data.trading_name = data.trading_name || "";
         data.business_address = data.business_address || "";

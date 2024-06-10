@@ -8,7 +8,7 @@ export default class Dashboard extends React.Component {
       census_year: "",
       clue_small_area: "",
       industry_anzsic4_description: "",
-      filteredData: this.props.data // Store filtered data separately
+      filteredData: this.props.data // Store filtered data
     };
   }
 

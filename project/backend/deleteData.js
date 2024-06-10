@@ -11,7 +11,6 @@ async function deleteData() {
     const db = client.db('DataBuildApp'); // db name
     const collection = db.collection('dashboardData'); // collection name
 
-    // Delete the specific records
     const deleteResult1 = await collection.deleteOne({ census_year: 2023, trading_name: "Business" });
     const deleteResult2 = await collection.deleteOne({ census_year: 2022, trading_name: "Business2" });
 

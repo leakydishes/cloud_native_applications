@@ -5,7 +5,6 @@ const connectWithRetry = () => {
   logger.log('info', 'MongoDB connection with retry');
   mongoose
     .connect(process.env.MONGO_CONNECTION_STRING, {
-      // Remove deprecated options
       useNewUrlParser: true,
       useUnifiedTopology: true,
     })

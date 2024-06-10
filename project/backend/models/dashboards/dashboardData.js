@@ -14,5 +14,5 @@ const dashboardSchema = new mongoose.Schema({
   latitude: { type: Number, required: true },
 });
 
-const DashboardData = mongoose.model('dashboarddatas', dashboardSchema); // Note the collection name
+const DashboardData = mongoose.model('dashboarddatas', dashboardSchema); // Collection name matches MongoDB
 module.exports = { DashboardData };

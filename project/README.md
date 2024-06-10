@@ -1,134 +1,64 @@
-## Compose sample application
-### React application with a NodeJS backend and a MongoDB database
+### DataBuild
 
-Project structure:
-```
-.
-├── backend
-│   ├── Dockerfile
-│   ...
-├── compose.yaml
-├── frontend
-│   ├── ...
-│   └── Dockerfile
-└── README.md
-```
+#### A web application that displays data from MongoDB database in a dashboard!
+- A dashboard which displays historical data from the City of Melbourne Open Data using Google Cloud Platform (GCP). 
+- The Application in GCP (Google Cloud Platform) uses Docker and Kubernetes containerisation (Clusters, MongoDb, and Vue.js) to analyses Melbourne’s environmental data to support public safety.
 
-[_compose.yaml_](compose.yaml)
-```
-services:
-  frontend:
-    build:
-      context: frontend
-    ...
-    ports:
-      - 3000:3000
-    ...
-  server:
-    container_name: server
-    restart: always
-    build:
-      context: server
-      args:
-        NODE_PORT: 3000
-    ports:
-      - 3000:3000
-    ...
-    depends_on:
-      - mongo
-  mongo:
-    container_name: mongo
-    restart: always
-    ...
-```
-The compose file defines an application with three services `frontend`, `backend` and `db`.
-When deploying the application, docker compose maps port 3000 of the frontend service container to port 3000 of the host as specified in the file.
-Make sure port 3000 on the host is not already being in use.
+#### Cloud Native Application (CNA) Main Aspects
+1. MongoDB database
+2. CRUD operations
+3. Node.js backend
+4. React Frontend
 
-## Deploy with docker compose
+#### Technology Stack
+- Frontend (ui)
+1. React: JavaScript library for user interface
+2. React Hook Form: A library for handling form validation
+3. Bootstrap: A CSS framework for design (responsive)
 
-```
-$ docker compose up -d
-Creating network "react-express-mongodb_default" with the default driver
-Building frontend
-Step 1/9 : FROM node:13.13.0-stretch-slim
- ---> aa6432763c11
-...
-Successfully tagged react-express-mongodb_app:latest
-WARNING: Image for service app was built because it did not already exist. To rebuild this image you must use `docker-compose build` or `docker-compose up --build`.
-Creating frontend        ... done
-Creating mongo           ... done
-Creating app             ... done
-```
+#### DataBuild Technology Stack
+- Backend (api)
+1. Node.js: Javascript runtime build using Chrome’s engine Version 16.0.0
+2. Express: A web application framework to support Node.js
+3. Mongoose: An ODM (Object Data Modelling library for MongoDB and Node.js)
+4. Config file: Set environment Variables/ .json for dev or test environments
 
-## Expected result
+#### DataBuild Technology Stack
+- Database (db)
+1. db/index.js as the script that connects MongoDB db - Imports mongoose library 
+2. models/dashboards/dashboadData.js sets schema and exports model
+3. MongoDB: A cloud hosted NoSQL database Service
 
-Listing containers must show containers running and the port mapping as below:
-```
-$ docker ps
-CONTAINER ID        IMAGE                               COMMAND                  CREATED             STATUS                  PORTS                      NAMES
-06e606d69a0e        react-express-mongodb_server        "docker-entrypoint.s…"   23 minutes ago      Up 23 minutes           0.0.0.0:3000->3000/tcp     server
-ff56585e1db4        react-express-mongodb_frontend      "docker-entrypoint.s…"   23 minutes ago      Up 23 minutes           0.0.0.0:3000->3000/tcp     frontend
-a1f321f06490        mongo:4.2.0                         "docker-entrypoint.s…"   23 minutes ago      Up 23 minutes           0.0.0.0:27017->27017/tcp   mongo
-```
+#### DataBuild Tools
+1. Docker: Developing, running applications in containers & MongoShell!
+2. GKE: Google Kubernetes Engine, service for deploy/ scaling apps using docker
+3. dotenv: module to load environment variables
+4. Alert Policies and Logs: Monitor and notify cluster data changes in GKE
+5. Scripts: server.js sets Express Server, ports and connects MongoDB
 
-After the application starts, navigate to `http://localhost:3000` in your web browser.
+#### User interface (dashboard) 
+- MongoDB - SQL as Google Storage with User interface (dashboard) 
+- Developed with frontend scripts data visualisations quiring / filtering and backend scripts using React and axios
+- Different /components (frontend) AddData to change the state and Dashboard to display the mongoDB data
+- App integrates AddData and Dashboard to manage app state and interactions
 
-![page](./output.png)
+#### GKE Clusters
+- zone australia-southeast2  
+- project sit323-24t1-te-claire-15b5962  
+- num-nodes=3 
+- enable-autoscaling  
+- min-nodes=1  
+- max-nodes=5
+- machine-type=e2-medium
 
-Stop and remove the containers
-```
-$ docker compose down
-Stopping server   ... done
-Stopping frontend ... done
-Stopping mongo    ... done
-Removing server   ... done
-Removing frontend ... done
-Removing mongo    ... done
-```
+#### Kubernetes
+- Deployment and Services
+1. Deployment a resource object that adds updates to application (backend-deployment.yml)
+2. Service abstraction which sets the logic of pods and the policy via DNS (backend-service.yml)
 
-##### Explanation of `docker-compose`
-
-__Version__
-
-The first line defines the version of a file. It sounds confusing :confused:. What is meant by version of file ?? 
-
-:pill: The Compose file is a YAML file defining services, networks, and volumes for a Docker application. So it is only a version of describing compose.yaml file. There are several versions of the Compose file format – 1, 2, 2.x, and 3.x.
-
-__Services__
-
-Our main goal to create a containers, it starts from here. As you can see there are three services(Docker images): 
-- First is __frontend__ 
-- Second is __server__ which is __backend - Express(NodeJS)__. I used a name server here, it's totally on you to name it __backend__.
-- Third is __mongo__ which is db __MongoDB__.
-
-##### Service app (backend - NodeJS)
-
-We make image of app from our `Dockerfile`, explanation below.
-
-__Explanation of service server__
-
-- Defining a **nodejs** service as __server__.
-- We named our **node server** container service as **server**. Assigning a name to the containers makes it easier to read when there are lot of containers on a machine, it can also avoid randomly generated container names. (Although in this case, __container_name__ is also __server__, this is merely personal preference, the name of the service and container do not have to be the same.) 
-- Docker container starts automatically if its fails.
-- Building the __server__ image using the Dockerfile from the current directory and passing an argument to the
-backend(server) `DockerFile`.
-- Mapping the host port to the container port.
-
-##### Service mongo
-
-We add another service called **mongo** but this time instead of building it from `DockerFile` we write all the instruction here directly. We simply pull down the standard __mongo image__ from the [DockerHub](https://hub.docker.com/) registry as we have done it for Node image.
-
-__Explanation of service mongo__
-
-- Defining a **mongodb** service as __mongo__.
-- Pulling the mongo 4.2.0 image image again from [DockerHub](https://hub.docker.com/).
-- Mount our current db directory to container. 
-- For persistent storage, we mount the host directory ( just like I did it in **Node** image inside `DockerFile` to reflect the changes) `/data` ( you need to create a directory in root of your project in order to save changes to locally as well) to the container directory `/data/db`, which was identified as a potential mount point in the `mongo Dockerfile` we saw earlier.
-- Mounting volumes gives us persistent storage so when starting a new container, Docker Compose will use the volume of any previous containers and copy it to the new container, ensuring that no data is lost.
-- Finally, we link/depends_on the app container to the mongo container so that the mongo service is reachable from the app service.
-- In last mapping the host port to the container port.
-
-:key: `If you wish to check your DB changes on your local machine as well. You should have installed MongoDB locally, otherwise you can't access your mongodb service of container from host machine.` 
-
-:white_check_mark: You should check your __mongo__ version is same as used in image. You can see the version of __mongo__ image in `docker-compose `file, I used __image: mongo:4.2.0__. If your mongo db version on your machine is not same then furst you have to updated your  local __mongo__ version in order to works correctly.
+#### Monitoring / Logs / Alert Policies
+- Created Alert policies
+- Email notifications for GKE Container
+1. High CPU Limit
+2. Hight Memory Limit
+3. Restarts (All containers)
