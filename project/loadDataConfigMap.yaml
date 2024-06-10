@@ -63,3 +63,14 @@ data:
     }
 
     loadCSVData();
+
+package.json: |
+  {
+    "name": "load-data-job",
+    "version": "1.0.0",
+    "dependencies": {
+      "dotenv": "^16.0.0",
+      "csv-parser": "^3.0.0",
+      "mongodb": "^6.7.0"
+    }
+  }
