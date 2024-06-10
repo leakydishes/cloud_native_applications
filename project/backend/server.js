@@ -1,33 +1,23 @@
+require('dotenv').config();
 const express = require('express');
-const path = require("path");
-const cookieParser = require("cookie-parser");
-const bodyParser = require("body-parser");
-const cors = require("cors");
-const db = require("./db");
-
+const mongoose = require('mongoose');
 const app = express();
-db.connect(app);
+const PORT = process.env.PORT || 3000;
 
-app.use(cors());
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: false }));
-app.use(cookieParser());
-app.use(express.static(path.join(__dirname, "public")));
+const connectWithRetry = () => {
+  console.log('MongoDB connection with retry');
+  mongoose.connect(process.env.MONGO_CONNECTION_STRING, { useNewUrlParser: true, useUnifiedTopology: true })
+    .then(() => {
+      console.log('MongoDB is connected');
+    })
+    .catch(err => {
+      console.log('MongoDB connection unsuccessful, retry after 2 seconds.', err);
+      setTimeout(connectWithRetry, 2000);
+    });
+};
 
-require("./routes")(app);
+connectWithRetry();
 
-app.on("ready", () => {
-  app.listen(3000, () => {
-    console.log("Server is up on port", 3000);
-  });
+app.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}`);
 });
-
-app.get('/health', (req, res) => {
-  res.status(200).send('Healthy');
-});
-
-app.get('/ready', (req, res) => {
-  res.status(200).send('Ready');
-});
-
-module.exports = app;

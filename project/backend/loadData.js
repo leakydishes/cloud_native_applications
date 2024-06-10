@@ -3,7 +3,7 @@ const fs = require('fs');
 const csv = require('csv-parser');
 const { MongoClient } = require('mongodb');
 
-const uri = process.env.MONGODB_URI || "mongodb://localhost:27017/DataBuildApp";
+const uri = process.env.MONGO_CONNECTION_STRING || "mongodb://mongo:27017/DataBuildApp";
 const csvFilePath = '/Users/teclaire/cloud_native_applications/project/mongodb/data.csv'; // path to CSV file
 
 async function loadCSVData() {
