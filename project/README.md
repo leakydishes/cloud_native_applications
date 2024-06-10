@@ -4,6 +4,8 @@
 - A dashboard which displays historical data from the City of Melbourne Open Data using Google Cloud Platform (GCP). 
 - The Application in GCP (Google Cloud Platform) uses Docker and Kubernetes containerisation (Clusters, MongoDb, and Vue.js) to analyses Melbourne’s environmental data to support public safety.
 
+![alt text](image.png)
+
 #### Cloud Native Application (CNA) Main Aspects
 1. MongoDB database
 2. CRUD operations
@@ -62,3 +64,5 @@
 1. High CPU Limit
 2. Hight Memory Limit
 3. Restarts (All containers)
+
+![alt text](teclaire_11.1HD_presentation.jpg)
