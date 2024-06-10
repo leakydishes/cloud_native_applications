@@ -1,0 +1,27 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: load-data-job
+spec:
+  template:
+    spec:
+      containers:
+      - name: load-data
+        image: node:16-slim  # The image MUST be same as backend
+        command: ["node", "/scripts/loadData.js"]
+        env:
+        - name: MONGO_CONNECTION_STRING
+          value: mongodb://mongo:27017/DataBuildApp
+        volumeMounts:
+        - name: script-volume
+          mountPath: /scripts
+        - name: csv-volume
+          mountPath: /data
+      restartPolicy: Never
+      volumes:
+      - name: script-volume
+        configMap:
+          name: loaddata-config
+      - name: csv-volume
+        hostPath:
+          path: /home/s220320033/cloud_native_applications/project/mongodb
